@@ -1,0 +1,35 @@
+.dropdown-header {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.dropdown-menu .dropdown-item {
+    white-space: normal;
+}
+
+.dropdown-menu .dropdown-header {
+    white-space: normal;
+}
+
+.faq .box-header .box-title {
+    margin-right: 15px;
+}
+
+.faq .box-header {
+    cursor: pointer;
+}
+
+body {
+    margin: auto;
+    background-color: #f5f5f5;
+    box-shadow: 0px 0px 10px 10px grey;
+}
+
+
+.sweet-alert {
+  font-family: 'Helvetica', 'Open Sans', Helvetica,Arial,sans-serif;
+}
+
+iframe {
+    max-width: 100% !important;
+}
