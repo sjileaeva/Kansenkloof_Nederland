@@ -37,7 +37,7 @@ lang[["disconnect_refresh"]] <- "Klik hier om te vernieuwen"
 
 # Welcome popup
 lang[["welcome_popup_title"]] <- "Welkom op het Dashboard Ongelijkheid in Amsterdam!"
-lang[["welcome_popup_text"]] <- "Het dashboard <i>Ongelijkheid in Amsterdam</i> geeft inzicht in de samenhang tussen de omstandigheden
+lang[["welcome_popup_text"]] <- "Het dashboard <i>Ongelijkheid in Nederland</i> geeft inzicht in de samenhang tussen de omstandigheden
       waarin kinderen opgroeien en hun uitkomsten die vanaf de geboorte tot aan de volwassenheid worden gemeten. Voor het zelf maken van een figuur:
                   <br><br><b>Stap 1:</b> kies een uitkomstmaat.
                   <br><b>Stap 2:</b> kies een kenmerk van ouders.
@@ -118,13 +118,6 @@ lang[["education_catogory_label"]] <- "Onderwijs"
 lang[["money_catogory_label"]] <- "Werk en inkomen" 
 lang[["house_catogory_label"]] <- "Wonen" 
 
-######################## FIX to names of municipalities
-# lang[["geography_label_the_netherlands"]] <- "Nederland"
-# lang[["geography_label_metropolis_amsterdam"]] <- "Metropool Amsterdam"
-# lang[["geography_label_municipalities_amsterdam"]] <- "Gemeenten in Metropool Amsterdam"
-# lang[["geography_label_districts_amsterdam"]] <- "Stadsdelen in Amsterdam"
-# lang[["geography_label_areas_amsterdam"]] <- "Gebieden in Amsterdam"
-
 lang[["geography_label_areas_drenthe"]] <- "Drenthe"
 lang[["geography_label_areas_flevoland"]] <- "Flevoland"
 lang[["geography_label_areas_friesland"]] <- "Friesland"
@@ -146,7 +139,7 @@ lang[["health_choices"]] <- c("Laag geboortegewicht" = "c00_sga",
                               "Zorgkosten" = "c11_youth_health_costs",
                               "Jeugdbescherming" = "c16_youth_protection",
                               "Zorgkosten" = "c16_youth_health_costs",
-                              "Jong ouderschap" = "c21_young_parents", # NEW OUTCOME -> on dashboard it days 35 year olds!!
+                              "Jong ouderschap" = "c21_young_parents", 
                               "Zorgkosten" = "c30_total_health_costs", 
                               "Gebruikt ziekenhuiszorg" = "c30_hospital", 
                               "Gebruikt geestelijke gezondheidszorg (specialistisch)" = "c30_specialist_mhc", 
@@ -166,13 +159,13 @@ lang[["education_choices"]] <- c("Eindtoetsadvies vmbo-GL of hoger" = "c11_vmbo_
                                  "Schooladvies lager dan eindtoetsadvies" = "c11_under_advice",
                                  "Klas ouders laag inkomen" = "c11_class_income_below_25th",
                                  "Klas ouders hoog inkomen" = "c11_class_income_above_75th",
-                                 "Klas ouders buitenland geboren" = "c11_foreign_born_parents",
+                                 "Klas ouders buitenland geboren" = "c11_class_foreign_born_parents",
                                  "Klas eindtoetsadvies vmbo-GL en hoger" = "c11_class_vmbo_gl_test",
                                  "Klas eindtoetsadvies havo en hoger" = "c11_class_havo_test",
                                  "Klas eindtoetsadvies vwo" = "c11_class_vwo_test",
                                  "Klas eindtoets lezen streefniveau" = "c11_class_reading",
                                  "Klas eindteots rekenen streefniveau" = "c11_class_math",
-                                 "Klas eindtoets taalverzorging streefniveau" = "c11_class_reading",
+                                 "Klas eindtoets taalverzorging streefniveau" = "c11_class_language",
                                  "Klassengrootte" = "c11_class_size",
                                  "Vmbo-GL of hoger" = "c16_vmbo_gl",                  
                                  "Havo of hoger" = "c16_havo",                     
@@ -205,7 +198,7 @@ lang[["house_choices"]] <- c("Woonoppervlak per lid huishouden" = "c11_living_sp
                              "Thuiswonend" = "c21_living_with_parents",
                              "Leeftijd waarop ouderlijk huis is verlaten" = "c30_age_left_parents",
                              "Woonoppervlak per lid huishouden" = "c30_living_space_pp",
-                             "Eigen woning" = "c30_homeowner")   # AANGEPAST
+                             "Eigen woning" = "c30_homeowner")  
 
 lang[["gender_choices"]] <- c("Totaal", "Mannen", "Vrouwen")
 
@@ -218,19 +211,13 @@ lang[["household_choices"]] <- c("Totaal", "Eenoudergezin", "Tweeoudergezin")
 # !!! This has to be consistent with the migration
 lang[["no_migrationbackground"]] <- "Zonder migratieachtergrond"
 
-# !!! This has to be consistent with the .rds data files and gender/migraion/household options
+# !!! This has to be consistent with the .rds data files and gender/migration/household options
 lang[["total"]] <- "Totaal"
 
 # Label identifiers
 # !!! This has to be consistent with the definition column in outcome_table.xlsx
 lang[["label_newborn"]] <- "pasgeborenen" 
 lang[["label_students_in_grade_8"]] <- "leerlingen in groep 8" 
-
-# !!! This has to be consistent with outcome_table.xlsx
-#### ADJUST ####
-# lang[["label_municipality"]] <- "Gemeente"
-# lang[["label_district"]] <- "Stadsdeel"
-# lang[["label_neighbourhood"]] <- "Wijk"
 
 lang[["label_drenthe"]] <- "Drenthe"
 lang[["label_flevoland"]] <- "Flevoland"

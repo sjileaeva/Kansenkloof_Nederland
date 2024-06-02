@@ -758,6 +758,8 @@ update_yaxis_slider <- function(data_min, data_max) {
   vals$yslider_min <- get_rounded_slider_min(data_min = data_min, vals$ysteps)
 
   # Set UI slider
+  # print(vals$yslider_min)
+  # print(data_min)
   updateSliderInput(session, "y_axis", label = lang[["y_axis_label"]], value = c(data_min, data_max),
                     min = vals$yslider_min, max = vals$yslider_max, step = vals$ysteps)
 }
@@ -770,6 +772,8 @@ update_xaxis_slider <- function(data_min, data_max) {
   vals$xslider_min <- get_rounded_slider_min(data_min = data_min, vals$xsteps, min_zero = FALSE)
 
   # Set UI slider
+  # print(vals$xslider_min)
+  # print(data_min)
   updateSliderInput(session, "x_axis", label = lang[["x_axis_label"]], value = c(data_min, data_max),
                     min = vals$xslider_min, max = vals$xslider_max, step = vals$xsteps)
 }

@@ -293,7 +293,7 @@ gen_geom_point <- function(data, color, prefix_text, postfix_text, shape) {
                                               "</br>", lang[["plot_hover_outcome"]], prefix_text, decimal2(mean), postfix_text,
                                               "</br>", lang[["plot_hover_parent_income"]] , decimal0(parents_income * 1000),
                                               "</br>", lang[["plot_hover_number_of_people"]], decimal0(N))),
-                size=3)) + scale_shape_manual("", values=shape) + scale_color_manual("", values=color) 
+                size=3)) + scale_shape_manual("", values=shape) + scale_color_manual("", values=color)
   return(plot)
 }
 
@@ -319,7 +319,7 @@ gen_regression_line <- function(data, color, polynom, linetype) {
 gen_mean_line <- function(dat, color, linetype) {
   plot <- geom_abline(
             aes(intercept = dat$mean, slope = 0),
-            linetype = linetype, size=0.5, color = color
+            linetype = linetype, linewidth=0.5, color = color
           ) 
   return(plot)
 }
@@ -328,7 +328,7 @@ gen_mean_line <- function(dat, color, linetype) {
 gen_q25_line <- function(dat, color, linetype) {
   plot <- geom_abline(
     aes(intercept = dat$quantile_25, slope = 0),
-    linetype = linetype, size=0.5, color = color
+    linetype = linetype, linewidth=0.5, color = color
   ) 
   return(plot)
 }
@@ -336,7 +336,7 @@ gen_q25_line <- function(dat, color, linetype) {
 gen_q75_line <- function(dat, color, linetype) {
   plot <- geom_abline(
     aes(intercept = dat$quantile_75, slope = 0),
-    linetype = linetype, size=0.5, color = color
+    linetype = linetype, linewidth=0.5, color = color
   ) 
   return(plot)
 }
@@ -388,7 +388,7 @@ get_rounded_slider_max <- function(data_max, steps) {
   return(slider_max_rounded)
 }
 
-get_rounded_slider_min <- function(data_min, steps, min_zero=TRUE) {
+get_rounded_slider_min <- function(data_min, steps, min_zero=FALSE) {
   num_padding_steps = 25
 
   # Calculate the minimum value of the slider to be 20 steps below 

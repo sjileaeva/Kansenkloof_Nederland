@@ -1,0 +1,551 @@
+geografie,geslacht,migratieachtergrond,huishouden,bins,uitkomst,N,mean,parents_income,opleiding_ouders,type,uitkomst_NL
+Groningen,Totaal,Totaal,Totaal,0% - 20%,c00_infant_mortality,3924,1.04485219164118,27.3598650633095,Totaal,5,Zuigelingensterfte
+Groningen,Totaal,Totaal,Totaal,20% - 40%,c00_infant_mortality,3922,0.866774844494373,51.4948233090949,Totaal,5,Zuigelingensterfte
+Groningen,Totaal,Totaal,Totaal,40% - 60%,c00_infant_mortality,3920,0.714285714285714,73.9324507698598,Totaal,5,Zuigelingensterfte
+Groningen,Totaal,Totaal,Totaal,60% - 80%,c00_infant_mortality,3920,0.663265306122449,98.1250819985234,Totaal,5,Zuigelingensterfte
+Groningen,Totaal,Totaal,Totaal,80% - 100%,c00_infant_mortality,3920,0.663265306122449,154.940825527195,Totaal,5,Zuigelingensterfte
+Groningen,Totaal,Totaal,Tweeoudergezin,0% - 20%,c00_infant_mortality,3432,1.01981351981352,33.4131531053996,Totaal,5,Zuigelingensterfte
+Groningen,Totaal,Totaal,Tweeoudergezin,20% - 40%,c00_infant_mortality,3432,0.728438228438228,59.5025074224672,Totaal,5,Zuigelingensterfte
+Groningen,Totaal,Totaal,Tweeoudergezin,40% - 60%,c00_infant_mortality,3432,0.786713286713287,79.8766938445633,Totaal,5,Zuigelingensterfte
+Groningen,Totaal,Totaal,Tweeoudergezin,60% - 80%,c00_infant_mortality,3428,0.641773628938156,102.989441117587,Totaal,5,Zuigelingensterfte
+Groningen,Totaal,Totaal,Tweeoudergezin,80% - 100%,c00_infant_mortality,3428,0.641773628938156,159.705813934271,Totaal,5,Zuigelingensterfte
+Groningen,Totaal,Zonder migratieachtergrond,Totaal,0% - 20%,c00_infant_mortality,2768,0.939306358381503,33.4716610639836,Totaal,5,Zuigelingensterfte
+Groningen,Totaal,Zonder migratieachtergrond,Totaal,20% - 40%,c00_infant_mortality,2768,0.830924855491329,60.6699139886243,Totaal,5,Zuigelingensterfte
+Groningen,Totaal,Zonder migratieachtergrond,Totaal,40% - 60%,c00_infant_mortality,2767,0.903492885405252,81.1033473922362,Totaal,5,Zuigelingensterfte
+Groningen,Totaal,Zonder migratieachtergrond,Totaal,60% - 80%,c00_infant_mortality,2764,0.615050651230101,104.091424337003,Totaal,5,Zuigelingensterfte
+Groningen,Totaal,Zonder migratieachtergrond,Totaal,80% - 100%,c00_infant_mortality,2764,0.615050651230101,158.008272114022,Totaal,5,Zuigelingensterfte
+Groningen,Totaal,Zonder migratieachtergrond,Tweeoudergezin,0% - 20%,c00_infant_mortality,2536,1.06466876971609,38.9922640790716,Totaal,5,Zuigelingensterfte
+Groningen,Totaal,Zonder migratieachtergrond,Tweeoudergezin,20% - 40%,c00_infant_mortality,2536,0.82807570977918,65.3400586057214,Totaal,5,Zuigelingensterfte
+Groningen,Totaal,Zonder migratieachtergrond,Tweeoudergezin,40% - 60%,c00_infant_mortality,2535,0.788892709594789,84.7009625758182,Totaal,5,Zuigelingensterfte
+Groningen,Totaal,Zonder migratieachtergrond,Tweeoudergezin,60% - 80%,c00_infant_mortality,2532,0.631911532385466,106.971849887398,Totaal,5,Zuigelingensterfte
+Groningen,Totaal,Zonder migratieachtergrond,Tweeoudergezin,80% - 100%,c00_infant_mortality,2532,0.631911532385466,160.721104887098,Totaal,5,Zuigelingensterfte
+Groningen,Mannen,Totaal,Totaal,0% - 20%,c00_infant_mortality,2000,1.15,27.1620619319388,Totaal,5,Zuigelingensterfte
+Groningen,Mannen,Totaal,Totaal,20% - 40%,c00_infant_mortality,2000,0.8,50.950759978351,Totaal,5,Zuigelingensterfte
+Groningen,Mannen,Totaal,Totaal,40% - 60%,c00_infant_mortality,1998,0.650801603206413,73.791408192399,Totaal,5,Zuigelingensterfte
+Groningen,Mannen,Totaal,Totaal,60% - 80%,c00_infant_mortality,1996,0.801603206412826,98.5843410556493,Totaal,5,Zuigelingensterfte
+Groningen,Mannen,Totaal,Totaal,80% - 100%,c00_infant_mortality,1996,0.601202404809619,156.443915724626,Totaal,5,Zuigelingensterfte
+Groningen,Mannen,Totaal,Tweeoudergezin,0% - 20%,c00_infant_mortality,1744,0.745412844036697,33.2749174764651,Totaal,5,Zuigelingensterfte
+Groningen,Mannen,Totaal,Tweeoudergezin,20% - 40%,c00_infant_mortality,1742,0.803543182537172,59.1348821129183,Totaal,5,Zuigelingensterfte
+Groningen,Mannen,Totaal,Tweeoudergezin,40% - 60%,c00_infant_mortality,1740,0.919540229885057,80.0360137833517,Totaal,5,Zuigelingensterfte
+Groningen,Mannen,Totaal,Tweeoudergezin,60% - 80%,c00_infant_mortality,1740,0.632183908045977,103.741936661669,Totaal,5,Zuigelingensterfte
+Groningen,Mannen,Totaal,Tweeoudergezin,80% - 100%,c00_infant_mortality,1740,0.632183908045977,161.636579088957,Totaal,5,Zuigelingensterfte
+Groningen,Vrouwen,Totaal,Totaal,0% - 20%,c00_infant_mortality,1924,1.03950103950104,27.5762736198129,Totaal,5,Zuigelingensterfte
+Groningen,Vrouwen,Totaal,Totaal,20% - 40%,c00_infant_mortality,1924,0.831600831600832,52.0758310361528,Totaal,5,Zuigelingensterfte
+Groningen,Vrouwen,Totaal,Totaal,40% - 60%,c00_infant_mortality,1924,0.77962577962578,74.099945653882,Totaal,5,Zuigelingensterfte
+Groningen,Vrouwen,Totaal,Totaal,60% - 80%,c00_infant_mortality,1924,0.51975051975052,97.7279160857433,Totaal,5,Zuigelingensterfte
+Groningen,Vrouwen,Totaal,Totaal,80% - 100%,c00_infant_mortality,1920,0.729166666666667,153.443100682793,Totaal,5,Zuigelingensterfte
+Groningen,Vrouwen,Totaal,Tweeoudergezin,0% - 20%,c00_infant_mortality,1692,1.24113475177305,33.5976155928025,Totaal,5,Zuigelingensterfte
+Groningen,Vrouwen,Totaal,Tweeoudergezin,20% - 40%,c00_infant_mortality,1690,0.710340268674442,59.9388555168589,Totaal,5,Zuigelingensterfte
+Groningen,Vrouwen,Totaal,Tweeoudergezin,40% - 60%,c00_infant_mortality,1688,0.651658767772512,79.7401858953666,Totaal,5,Zuigelingensterfte
+Groningen,Vrouwen,Totaal,Tweeoudergezin,60% - 80%,c00_infant_mortality,1688,0.651658767772512,102.231439728922,Totaal,5,Zuigelingensterfte
+Groningen,Vrouwen,Totaal,Tweeoudergezin,80% - 100%,c00_infant_mortality,1688,0.651658767772512,157.693420526989,Totaal,5,Zuigelingensterfte
+Almere,Totaal,Totaal,Totaal,0% - 20%,c00_infant_mortality,4272,0.561797752808989,28.2166343995392,Totaal,5,Zuigelingensterfte
+Almere,Totaal,Totaal,Totaal,20% - 40%,c00_infant_mortality,4272,0.795880149812734,51.5589048966301,Totaal,5,Zuigelingensterfte
+Almere,Totaal,Totaal,Totaal,40% - 60%,c00_infant_mortality,4272,0.725655430711611,70.9230813106295,Totaal,5,Zuigelingensterfte
+Almere,Totaal,Totaal,Totaal,60% - 80%,c00_infant_mortality,4268,0.84348641049672,90.4464486076664,Totaal,5,Zuigelingensterfte
+Almere,Totaal,Totaal,Totaal,80% - 100%,c00_infant_mortality,4268,0.445173383317713,135.514581218411,Totaal,5,Zuigelingensterfte
+Almere,Totaal,Totaal,Tweeoudergezin,0% - 20%,c00_infant_mortality,3568,0.476457399103139,35.4414124477012,Totaal,5,Zuigelingensterfte
+Almere,Totaal,Totaal,Tweeoudergezin,20% - 40%,c00_infant_mortality,3568,0.924887892376682,60.0546100995536,Totaal,5,Zuigelingensterfte
+Almere,Totaal,Totaal,Tweeoudergezin,40% - 60%,c00_infant_mortality,3568,0.70067264573991,76.8506542739785,Totaal,5,Zuigelingensterfte
+Almere,Totaal,Totaal,Tweeoudergezin,60% - 80%,c00_infant_mortality,3567,0.869085725214275,95.2245363425954,Totaal,5,Zuigelingensterfte
+Almere,Totaal,Totaal,Tweeoudergezin,80% - 100%,c00_infant_mortality,3564,0.39281705948372603,140.407527086827,Totaal,5,Zuigelingensterfte
+Almere,Totaal,Wel migratieachtergrond,Totaal,0% - 20%,c00_infant_mortality,2404,0.582362728785358,24.4680475261335,Totaal,5,Zuigelingensterfte
+Almere,Totaal,Wel migratieachtergrond,Totaal,20% - 40%,c00_infant_mortality,2404,0.707154742096506,42.395048863245,Totaal,5,Zuigelingensterfte
+Almere,Totaal,Wel migratieachtergrond,Totaal,40% - 60%,c00_infant_mortality,2404,0.915141430948419,61.7436021376494,Totaal,5,Zuigelingensterfte
+Almere,Totaal,Wel migratieachtergrond,Totaal,60% - 80%,c00_infant_mortality,2404,0.62396006655574,82.4977433843022,Totaal,5,Zuigelingensterfte
+Almere,Totaal,Wel migratieachtergrond,Totaal,80% - 100%,c00_infant_mortality,2400,0.458333333333333,127.297630632494,Totaal,5,Zuigelingensterfte
+Leeuwarden,Totaal,Totaal,Totaal,0% - 20%,c00_infant_mortality,2220,0.990990990990991,26.7784959559188,Totaal,5,Zuigelingensterfte
+Leeuwarden,Totaal,Totaal,Totaal,20% - 40%,c00_infant_mortality,2220,1.08108108108108,48.1227041161216,Totaal,5,Zuigelingensterfte
+Leeuwarden,Totaal,Totaal,Totaal,40% - 60%,c00_infant_mortality,2220,0.900900900900901,66.3208592702277,Totaal,5,Zuigelingensterfte
+Leeuwarden,Totaal,Totaal,Totaal,60% - 80%,c00_infant_mortality,2220,0.495495495495495,84.8845101512542,Totaal,5,Zuigelingensterfte
+Leeuwarden,Totaal,Totaal,Totaal,80% - 100%,c00_infant_mortality,2218,0.901795297102156,127.239398917381,Totaal,5,Zuigelingensterfte
+Enschede,Totaal,Totaal,Totaal,0% - 20%,c00_infant_mortality,2792,1.03868194842407,27.2797060552761,Totaal,5,Zuigelingensterfte
+Enschede,Totaal,Totaal,Totaal,20% - 40%,c00_infant_mortality,2792,0.716332378223496,47.1894255809991,Totaal,5,Zuigelingensterfte
+Enschede,Totaal,Totaal,Totaal,40% - 60%,c00_infant_mortality,2792,0.465616045845272,64.1435640957584,Totaal,5,Zuigelingensterfte
+Enschede,Totaal,Totaal,Totaal,60% - 80%,c00_infant_mortality,2790,0.43015913472804,83.0635462271414,Totaal,5,Zuigelingensterfte
+Enschede,Totaal,Totaal,Totaal,80% - 100%,c00_infant_mortality,2788,0.609756097560976,127.408336046305,Totaal,5,Zuigelingensterfte
+Zwolle,Totaal,Totaal,Totaal,0% - 20%,c00_infant_mortality,2840,0.915492957746479,33.2960856313541,Totaal,5,Zuigelingensterfte
+Zwolle,Totaal,Totaal,Totaal,20% - 40%,c00_infant_mortality,2840,0.704225352112676,59.9027172491238,Totaal,5,Zuigelingensterfte
+Zwolle,Totaal,Totaal,Totaal,40% - 60%,c00_infant_mortality,2836,0.599435825105783,78.1386618060216,Totaal,5,Zuigelingensterfte
+Zwolle,Totaal,Totaal,Totaal,60% - 80%,c00_infant_mortality,2836,0.564174894217207,97.1862132444726,Totaal,5,Zuigelingensterfte
+Zwolle,Totaal,Totaal,Totaal,80% - 100%,c00_infant_mortality,2836,0.493653032440056,144.109391108283,Totaal,5,Zuigelingensterfte
+Zwolle,Totaal,Totaal,Tweeoudergezin,0% - 20%,c00_infant_mortality,2644,0.794251134644478,38.4218999004048,Totaal,5,Zuigelingensterfte
+Zwolle,Totaal,Totaal,Tweeoudergezin,20% - 40%,c00_infant_mortality,2644,0.529500756429652,63.5634642282178,Totaal,5,Zuigelingensterfte
+Zwolle,Totaal,Totaal,Tweeoudergezin,40% - 60%,c00_infant_mortality,2644,0.529500756429652,80.7133388032194,Totaal,5,Zuigelingensterfte
+Zwolle,Totaal,Totaal,Tweeoudergezin,60% - 80%,c00_infant_mortality,2643,0.605258332187228,99.1781090641527,Totaal,5,Zuigelingensterfte
+Zwolle,Totaal,Totaal,Tweeoudergezin,80% - 100%,c00_infant_mortality,2640,0.492424242424242,146.317222261881,Totaal,5,Zuigelingensterfte
+Apeldoorn,Totaal,Totaal,Totaal,0% - 20%,c00_infant_mortality,2660,0.977443609022556,34.9851577808627,Totaal,5,Zuigelingensterfte
+Apeldoorn,Totaal,Totaal,Totaal,20% - 40%,c00_infant_mortality,2660,0.488721804511278,60.2963180231908,Totaal,5,Zuigelingensterfte
+Apeldoorn,Totaal,Totaal,Totaal,40% - 60%,c00_infant_mortality,2660,0.864661654135338,76.8759204139503,Totaal,5,Zuigelingensterfte
+Apeldoorn,Totaal,Totaal,Totaal,60% - 80%,c00_infant_mortality,2658,0.564249479119485,95.7044345896805,Totaal,5,Zuigelingensterfte
+Apeldoorn,Totaal,Totaal,Totaal,80% - 100%,c00_infant_mortality,2656,0.865963855421687,145.982779228497,Totaal,5,Zuigelingensterfte
+Apeldoorn,Totaal,Totaal,Tweeoudergezin,0% - 20%,c00_infant_mortality,2476,0.969305331179321,40.0894563877292,Totaal,5,Zuigelingensterfte
+Apeldoorn,Totaal,Totaal,Tweeoudergezin,20% - 40%,c00_infant_mortality,2472,0.485436893203883,63.4773714629263,Totaal,5,Zuigelingensterfte
+Apeldoorn,Totaal,Totaal,Tweeoudergezin,40% - 60%,c00_infant_mortality,2472,0.889967637540453,79.2007311707341,Totaal,5,Zuigelingensterfte
+Apeldoorn,Totaal,Totaal,Tweeoudergezin,60% - 80%,c00_infant_mortality,2472,0.566343042071197,97.7089969343144,Totaal,5,Zuigelingensterfte
+Apeldoorn,Totaal,Totaal,Tweeoudergezin,80% - 100%,c00_infant_mortality,2472,0.93042071197411,147.958307502074,Totaal,5,Zuigelingensterfte
+Nijmegen,Totaal,Totaal,Totaal,0% - 20%,c00_infant_mortality,3020,0.960264900662252,30.9908922738508,Totaal,5,Zuigelingensterfte
+Nijmegen,Totaal,Totaal,Totaal,20% - 40%,c00_infant_mortality,3020,0.529801324503311,57.533329959424,Totaal,5,Zuigelingensterfte
+Nijmegen,Totaal,Totaal,Totaal,40% - 60%,c00_infant_mortality,3020,0.562913907284768,79.352561047612,Totaal,5,Zuigelingensterfte
+Nijmegen,Totaal,Totaal,Totaal,60% - 80%,c00_infant_mortality,3020,0.529801324503311,102.602215202087,Totaal,5,Zuigelingensterfte
+Nijmegen,Totaal,Totaal,Totaal,80% - 100%,c00_infant_mortality,3020,0.463576158940397,157.927654933387,Totaal,5,Zuigelingensterfte
+Nijmegen,Totaal,Totaal,Tweeoudergezin,0% - 20%,c00_infant_mortality,2717,0.699287446937538,36.6610390952909,Totaal,5,Zuigelingensterfte
+Nijmegen,Totaal,Totaal,Tweeoudergezin,20% - 40%,c00_infant_mortality,2716,0.625920471281296,63.5901935460028,Totaal,5,Zuigelingensterfte
+Nijmegen,Totaal,Totaal,Tweeoudergezin,40% - 60%,c00_infant_mortality,2716,0.625920471281296,83.9164793482225,Totaal,5,Zuigelingensterfte
+Nijmegen,Totaal,Totaal,Tweeoudergezin,60% - 80%,c00_infant_mortality,2716,0.478645066273932,106.151128313047,Totaal,5,Zuigelingensterfte
+Nijmegen,Totaal,Totaal,Tweeoudergezin,80% - 100%,c00_infant_mortality,2716,0.441826215022091,161.772930044315,Totaal,5,Zuigelingensterfte
+Amersfoort,Totaal,Totaal,Totaal,0% - 20%,c00_infant_mortality,3384,0.768321513002364,37.0234742366769,Totaal,5,Zuigelingensterfte
+Amersfoort,Totaal,Totaal,Totaal,20% - 40%,c00_infant_mortality,3384,0.67966903073286,65.7380896740301,Totaal,5,Zuigelingensterfte
+Amersfoort,Totaal,Totaal,Totaal,40% - 60%,c00_infant_mortality,3383,0.473023067131087,85.6045245331035,Totaal,5,Zuigelingensterfte
+Amersfoort,Totaal,Totaal,Totaal,60% - 80%,c00_infant_mortality,3380,0.443786982248521,107.331051541099,Totaal,5,Zuigelingensterfte
+Amersfoort,Totaal,Totaal,Totaal,80% - 100%,c00_infant_mortality,3380,0.325443786982249,162.709786579657,Totaal,5,Zuigelingensterfte
+Amersfoort,Totaal,Totaal,Tweeoudergezin,0% - 20%,c00_infant_mortality,3168,0.883838383838384,42.2036549993797,Totaal,5,Zuigelingensterfte
+Amersfoort,Totaal,Totaal,Tweeoudergezin,20% - 40%,c00_infant_mortality,3168,0.536616161616162,69.4131136070338,Totaal,5,Zuigelingensterfte
+Amersfoort,Totaal,Totaal,Tweeoudergezin,40% - 60%,c00_infant_mortality,3168,0.505050505050505,88.1633705032396,Totaal,5,Zuigelingensterfte
+Amersfoort,Totaal,Totaal,Tweeoudergezin,60% - 80%,c00_infant_mortality,3164,0.442477876106195,109.542687969332,Totaal,5,Zuigelingensterfte
+Amersfoort,Totaal,Totaal,Tweeoudergezin,80% - 100%,c00_infant_mortality,3164,0.347661188369153,164.979742666986,Totaal,5,Zuigelingensterfte
+Utrecht,Totaal,Totaal,Totaal,0% - 20%,c00_infant_mortality,8436,0.699383594120436,34.8106776932691,Totaal,5,Zuigelingensterfte
+Utrecht,Totaal,Totaal,Totaal,20% - 40%,c00_infant_mortality,8436,0.651967757230915,66.7053062474092,Totaal,5,Zuigelingensterfte
+Utrecht,Totaal,Totaal,Totaal,40% - 60%,c00_infant_mortality,8433,0.569175612244623,93.4516921502493,Totaal,5,Zuigelingensterfte
+Utrecht,Totaal,Totaal,Totaal,60% - 80%,c00_infant_mortality,8432,0.699715370018975,122.429214314821,Totaal,5,Zuigelingensterfte
+Utrecht,Totaal,Totaal,Totaal,80% - 100%,c00_infant_mortality,8432,0.438804554079696,187.87675904641,Totaal,5,Zuigelingensterfte
+Utrecht,Totaal,Totaal,Tweeoudergezin,0% - 20%,c00_infant_mortality,7792,0.705852156057495,39.8028160383616,Totaal,5,Zuigelingensterfte
+Utrecht,Totaal,Totaal,Tweeoudergezin,20% - 40%,c00_infant_mortality,7789,0.629093988645724,71.7961363293649,Totaal,5,Zuigelingensterfte
+Utrecht,Totaal,Totaal,Tweeoudergezin,40% - 60%,c00_infant_mortality,7788,0.603492552645095,97.5321550553902,Totaal,5,Zuigelingensterfte
+Utrecht,Totaal,Totaal,Tweeoudergezin,60% - 80%,c00_infant_mortality,7788,0.667693888032871,125.602675258745,Totaal,5,Zuigelingensterfte
+Utrecht,Totaal,Totaal,Tweeoudergezin,80% - 100%,c00_infant_mortality,7788,0.436569080636877,191.090126208136,Totaal,5,Zuigelingensterfte
+Utrecht,Totaal,Zonder migratieachtergrond,Totaal,0% - 20%,c00_infant_mortality,4964,0.584206285253828,50.5993174275091,Totaal,5,Zuigelingensterfte
+Utrecht,Totaal,Zonder migratieachtergrond,Totaal,20% - 40%,c00_infant_mortality,4964,0.543916196615633,85.0839070194569,Totaal,5,Zuigelingensterfte
+Utrecht,Totaal,Zonder migratieachtergrond,Totaal,40% - 60%,c00_infant_mortality,4964,0.72522159548751,108.697528904165,Totaal,5,Zuigelingensterfte
+Utrecht,Totaal,Zonder migratieachtergrond,Totaal,60% - 80%,c00_infant_mortality,4960,0.504032258064516,135.084303211528,Totaal,5,Zuigelingensterfte
+Utrecht,Totaal,Zonder migratieachtergrond,Totaal,80% - 100%,c00_infant_mortality,4960,0.403225806451613,201.025683228457,Totaal,5,Zuigelingensterfte
+Utrecht,Totaal,Zonder migratieachtergrond,Tweeoudergezin,0% - 20%,c00_infant_mortality,4692,0.532821824381927,55.8370037034474,Totaal,5,Zuigelingensterfte
+Utrecht,Totaal,Zonder migratieachtergrond,Tweeoudergezin,20% - 40%,c00_infant_mortality,4692,0.532821824381927,88.3673911263522,Totaal,5,Zuigelingensterfte
+Utrecht,Totaal,Zonder migratieachtergrond,Tweeoudergezin,40% - 60%,c00_infant_mortality,4692,0.703324808184143,111.109814027473,Totaal,5,Zuigelingensterfte
+Utrecht,Totaal,Zonder migratieachtergrond,Tweeoudergezin,60% - 80%,c00_infant_mortality,4691,0.468974130682099,137.052546970614,Totaal,5,Zuigelingensterfte
+Utrecht,Totaal,Zonder migratieachtergrond,Tweeoudergezin,80% - 100%,c00_infant_mortality,4688,0.426621160409556,203.209218963191,Totaal,5,Zuigelingensterfte
+Utrecht,Totaal,Wel migratieachtergrond,Totaal,0% - 20%,c00_infant_mortality,3472,0.892857142857143,26.5784926802635,Totaal,5,Zuigelingensterfte
+Utrecht,Totaal,Wel migratieachtergrond,Totaal,20% - 40%,c00_infant_mortality,3472,0.576036866359447,46.8338923482609,Totaal,5,Zuigelingensterfte
+Utrecht,Totaal,Wel migratieachtergrond,Totaal,40% - 60%,c00_infant_mortality,3472,0.633640552995392,68.0874115490204,Totaal,5,Zuigelingensterfte
+Utrecht,Totaal,Wel migratieachtergrond,Totaal,60% - 80%,c00_infant_mortality,3472,0.720046082949309,95.9084217711728,Totaal,5,Zuigelingensterfte
+Utrecht,Totaal,Wel migratieachtergrond,Totaal,80% - 100%,c00_infant_mortality,3469,0.663007138339207,160.42193428984,Totaal,5,Zuigelingensterfte
+Utrecht,Totaal,Wel migratieachtergrond,Tweeoudergezin,0% - 20%,c00_infant_mortality,3100,0.903225806451613,30.0751559454549,Totaal,5,Zuigelingensterfte
+Utrecht,Totaal,Wel migratieachtergrond,Tweeoudergezin,20% - 40%,c00_infant_mortality,3100,0.516129032258065,51.7649530105067,Totaal,5,Zuigelingensterfte
+Utrecht,Totaal,Wel migratieachtergrond,Tweeoudergezin,40% - 60%,c00_infant_mortality,3098,0.742352254730349,72.9098285491116,Totaal,5,Zuigelingensterfte
+Utrecht,Totaal,Wel migratieachtergrond,Tweeoudergezin,60% - 80%,c00_infant_mortality,3096,0.839793281653747,100.581645191132,Totaal,5,Zuigelingensterfte
+Utrecht,Totaal,Wel migratieachtergrond,Tweeoudergezin,80% - 100%,c00_infant_mortality,3096,0.613695090439277,165.015665801002,Totaal,5,Zuigelingensterfte
+Utrecht,Mannen,Totaal,Totaal,0% - 20%,c00_infant_mortality,4312,0.695732838589981,34.8072639980264,Totaal,5,Zuigelingensterfte
+Utrecht,Mannen,Totaal,Totaal,20% - 40%,c00_infant_mortality,4312,0.718923933209648,66.9090299310036,Totaal,5,Zuigelingensterfte
+Utrecht,Mannen,Totaal,Totaal,40% - 60%,c00_infant_mortality,4312,0.417439703153989,94.0180382704307,Totaal,5,Zuigelingensterfte
+Utrecht,Mannen,Totaal,Totaal,60% - 80%,c00_infant_mortality,4312,0.463821892393321,123.02951931935,Totaal,5,Zuigelingensterfte
+Utrecht,Mannen,Totaal,Totaal,80% - 100%,c00_infant_mortality,4312,0.440630797773655,188.77928076476,Totaal,5,Zuigelingensterfte
+Utrecht,Mannen,Totaal,Tweeoudergezin,0% - 20%,c00_infant_mortality,3988,0.777331995987964,39.6935285962992,Totaal,5,Zuigelingensterfte
+Utrecht,Mannen,Totaal,Tweeoudergezin,20% - 40%,c00_infant_mortality,3987,0.702232198603844,72.0743921819056,Totaal,5,Zuigelingensterfte
+Utrecht,Mannen,Totaal,Tweeoudergezin,40% - 60%,c00_infant_mortality,3984,0.426706827309237,98.0808680267124,Totaal,5,Zuigelingensterfte
+Utrecht,Mannen,Totaal,Tweeoudergezin,60% - 80%,c00_infant_mortality,3984,0.476907630522088,126.183533505227,Totaal,5,Zuigelingensterfte
+Utrecht,Mannen,Totaal,Tweeoudergezin,80% - 100%,c00_infant_mortality,3984,0.451807228915663,192.080456805567,Totaal,5,Zuigelingensterfte
+Utrecht,Vrouwen,Totaal,Totaal,0% - 20%,c00_infant_mortality,4124,0.703200775945684,34.8148472783072,Totaal,5,Zuigelingensterfte
+Utrecht,Vrouwen,Totaal,Totaal,20% - 40%,c00_infant_mortality,4124,0.5819592628516,66.4965516676872,Totaal,5,Zuigelingensterfte
+Utrecht,Vrouwen,Totaal,Totaal,40% - 60%,c00_infant_mortality,4121,0.752191764052245,92.8682438038126,Totaal,5,Zuigelingensterfte
+Utrecht,Vrouwen,Totaal,Totaal,60% - 80%,c00_infant_mortality,4120,0.922330097087379,121.810832426701,Totaal,5,Zuigelingensterfte
+Utrecht,Vrouwen,Totaal,Totaal,80% - 100%,c00_infant_mortality,4120,0.436893203883495,186.908244197351,Totaal,5,Zuigelingensterfte
+Utrecht,Vrouwen,Totaal,Tweeoudergezin,0% - 20%,c00_infant_mortality,3804,0.630914826498423,39.917391216668896,Totaal,5,Zuigelingensterfte
+Utrecht,Vrouwen,Totaal,Tweeoudergezin,20% - 40%,c00_infant_mortality,3804,0.55205047318612,71.5186915738457,Totaal,5,Zuigelingensterfte
+Utrecht,Vrouwen,Totaal,Tweeoudergezin,40% - 60%,c00_infant_mortality,3804,0.788643533123028,96.9741047786496,Totaal,5,Zuigelingensterfte
+Utrecht,Vrouwen,Totaal,Tweeoudergezin,60% - 80%,c00_infant_mortality,3804,0.867507886435331,125.024639117626,Totaal,5,Zuigelingensterfte
+Utrecht,Vrouwen,Totaal,Tweeoudergezin,80% - 100%,c00_infant_mortality,3802,0.420831257955615,190.071804445468,Totaal,5,Zuigelingensterfte
+Utrecht,Vrouwen,Zonder migratieachtergrond,Totaal,0% - 20%,c00_infant_mortality,2424,0.66006600660066,50.6369662101241,Totaal,5,Zuigelingensterfte
+Utrecht,Vrouwen,Zonder migratieachtergrond,Totaal,20% - 40%,c00_infant_mortality,2424,0.577557755775578,84.5856771473568,Totaal,5,Zuigelingensterfte
+Utrecht,Vrouwen,Zonder migratieachtergrond,Totaal,40% - 60%,c00_infant_mortality,2424,0.825082508250825,108.122370863295,Totaal,5,Zuigelingensterfte
+Utrecht,Vrouwen,Zonder migratieachtergrond,Totaal,60% - 80%,c00_infant_mortality,2423,0.742710634699834,134.305582080047,Totaal,5,Zuigelingensterfte
+Utrecht,Vrouwen,Zonder migratieachtergrond,Totaal,80% - 100%,c00_infant_mortality,2420,0.454545454545455,199.407653487274,Totaal,5,Zuigelingensterfte
+Alkmaar,Totaal,Totaal,Totaal,0% - 20%,c00_infant_mortality,2040,1.02941176470588,33.8813500079041,Totaal,5,Zuigelingensterfte
+Alkmaar,Totaal,Totaal,Totaal,20% - 40%,c00_infant_mortality,2040,0.637254901960784,60.7825981207362,Totaal,5,Zuigelingensterfte
+Alkmaar,Totaal,Totaal,Totaal,40% - 60%,c00_infant_mortality,2040,0.53921568627451,78.6096633777765,Totaal,5,Zuigelingensterfte
+Alkmaar,Totaal,Totaal,Totaal,60% - 80%,c00_infant_mortality,2036,0.589390962671906,97.8914998752781,Totaal,5,Zuigelingensterfte
+Alkmaar,Totaal,Totaal,Totaal,80% - 100%,c00_infant_mortality,2036,0.638506876227898,146.686827209106,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Totaal,Totaal,0% - 20%,c00_infant_mortality,18651,1.1688226169247,26.6598282200621,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Totaal,Totaal,20% - 40%,c00_infant_mortality,18648,0.80973830973831,48.9294546855123,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Totaal,Totaal,40% - 60%,c00_infant_mortality,18648,0.782925782925783,74.7279796380069,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Totaal,Totaal,60% - 80%,c00_infant_mortality,18648,0.546975546975547,109.304139175836,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Totaal,Totaal,80% - 100%,c00_infant_mortality,18648,0.482625482625483,208.271812928729,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Totaal,Eenoudergezin,0% - 20%,c00_infant_mortality,3371,0.919617472943311,19.1042797072686,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Totaal,Eenoudergezin,20% - 40%,c00_infant_mortality,3368,1.06888361045131,28.8594991328124,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Totaal,Eenoudergezin,40% - 60%,c00_infant_mortality,3368,0.979809976247031,39.0036853150442,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Totaal,Eenoudergezin,60% - 80%,c00_infant_mortality,3368,0.712589073634204,56.6078067042537,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Totaal,Eenoudergezin,80% - 100%,c00_infant_mortality,3368,0.593824228028504,118.554229043044,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Totaal,Tweeoudergezin,0% - 20%,c00_infant_mortality,15211,1.01898256353168,31.7975271042966,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Totaal,Tweeoudergezin,20% - 40%,c00_infant_mortality,15208,0.808784850078906,58.2581290164978,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Totaal,Tweeoudergezin,40% - 60%,c00_infant_mortality,15208,0.611520252498685,84.8546222882665,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Totaal,Tweeoudergezin,60% - 80%,c00_infant_mortality,15208,0.49973698053656,119.11583961136,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Totaal,Tweeoudergezin,80% - 100%,c00_infant_mortality,15208,0.480010520778538,220.325648563919,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Zonder migratieachtergrond,Totaal,0% - 20%,c00_infant_mortality,6800,0.823529411764706,41.4422566733018,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Zonder migratieachtergrond,Totaal,20% - 40%,c00_infant_mortality,6796,0.64743967039435,76.565667564496,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Zonder migratieachtergrond,Totaal,40% - 60%,c00_infant_mortality,6796,0.42672160094173,105.56647792497,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Zonder migratieachtergrond,Totaal,60% - 80%,c00_infant_mortality,6796,0.515008828722778,139.96765368508,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Zonder migratieachtergrond,Totaal,80% - 100%,c00_infant_mortality,6796,0.57386698057681,248.344452065934,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Zonder migratieachtergrond,Tweeoudergezin,0% - 20%,c00_infant_mortality,5936,0.589622641509434,49.9467835077689,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Zonder migratieachtergrond,Tweeoudergezin,20% - 40%,c00_infant_mortality,5936,0.57277628032345,84.6513072394456,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Zonder migratieachtergrond,Tweeoudergezin,40% - 60%,c00_infant_mortality,5936,0.454851752021563,112.17177665582,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Zonder migratieachtergrond,Tweeoudergezin,60% - 80%,c00_infant_mortality,5934,0.488703509495759,146.043211305809,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Zonder migratieachtergrond,Tweeoudergezin,80% - 100%,c00_infant_mortality,5932,0.556304787592717,255.359688223377,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Marokko,Totaal,0% - 20%,c00_infant_mortality,2572,1.24416796267496,25.9978044133411,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Marokko,Totaal,20% - 40%,c00_infant_mortality,2572,1.08864696734059,38.1424784982464,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Marokko,Totaal,40% - 60%,c00_infant_mortality,2572,0.972006220839813,53.0048407479199,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Marokko,Totaal,60% - 80%,c00_infant_mortality,2572,0.972006220839813,70.5770512092248,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Marokko,Totaal,80% - 100%,c00_infant_mortality,2568,0.973520249221184,108.756328007276,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Marokko,Tweeoudergezin,0% - 20%,c00_infant_mortality,2232,1.47849462365591,27.6339713897575,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Marokko,Tweeoudergezin,20% - 40%,c00_infant_mortality,2232,0.896057347670251,41.0875935067309,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Marokko,Tweeoudergezin,40% - 60%,c00_infant_mortality,2232,1.0752688172043,56.0099772747578,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Marokko,Tweeoudergezin,60% - 80%,c00_infant_mortality,2228,0.942549371633752,73.3247453256993,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Marokko,Tweeoudergezin,80% - 100%,c00_infant_mortality,2228,1.03231597845601,111.619928168057,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Suriname,Totaal,0% - 20%,c00_infant_mortality,1694,1.47545051072751,21.8494030742464,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Suriname,Totaal,20% - 40%,c00_infant_mortality,1692,1.24113475177305,34.2529738682688,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Suriname,Totaal,40% - 60%,c00_infant_mortality,1692,0.945626477541371,49.1883639262784,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Suriname,Totaal,60% - 80%,c00_infant_mortality,1692,1.24113475177305,70.8563577544878,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Suriname,Totaal,80% - 100%,c00_infant_mortality,1692,0.8274231678487,123.376931512589,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Overig,Totaal,0% - 20%,c00_infant_mortality,6028,1.3271400132714,23.8395497619049,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Overig,Totaal,20% - 40%,c00_infant_mortality,6028,0.680159256801593,44.7924022291285,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Overig,Totaal,40% - 60%,c00_infant_mortality,6028,0.696748506967485,72.2083780414273,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Overig,Totaal,60% - 80%,c00_infant_mortality,6024,0.49800796812749,109.081570206915,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Overig,Totaal,80% - 100%,c00_infant_mortality,6024,0.315405046480744,213.426354825484,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Overig,Tweeoudergezin,0% - 20%,c00_infant_mortality,4936,1.1547811993517,28.1044216892441,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Overig,Tweeoudergezin,20% - 40%,c00_infant_mortality,4936,0.810372771474878,54.3985132641914,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Overig,Tweeoudergezin,40% - 60%,c00_infant_mortality,4936,0.506482982171799,82.7381577667157,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Overig,Tweeoudergezin,60% - 80%,c00_infant_mortality,4933,0.405432849475722,119.253509151525,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Overig,Tweeoudergezin,80% - 100%,c00_infant_mortality,4932,0.364963503649635,226.259605353024,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Wel migratieachtergrond,Totaal,0% - 20%,c00_infant_mortality,11852,1.3584205197435,23.9895316384828,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Wel migratieachtergrond,Totaal,20% - 40%,c00_infant_mortality,11852,0.835302058724266,39.7257804914731,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Wel migratieachtergrond,Totaal,40% - 60%,c00_infant_mortality,11852,0.885926425919676,59.5455133719727,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Wel migratieachtergrond,Totaal,60% - 80%,c00_infant_mortality,11852,0.691866351670604,87.2376064463599,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Wel migratieachtergrond,Totaal,80% - 100%,c00_infant_mortality,11851,0.480968519460016,174.844646095094,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Wel migratieachtergrond,Eenoudergezin,0% - 20%,c00_infant_mortality,2523,0.990994390360476,18.4289588267305,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Wel migratieachtergrond,Eenoudergezin,20% - 40%,c00_infant_mortality,2520,1.03174603174603,27.7460633789446,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Wel migratieachtergrond,Eenoudergezin,40% - 60%,c00_infant_mortality,2520,1.07142857142857,35.442195324245,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Wel migratieachtergrond,Eenoudergezin,60% - 80%,c00_infant_mortality,2520,0.595238095238095,49.9577835484865,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Wel migratieachtergrond,Eenoudergezin,80% - 100%,c00_infant_mortality,2520,0.873015873015873,97.1849476243924,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Wel migratieachtergrond,Tweeoudergezin,0% - 20%,c00_infant_mortality,9276,1.20741699008193,27.5812359816392,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Wel migratieachtergrond,Tweeoudergezin,20% - 40%,c00_infant_mortality,9276,0.830099180681328,47.1860258175477,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Wel migratieachtergrond,Tweeoudergezin,40% - 60%,c00_infant_mortality,9273,0.851948546742761,68.3001014302841,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Wel migratieachtergrond,Tweeoudergezin,60% - 80%,c00_infant_mortality,9272,0.647109577221743,97.0416080396803,Totaal,5,Zuigelingensterfte
+Amsterdam,Totaal,Wel migratieachtergrond,Tweeoudergezin,80% - 100%,c00_infant_mortality,9272,0.366695427092321,188.684059642963,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Totaal,Totaal,0% - 20%,c00_infant_mortality,9588,1.24113475177305,26.532757591576,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Totaal,Totaal,20% - 40%,c00_infant_mortality,9588,0.761368377138089,48.87755555673,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Totaal,Totaal,40% - 60%,c00_infant_mortality,9588,0.771798080934501,74.6868108494473,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Totaal,Totaal,60% - 80%,c00_infant_mortality,9587,0.573690297345806,109.042087691767,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Totaal,Totaal,80% - 100%,c00_infant_mortality,9584,0.500834724540901,210.209428600973,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Totaal,Tweeoudergezin,0% - 20%,c00_infant_mortality,7824,1.12474437627812,31.6835416468247,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Totaal,Tweeoudergezin,20% - 40%,c00_infant_mortality,7824,0.715746421267894,58.1515821530992,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Totaal,Tweeoudergezin,40% - 60%,c00_infant_mortality,7824,0.690184049079755,84.5647456204223,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Totaal,Tweeoudergezin,60% - 80%,c00_infant_mortality,7821,0.460305754737211,118.660583474694,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Totaal,Tweeoudergezin,80% - 100%,c00_infant_mortality,7820,0.485933503836317,222.394449646798,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Zonder migratieachtergrond,Totaal,0% - 20%,c00_infant_mortality,3500,0.914285714285714,41.4920472760174,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Zonder migratieachtergrond,Totaal,20% - 40%,c00_infant_mortality,3497,0.714906832298137,76.5518771808589,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Zonder migratieachtergrond,Totaal,40% - 60%,c00_infant_mortality,3496,0.371853546910755,105.285783164886,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Zonder migratieachtergrond,Totaal,60% - 80%,c00_infant_mortality,3496,0.51487414187643,139.529211804563,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Zonder migratieachtergrond,Totaal,80% - 100%,c00_infant_mortality,3496,0.62929061784897,250.685245230296,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Zonder migratieachtergrond,Tweeoudergezin,0% - 20%,c00_infant_mortality,3056,0.719895287958115,49.8750458925631,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Zonder migratieachtergrond,Tweeoudergezin,20% - 40%,c00_infant_mortality,3052,0.622542595019659,84.3432249950417,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Zonder migratieachtergrond,Tweeoudergezin,40% - 60%,c00_infant_mortality,3052,0.327653997378768,111.700929384925,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Zonder migratieachtergrond,Tweeoudergezin,60% - 80%,c00_infant_mortality,3052,0.458715596330275,145.532725470496,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Zonder migratieachtergrond,Tweeoudergezin,80% - 100%,c00_infant_mortality,3052,0.589777195281782,258.112902640406,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Marokko,Totaal,0% - 20%,c00_infant_mortality,1324,1.05740181268882,25.744161649305,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Marokko,Totaal,20% - 40%,c00_infant_mortality,1324,1.28398791540786,37.9441227507831,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Marokko,Totaal,40% - 60%,c00_infant_mortality,1320,0.984848484848485,52.8429668842371,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Marokko,Totaal,60% - 80%,c00_infant_mortality,1320,1.13636363636364,70.5853182646721,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Marokko,Totaal,80% - 100%,c00_infant_mortality,1320,0.909090909090909,107.540832512953,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Marokko,Tweeoudergezin,0% - 20%,c00_infant_mortality,1144,1.31118881118881,27.4047050835975,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Marokko,Tweeoudergezin,20% - 40%,c00_infant_mortality,1144,1.22377622377622,40.9564719199866,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Marokko,Tweeoudergezin,40% - 60%,c00_infant_mortality,1144,1.04895104895105,56.0098019645465,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Marokko,Tweeoudergezin,60% - 80%,c00_infant_mortality,1140,1.2280701754386,73.5026574506424,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Marokko,Tweeoudergezin,80% - 100%,c00_infant_mortality,1140,0.87719298245614,110.15541049909,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Overig,Totaal,0% - 20%,c00_infant_mortality,3080,1.42857142857143,23.7731350571164,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Overig,Totaal,20% - 40%,c00_infant_mortality,3078,0.584668907165656,44.8450814710805,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Overig,Totaal,40% - 60%,c00_infant_mortality,3076,0.780234070221066,72.1209616086011,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Overig,Totaal,60% - 80%,c00_infant_mortality,3076,0.552665799739922,109.277685434276,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Overig,Totaal,80% - 100%,c00_infant_mortality,3076,0.390117035110533,216.021692435486,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Overig,Tweeoudergezin,0% - 20%,c00_infant_mortality,2527,1.22645389075007,28.0801288945122,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Overig,Tweeoudergezin,20% - 40%,c00_infant_mortality,2524,0.752773375594295,54.2785988775865,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Overig,Tweeoudergezin,40% - 60%,c00_infant_mortality,2524,0.43581616481775,82.4600696082265,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Overig,Tweeoudergezin,60% - 80%,c00_infant_mortality,2524,0.475435816164818,119.333230940871,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Overig,Tweeoudergezin,80% - 100%,c00_infant_mortality,2524,0.43581616481775,228.727870640915,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Wel migratieachtergrond,Totaal,0% - 20%,c00_infant_mortality,6092,1.39527248850952,23.8501892182242,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Wel migratieachtergrond,Totaal,20% - 40%,c00_infant_mortality,6092,0.837163493105712,39.6460424082615,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Wel migratieachtergrond,Totaal,40% - 60%,c00_infant_mortality,6090,0.722463617436711,59.4231583644942,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Wel migratieachtergrond,Totaal,60% - 80%,c00_infant_mortality,6088,0.788436268068331,87.1126290012386,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Wel migratieachtergrond,Totaal,80% - 100%,c00_infant_mortality,6088,0.509198423127464,176.565302377544,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Wel migratieachtergrond,Tweeoudergezin,0% - 20%,c00_infant_mortality,4772,1.32020117351215,27.5369934832198,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Wel migratieachtergrond,Tweeoudergezin,20% - 40%,c00_infant_mortality,4772,0.775356244761106,47.0629642212621,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Wel migratieachtergrond,Tweeoudergezin,40% - 60%,c00_infant_mortality,4769,0.817794798517077,68.1044880991063,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Wel migratieachtergrond,Tweeoudergezin,60% - 80%,c00_infant_mortality,4768,0.608221476510067,96.7133255123069,Totaal,5,Zuigelingensterfte
+Amsterdam,Mannen,Wel migratieachtergrond,Tweeoudergezin,80% - 100%,c00_infant_mortality,4768,0.440436241610738,190.244440510143,Totaal,5,Zuigelingensterfte
+Amsterdam,Vrouwen,Totaal,Totaal,0% - 20%,c00_infant_mortality,9064,1.10326566637246,26.7949500764113,Totaal,5,Zuigelingensterfte
+Amsterdam,Vrouwen,Totaal,Totaal,20% - 40%,c00_infant_mortality,9064,0.849514563106796,48.9918720479433,Totaal,5,Zuigelingensterfte
+Amsterdam,Vrouwen,Totaal,Totaal,40% - 60%,c00_infant_mortality,9060,0.794701986754967,74.7893401167439,Totaal,5,Zuigelingensterfte
+Amsterdam,Vrouwen,Totaal,Totaal,60% - 80%,c00_infant_mortality,9060,0.518763796909492,109.603824262449,Totaal,5,Zuigelingensterfte
+Amsterdam,Vrouwen,Totaal,Totaal,80% - 100%,c00_infant_mortality,9060,0.463576158940397,206.25416448776,Totaal,5,Zuigelingensterfte
+Amsterdam,Vrouwen,Totaal,Tweeoudergezin,0% - 20%,c00_infant_mortality,7388,0.906876015159718,31.9189073611512,Totaal,5,Zuigelingensterfte
+Amsterdam,Vrouwen,Totaal,Tweeoudergezin,20% - 40%,c00_infant_mortality,7388,0.893340552246887,58.3825920223767,Totaal,5,Zuigelingensterfte
+Amsterdam,Vrouwen,Totaal,Tweeoudergezin,40% - 60%,c00_infant_mortality,7386,0.555093293508081,85.1939996545965,Totaal,5,Zuigelingensterfte
+Amsterdam,Vrouwen,Totaal,Tweeoudergezin,60% - 80%,c00_infant_mortality,7384,0.514626218851571,119.629630571855,Totaal,5,Zuigelingensterfte
+Amsterdam,Vrouwen,Totaal,Tweeoudergezin,80% - 100%,c00_infant_mortality,7384,0.487540628385699,218.169973922179,Totaal,5,Zuigelingensterfte
+Amsterdam,Vrouwen,Zonder migratieachtergrond,Totaal,0% - 20%,c00_infant_mortality,3300,0.757575757575758,41.396420097999,Totaal,5,Zuigelingensterfte
+Amsterdam,Vrouwen,Zonder migratieachtergrond,Totaal,20% - 40%,c00_infant_mortality,3300,0.545454545454546,76.5862798564736,Totaal,5,Zuigelingensterfte
+Amsterdam,Vrouwen,Zonder migratieachtergrond,Totaal,40% - 60%,c00_infant_mortality,3300,0.484848484848485,105.876360643641,Totaal,5,Zuigelingensterfte
+Amsterdam,Vrouwen,Zonder migratieachtergrond,Totaal,60% - 80%,c00_infant_mortality,3300,0.515151515151515,140.439421821792,Totaal,5,Zuigelingensterfte
+Amsterdam,Vrouwen,Zonder migratieachtergrond,Totaal,80% - 100%,c00_infant_mortality,3299,0.515335392762577,245.928473955781,Totaal,5,Zuigelingensterfte
+Amsterdam,Vrouwen,Zonder migratieachtergrond,Tweeoudergezin,0% - 20%,c00_infant_mortality,2884,0.450762829403606,50.0506201024896,Totaal,5,Zuigelingensterfte
+Amsterdam,Vrouwen,Zonder migratieachtergrond,Tweeoudergezin,20% - 40%,c00_infant_mortality,2884,0.554785020804438,85.0311111779545,Totaal,5,Zuigelingensterfte
+Amsterdam,Vrouwen,Zonder migratieachtergrond,Tweeoudergezin,40% - 60%,c00_infant_mortality,2882,0.555122129758052,112.700260234118,Totaal,5,Zuigelingensterfte
+Amsterdam,Vrouwen,Zonder migratieachtergrond,Tweeoudergezin,60% - 80%,c00_infant_mortality,2880,0.486111111111111,146.587810677702,Totaal,5,Zuigelingensterfte
+Amsterdam,Vrouwen,Zonder migratieachtergrond,Tweeoudergezin,80% - 100%,c00_infant_mortality,2880,0.555555555555556,252.434552900562,Totaal,5,Zuigelingensterfte
+Amsterdam,Vrouwen,Marokko,Totaal,0% - 20%,c00_infant_mortality,1252,1.43769968051118,26.2918747755501,Totaal,5,Zuigelingensterfte
+Amsterdam,Vrouwen,Marokko,Totaal,20% - 40%,c00_infant_mortality,1252,0.878594249201278,38.4134758349041,Totaal,5,Zuigelingensterfte
+Amsterdam,Vrouwen,Marokko,Totaal,40% - 60%,c00_infant_mortality,1248,0.961538461538461,53.2486844024465,Totaal,5,Zuigelingensterfte
+Amsterdam,Vrouwen,Marokko,Totaal,60% - 80%,c00_infant_mortality,1248,0.801282051282051,70.5996191744297,Totaal,5,Zuigelingensterfte
+Amsterdam,Vrouwen,Marokko,Totaal,80% - 100%,c00_infant_mortality,1248,1.04166666666667,110.041168587708,Totaal,5,Zuigelingensterfte
+Amsterdam,Vrouwen,Wel migratieachtergrond,Totaal,0% - 20%,c00_infant_mortality,5764,1.31852879944483,24.1427115895918,Totaal,5,Zuigelingensterfte
+Amsterdam,Vrouwen,Wel migratieachtergrond,Totaal,20% - 40%,c00_infant_mortality,5764,0.815405968077724,39.8298031535794,Totaal,5,Zuigelingensterfte
+Amsterdam,Vrouwen,Wel migratieachtergrond,Totaal,40% - 60%,c00_infant_mortality,5761,1.07623226540211,59.7060440890403,Totaal,5,Zuigelingensterfte
+Amsterdam,Vrouwen,Wel migratieachtergrond,Totaal,60% - 80%,c00_infant_mortality,5760,0.590277777777778,87.3987877243295,Totaal,5,Zuigelingensterfte
+Amsterdam,Vrouwen,Wel migratieachtergrond,Totaal,80% - 100%,c00_infant_mortality,5760,0.451388888888889,173.041461779275,Totaal,5,Zuigelingensterfte
+Amsterdam,Vrouwen,Wel migratieachtergrond,Tweeoudergezin,0% - 20%,c00_infant_mortality,4504,1.1101243339254,27.6287988016668,Totaal,5,Zuigelingensterfte
+Amsterdam,Vrouwen,Wel migratieachtergrond,Tweeoudergezin,20% - 40%,c00_infant_mortality,4504,0.865896980461812,47.3162423051741,Totaal,5,Zuigelingensterfte
+Amsterdam,Vrouwen,Wel migratieachtergrond,Tweeoudergezin,40% - 60%,c00_infant_mortality,4504,0.88809946714032,68.5086381568995,Totaal,5,Zuigelingensterfte
+Amsterdam,Vrouwen,Wel migratieachtergrond,Tweeoudergezin,60% - 80%,c00_infant_mortality,4504,0.66607460035524,97.3931345765098,Totaal,5,Zuigelingensterfte
+Amsterdam,Vrouwen,Wel migratieachtergrond,Tweeoudergezin,80% - 100%,c00_infant_mortality,4504,0.310834813499112,187.026275571959,Totaal,5,Zuigelingensterfte
+Haarlem,Totaal,Totaal,Totaal,0% - 20%,c00_infant_mortality,3276,0.732600732600733,33.6189600079012,Totaal,5,Zuigelingensterfte
+Haarlem,Totaal,Totaal,Totaal,20% - 40%,c00_infant_mortality,3276,0.763125763125763,62.6142958006135,Totaal,5,Zuigelingensterfte
+Haarlem,Totaal,Totaal,Totaal,40% - 60%,c00_infant_mortality,3276,0.671550671550672,87.141395531232,Totaal,5,Zuigelingensterfte
+Haarlem,Totaal,Totaal,Totaal,60% - 80%,c00_infant_mortality,3276,0.488400488400488,116.065529174185,Totaal,5,Zuigelingensterfte
+Haarlem,Totaal,Totaal,Totaal,80% - 100%,c00_infant_mortality,3272,0.550122249388753,186.485889497532,Totaal,5,Zuigelingensterfte
+Haarlem,Totaal,Totaal,Tweeoudergezin,0% - 20%,c00_infant_mortality,3004,0.532623169107856,38.0848184123538,Totaal,5,Zuigelingensterfte
+Haarlem,Totaal,Totaal,Tweeoudergezin,20% - 40%,c00_infant_mortality,3004,0.732356857523302,67.4145028813621,Totaal,5,Zuigelingensterfte
+Haarlem,Totaal,Totaal,Tweeoudergezin,40% - 60%,c00_infant_mortality,3004,0.699067909454061,91.4254014244143,Totaal,5,Zuigelingensterfte
+Haarlem,Totaal,Totaal,Tweeoudergezin,60% - 80%,c00_infant_mortality,3002,0.499689303151354,119.711286657847,Totaal,5,Zuigelingensterfte
+Haarlem,Totaal,Totaal,Tweeoudergezin,80% - 100%,c00_infant_mortality,3000,0.566666666666667,190.450973065397,Totaal,5,Zuigelingensterfte
+Zaanstad,Totaal,Totaal,Totaal,0% - 20%,c00_infant_mortality,2844,0.843881856540084,31.0049699205755,Totaal,5,Zuigelingensterfte
+Zaanstad,Totaal,Totaal,Totaal,20% - 40%,c00_infant_mortality,2844,0.773558368495077,55.3694220428543,Totaal,5,Zuigelingensterfte
+Zaanstad,Totaal,Totaal,Totaal,40% - 60%,c00_infant_mortality,2841,0.915047245498306,73.863079245378,Totaal,5,Zuigelingensterfte
+Zaanstad,Totaal,Totaal,Totaal,60% - 80%,c00_infant_mortality,2840,0.774647887323944,93.7295988351289,Totaal,5,Zuigelingensterfte
+Zaanstad,Totaal,Totaal,Totaal,80% - 100%,c00_infant_mortality,2840,0.563380281690141,140.180265412822,Totaal,5,Zuigelingensterfte
+Zaanstad,Totaal,Totaal,Tweeoudergezin,0% - 20%,c00_infant_mortality,2524,0.792393026941363,35.9712625015711,Totaal,5,Zuigelingensterfte
+Zaanstad,Totaal,Totaal,Tweeoudergezin,20% - 40%,c00_infant_mortality,2524,0.752773375594295,60.8159831486342,Totaal,5,Zuigelingensterfte
+Zaanstad,Totaal,Totaal,Tweeoudergezin,40% - 60%,c00_infant_mortality,2524,0.990491283676704,77.8744548538864,Totaal,5,Zuigelingensterfte
+Zaanstad,Totaal,Totaal,Tweeoudergezin,60% - 80%,c00_infant_mortality,2522,0.515432797524715,97.0323072543402,Totaal,5,Zuigelingensterfte
+Zaanstad,Totaal,Totaal,Tweeoudergezin,80% - 100%,c00_infant_mortality,2520,0.634920634920635,143.632297935294,Totaal,5,Zuigelingensterfte
+Dordrecht,Totaal,Totaal,Totaal,0% - 20%,c00_infant_mortality,2252,1.06571936056838,26.1986123373969,Totaal,5,Zuigelingensterfte
+Dordrecht,Totaal,Totaal,Totaal,20% - 40%,c00_infant_mortality,2252,0.66607460035524,49.8953986875744,Totaal,5,Zuigelingensterfte
+Dordrecht,Totaal,Totaal,Totaal,40% - 60%,c00_infant_mortality,2252,0.532859680284192,69.7063564412688,Totaal,5,Zuigelingensterfte
+Dordrecht,Totaal,Totaal,Totaal,60% - 80%,c00_infant_mortality,2249,0.488928781375827,89.3841514956652,Totaal,5,Zuigelingensterfte
+Dordrecht,Totaal,Totaal,Totaal,80% - 100%,c00_infant_mortality,2248,0.667259786476868,137.334725713932,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Totaal,Totaal,Totaal,0% - 20%,c00_infant_mortality,11033,0.824804102126313,24.4087500168862,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Totaal,Totaal,Totaal,20% - 40%,c00_infant_mortality,11032,0.843002175489485,42.7840913090498,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Totaal,Totaal,Totaal,40% - 60%,c00_infant_mortality,11032,0.62545322697607,64.9566826185725,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Totaal,Totaal,Totaal,60% - 80%,c00_infant_mortality,11032,0.562001450326323,94.195425952673,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Totaal,Totaal,Totaal,80% - 100%,c00_infant_mortality,11032,0.344452501812908,171.426432955982,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Totaal,Totaal,Tweeoudergezin,0% - 20%,c00_infant_mortality,9312,0.78393470790378,28.2716819268489,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Totaal,Totaal,Tweeoudergezin,20% - 40%,c00_infant_mortality,9312,0.826890034364261,49.7991261421852,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Totaal,Totaal,Tweeoudergezin,40% - 60%,c00_infant_mortality,9312,0.493986254295533,72.5443801607803,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Totaal,Totaal,Tweeoudergezin,60% - 80%,c00_infant_mortality,9309,0.537107716526596,101.739286138807,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Totaal,Totaal,Tweeoudergezin,80% - 100%,c00_infant_mortality,9308,0.365277180919639,179.710905590556,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Totaal,Zonder migratieachtergrond,Totaal,0% - 20%,c00_infant_mortality,3864,0.802277432712215,36.5179503014946,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Totaal,Zonder migratieachtergrond,Totaal,20% - 40%,c00_infant_mortality,3864,0.41407867494824,67.0470527358973,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Totaal,Zonder migratieachtergrond,Totaal,40% - 60%,c00_infant_mortality,3861,0.518054259324816,90.9081524562487,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Totaal,Zonder migratieachtergrond,Totaal,60% - 80%,c00_infant_mortality,3860,0.518134715025907,121.652615595994,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Totaal,Zonder migratieachtergrond,Totaal,80% - 100%,c00_infant_mortality,3860,0.336787564766839,196.912155004659,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Totaal,Zonder migratieachtergrond,Tweeoudergezin,0% - 20%,c00_infant_mortality,3452,0.724217844727694,44.590656481015,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Totaal,Zonder migratieachtergrond,Tweeoudergezin,20% - 40%,c00_infant_mortality,3452,0.347624565469293,73.6011211268512,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Totaal,Zonder migratieachtergrond,Tweeoudergezin,40% - 60%,c00_infant_mortality,3449,0.550876051544147,96.7609276719395,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Totaal,Zonder migratieachtergrond,Tweeoudergezin,60% - 80%,c00_infant_mortality,3448,0.580046403712297,126.834180370974,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Totaal,Zonder migratieachtergrond,Tweeoudergezin,80% - 100%,c00_infant_mortality,3448,0.319025522041763,202.167558960305,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Totaal,Wel migratieachtergrond,Totaal,0% - 20%,c00_infant_mortality,7172,0.808700501952036,22.0319312790037,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Totaal,Wel migratieachtergrond,Totaal,20% - 40%,c00_infant_mortality,7172,0.892359174567764,35.9592454108527,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Totaal,Wel migratieachtergrond,Totaal,40% - 60%,c00_infant_mortality,7172,0.808700501952036,52.254928471707,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Totaal,Wel migratieachtergrond,Totaal,60% - 80%,c00_infant_mortality,7168,0.627790178571429,76.601689716965,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Totaal,Wel migratieachtergrond,Totaal,80% - 100%,c00_infant_mortality,7168,0.390625,148.945359092618,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Totaal,Wel migratieachtergrond,Tweeoudergezin,0% - 20%,c00_infant_mortality,5864,0.750341064120055,24.9434149607632,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Totaal,Wel migratieachtergrond,Tweeoudergezin,20% - 40%,c00_infant_mortality,5860,0.819112627986348,40.9246501506432,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Totaal,Wel migratieachtergrond,Tweeoudergezin,40% - 60%,c00_infant_mortality,5860,0.83617747440273,58.5139985539928,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Totaal,Wel migratieachtergrond,Tweeoudergezin,60% - 80%,c00_infant_mortality,5860,0.597269624573379,83.5665858299699,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Totaal,Wel migratieachtergrond,Tweeoudergezin,80% - 100%,c00_infant_mortality,5860,0.290102389078498,158.287032815068,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Mannen,Totaal,Totaal,0% - 20%,c00_infant_mortality,5692,0.825720309205903,24.428301098922802,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Mannen,Totaal,Totaal,20% - 40%,c00_infant_mortality,5690,0.931378508390882,42.7805343504959,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Mannen,Totaal,Totaal,40% - 60%,c00_infant_mortality,5688,0.755977496483826,64.9189710613334,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Mannen,Totaal,Totaal,60% - 80%,c00_infant_mortality,5688,0.650492264416315,93.9582210258993,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Mannen,Totaal,Totaal,80% - 100%,c00_infant_mortality,5688,0.334036568213783,170.773491490772,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Mannen,Totaal,Tweeoudergezin,0% - 20%,c00_infant_mortality,4796,0.834028356964137,28.333449333282,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Mannen,Totaal,Tweeoudergezin,20% - 40%,c00_infant_mortality,4796,0.875729774812344,49.7493391033342,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Mannen,Totaal,Tweeoudergezin,40% - 60%,c00_infant_mortality,4796,0.604670558798999,72.582098421864,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Mannen,Totaal,Tweeoudergezin,60% - 80%,c00_infant_mortality,4793,0.646789687009625,101.478108238384,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Mannen,Totaal,Tweeoudergezin,80% - 100%,c00_infant_mortality,4792,0.333889816360601,179.180756285731,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Mannen,Wel migratieachtergrond,Totaal,0% - 20%,c00_infant_mortality,3700,0.702702702702703,22.0725173523314,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Mannen,Wel migratieachtergrond,Totaal,20% - 40%,c00_infant_mortality,3700,1.05405405405405,36.1143762555277,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Mannen,Wel migratieachtergrond,Totaal,40% - 60%,c00_infant_mortality,3700,0.810810810810811,52.1363105542226,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Mannen,Wel migratieachtergrond,Totaal,60% - 80%,c00_infant_mortality,3698,0.757020007020007,76.435776621942,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Mannen,Wel migratieachtergrond,Totaal,80% - 100%,c00_infant_mortality,3696,0.45995670995671,148.065629395616,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Mannen,Wel migratieachtergrond,Tweeoudergezin,0% - 20%,c00_infant_mortality,3020,0.76158940397351,25.0614712557538,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Mannen,Wel migratieachtergrond,Tweeoudergezin,20% - 40%,c00_infant_mortality,3018,0.861410227132995,40.9559608153974,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Mannen,Wel migratieachtergrond,Tweeoudergezin,40% - 60%,c00_infant_mortality,3016,0.961538461538461,58.4162635358528,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Mannen,Wel migratieachtergrond,Tweeoudergezin,60% - 80%,c00_infant_mortality,3016,0.629973474801061,83.2889900376064,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Mannen,Wel migratieachtergrond,Tweeoudergezin,80% - 100%,c00_infant_mortality,3016,0.431034482758621,157.613261438478,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Vrouwen,Totaal,Totaal,0% - 20%,c00_infant_mortality,5344,0.823353293413174,24.3923139420693,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Vrouwen,Totaal,Totaal,20% - 40%,c00_infant_mortality,5344,0.748502994011976,42.8049059468763,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Vrouwen,Totaal,Totaal,40% - 60%,c00_infant_mortality,5344,0.486526946107784,65.0192989036691,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Vrouwen,Totaal,Totaal,60% - 80%,c00_infant_mortality,5343,0.467856421987486,94.4836683961274,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Vrouwen,Totaal,Totaal,80% - 100%,c00_infant_mortality,5340,0.355805243445693,172.161288130485,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Vrouwen,Totaal,Tweeoudergezin,0% - 20%,c00_infant_mortality,4516,0.730735163861825,28.206123449165,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Vrouwen,Totaal,Tweeoudergezin,20% - 40%,c00_infant_mortality,4516,0.775022143489814,49.8519654889921,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Vrouwen,Totaal,Tweeoudergezin,40% - 60%,c00_infant_mortality,4516,0.37643932683791,72.5043285345669,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Vrouwen,Totaal,Tweeoudergezin,60% - 80%,c00_infant_mortality,4516,0.420726306465899,102.02450353623,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Vrouwen,Totaal,Tweeoudergezin,80% - 100%,c00_infant_mortality,4516,0.398582816651904,180.265383364442,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Vrouwen,Wel migratieachtergrond,Totaal,0% - 20%,c00_infant_mortality,3472,0.921658986175115,21.9903963798684,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Vrouwen,Wel migratieachtergrond,Totaal,20% - 40%,c00_infant_mortality,3472,0.720046082949309,35.7922188749066,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Vrouwen,Wel migratieachtergrond,Totaal,40% - 60%,c00_infant_mortality,3472,0.806451612903226,52.3813435294426,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Vrouwen,Wel migratieachtergrond,Totaal,60% - 80%,c00_infant_mortality,3472,0.48963133640553,76.7967878014377,Totaal,5,Zuigelingensterfte
+'s-Gravenhage,Vrouwen,Wel migratieachtergrond,Totaal,80% - 100%,c00_infant_mortality,3470,0.316986377093532,149.933955418062,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Totaal,Totaal,0% - 20%,c00_infant_mortality,13116,0.899664531869472,23.1611821707792,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Totaal,Totaal,20% - 40%,c00_infant_mortality,13113,0.686329017779309,39.9762900025367,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Totaal,Totaal,40% - 60%,c00_infant_mortality,13112,0.671140939597315,61.5020296441637,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Totaal,Totaal,60% - 80%,c00_infant_mortality,13112,0.716900549115314,87.8023533974199,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Totaal,Totaal,80% - 100%,c00_infant_mortality,13112,0.51098230628432,153.670563592769,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Totaal,Eenoudergezin,0% - 20%,c00_infant_mortality,2752,0.508720930232558,16.8082057430059,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Totaal,Eenoudergezin,20% - 40%,c00_infant_mortality,2752,0.90843023255814,25.6919371017901,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Totaal,Eenoudergezin,40% - 60%,c00_infant_mortality,2752,0.799418604651163,31.2535475526056,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Totaal,Eenoudergezin,60% - 80%,c00_infant_mortality,2752,0.508720930232558,42.7394045831898,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Totaal,Eenoudergezin,80% - 100%,c00_infant_mortality,2748,0.436681222707424,79.9515663478139,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Totaal,Tweeoudergezin,0% - 20%,c00_infant_mortality,10293,0.79664850846351,28.3777045986864,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Totaal,Tweeoudergezin,20% - 40%,c00_infant_mortality,10292,0.621842207539837,50.76858116395,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Totaal,Tweeoudergezin,40% - 60%,c00_infant_mortality,10292,0.680139914496697,71.9948637537723,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Totaal,Tweeoudergezin,60% - 80%,c00_infant_mortality,10292,0.709288767975126,97.4208338346572,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Totaal,Tweeoudergezin,80% - 100%,c00_infant_mortality,10292,0.369218810726778,164.100414154711,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Zonder migratieachtergrond,Totaal,0% - 20%,c00_infant_mortality,4524,0.508399646330681,34.9761357417075,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Zonder migratieachtergrond,Totaal,20% - 40%,c00_infant_mortality,4523,0.641221254587138,64.823745333922,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Zonder migratieachtergrond,Totaal,40% - 60%,c00_infant_mortality,4520,0.597345132743363,87.4375638501972,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Zonder migratieachtergrond,Totaal,60% - 80%,c00_infant_mortality,4520,0.553097345132743,114.465328556255,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Zonder migratieachtergrond,Totaal,80% - 100%,c00_infant_mortality,4520,0.265486725663717,186.43116016923,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Zonder migratieachtergrond,Tweeoudergezin,0% - 20%,c00_infant_mortality,3989,0.526403860881241,43.7502400275889,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Zonder migratieachtergrond,Tweeoudergezin,20% - 40%,c00_infant_mortality,3988,0.702106318956871,71.9611481383086,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Zonder migratieachtergrond,Tweeoudergezin,40% - 60%,c00_infant_mortality,3988,0.476429287863591,93.0146744033244,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Zonder migratieachtergrond,Tweeoudergezin,60% - 80%,c00_infant_mortality,3988,0.551654964894684,119.554252432099,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Zonder migratieachtergrond,Tweeoudergezin,80% - 100%,c00_infant_mortality,3988,0.250752256770311,191.69548766555,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Overig,Totaal,0% - 20%,c00_infant_mortality,3672,0.898692810457516,20.7832908421988,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Overig,Totaal,20% - 40%,c00_infant_mortality,3672,0.844226579520697,35.0848656286416,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Overig,Totaal,40% - 60%,c00_infant_mortality,3671,0.653713563457614,55.031005897119,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Overig,Totaal,60% - 80%,c00_infant_mortality,3668,0.681570338058888,81.7891253236747,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Overig,Totaal,80% - 100%,c00_infant_mortality,3668,0.572519083969466,149.42840367445,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Overig,Tweeoudergezin,0% - 20%,c00_infant_mortality,2764,0.723589001447178,24.9885777969605,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Overig,Tweeoudergezin,20% - 40%,c00_infant_mortality,2764,0.832127351664255,46.000511260818,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Overig,Tweeoudergezin,40% - 60%,c00_infant_mortality,2760,0.688405797101449,67.0687497637899,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Overig,Tweeoudergezin,60% - 80%,c00_infant_mortality,2760,0.507246376811594,93.5042737756221,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Overig,Tweeoudergezin,80% - 100%,c00_infant_mortality,2760,0.543478260869565,162.362740671937,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Wel migratieachtergrond,Totaal,0% - 20%,c00_infant_mortality,8592,0.977653631284916,21.0397901332175,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Wel migratieachtergrond,Totaal,20% - 40%,c00_infant_mortality,8592,0.872905027932961,33.4061120249358,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Wel migratieachtergrond,Totaal,40% - 60%,c00_infant_mortality,8592,0.74487895716946,49.2493459792877,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Wel migratieachtergrond,Totaal,60% - 80%,c00_infant_mortality,8592,0.66340782122905,71.269085541536,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Wel migratieachtergrond,Totaal,80% - 100%,c00_infant_mortality,8590,0.710103700195761,126.969293336676,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Wel migratieachtergrond,Eenoudergezin,0% - 20%,c00_infant_mortality,2236,0.581395348837209,16.2679567143969,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Wel migratieachtergrond,Eenoudergezin,20% - 40%,c00_infant_mortality,2236,0.983899821109123,25.1301206909293,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Wel migratieachtergrond,Eenoudergezin,40% - 60%,c00_infant_mortality,2236,0.849731663685152,30.3027853711877,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Wel migratieachtergrond,Eenoudergezin,60% - 80%,c00_infant_mortality,2236,0.670840787119857,40.243251696642,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Wel migratieachtergrond,Eenoudergezin,80% - 100%,c00_infant_mortality,2233,0.492430800007694,72.154834562624,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Wel migratieachtergrond,Tweeoudergezin,0% - 20%,c00_infant_mortality,6304,0.87246192893401,24.9505004715027,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Wel migratieachtergrond,Tweeoudergezin,20% - 40%,c00_infant_mortality,6304,0.555203045685279,41.2947743823704,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Wel migratieachtergrond,Tweeoudergezin,40% - 60%,c00_infant_mortality,6304,0.729695431472081,59.2071723791609,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Wel migratieachtergrond,Tweeoudergezin,60% - 80%,c00_infant_mortality,6304,0.809010152284264,80.959362581091,Totaal,5,Zuigelingensterfte
+Rotterdam,Totaal,Wel migratieachtergrond,Tweeoudergezin,80% - 100%,c00_infant_mortality,6304,0.634517766497462,138.361261374226,Totaal,5,Zuigelingensterfte
+Rotterdam,Mannen,Totaal,Totaal,0% - 20%,c00_infant_mortality,6752,0.933056872037915,23.0921934790948,Totaal,5,Zuigelingensterfte
+Rotterdam,Mannen,Totaal,Totaal,20% - 40%,c00_infant_mortality,6750,0.711067277789171,39.8000241862736,Totaal,5,Zuigelingensterfte
+Rotterdam,Mannen,Totaal,Totaal,40% - 60%,c00_infant_mortality,6748,0.740960284528749,61.3705198675485,Totaal,5,Zuigelingensterfte
+Rotterdam,Mannen,Totaal,Totaal,60% - 80%,c00_infant_mortality,6748,0.681683461766449,87.6637231323716,Totaal,5,Zuigelingensterfte
+Rotterdam,Mannen,Totaal,Totaal,80% - 100%,c00_infant_mortality,6748,0.489033787788974,152.134981411803,Totaal,5,Zuigelingensterfte
+Rotterdam,Mannen,Totaal,Tweeoudergezin,0% - 20%,c00_infant_mortality,5304,0.810708898944193,28.2482149117903,Totaal,5,Zuigelingensterfte
+Rotterdam,Mannen,Totaal,Tweeoudergezin,20% - 40%,c00_infant_mortality,5304,0.52790346907994,50.6654538572293,Totaal,5,Zuigelingensterfte
+Rotterdam,Mannen,Totaal,Tweeoudergezin,40% - 60%,c00_infant_mortality,5302,0.622428071373687,71.9392771190218,Totaal,5,Zuigelingensterfte
+Rotterdam,Mannen,Totaal,Tweeoudergezin,60% - 80%,c00_infant_mortality,5300,0.641509433962264,97.1807183366834,Totaal,5,Zuigelingensterfte
+Rotterdam,Mannen,Totaal,Tweeoudergezin,80% - 100%,c00_infant_mortality,5300,0.39622641509434,162.401916842083,Totaal,5,Zuigelingensterfte
+Rotterdam,Mannen,Zonder migratieachtergrond,Totaal,0% - 20%,c00_infant_mortality,2320,0.646551724137931,34.679979773951,Totaal,5,Zuigelingensterfte
+Rotterdam,Mannen,Zonder migratieachtergrond,Totaal,20% - 40%,c00_infant_mortality,2320,0.689655172413793,64.6809532460284,Totaal,5,Zuigelingensterfte
+Rotterdam,Mannen,Zonder migratieachtergrond,Totaal,40% - 60%,c00_infant_mortality,2318,0.604192722291704,87.210250199936,Totaal,5,Zuigelingensterfte
+Rotterdam,Mannen,Zonder migratieachtergrond,Totaal,60% - 80%,c00_infant_mortality,2316,0.431778929188256,113.606797948763,Totaal,5,Zuigelingensterfte
+Rotterdam,Mannen,Zonder migratieachtergrond,Totaal,80% - 100%,c00_infant_mortality,2316,0.431778929188256,182.82842932704,Totaal,5,Zuigelingensterfte
+Rotterdam,Mannen,Wel migratieachtergrond,Totaal,0% - 20%,c00_infant_mortality,4432,1.01534296028881,20.987017210844,Totaal,5,Zuigelingensterfte
+Rotterdam,Mannen,Wel migratieachtergrond,Totaal,20% - 40%,c00_infant_mortality,4432,0.925090252707581,33.3115693378998,Totaal,5,Zuigelingensterfte
+Rotterdam,Mannen,Wel migratieachtergrond,Totaal,40% - 60%,c00_infant_mortality,4432,0.609205776173285,49.2181677086482,Totaal,5,Zuigelingensterfte
+Rotterdam,Mannen,Wel migratieachtergrond,Totaal,60% - 80%,c00_infant_mortality,4432,0.744584837545126,71.2946560021679,Totaal,5,Zuigelingensterfte
+Rotterdam,Mannen,Wel migratieachtergrond,Totaal,80% - 100%,c00_infant_mortality,4428,0.654923215898826,127.118515084803,Totaal,5,Zuigelingensterfte
+Rotterdam,Mannen,Wel migratieachtergrond,Tweeoudergezin,0% - 20%,c00_infant_mortality,3264,0.796568627450981,24.8612896120534,Totaal,5,Zuigelingensterfte
+Rotterdam,Mannen,Wel migratieachtergrond,Tweeoudergezin,20% - 40%,c00_infant_mortality,3264,0.582107843137255,41.208335013272,Totaal,5,Zuigelingensterfte
+Rotterdam,Mannen,Wel migratieachtergrond,Tweeoudergezin,40% - 60%,c00_infant_mortality,3264,0.551470588235294,59.1030209145549,Totaal,5,Zuigelingensterfte
+Rotterdam,Mannen,Wel migratieachtergrond,Tweeoudergezin,60% - 80%,c00_infant_mortality,3264,0.827205882352941,80.9482906674721,Totaal,5,Zuigelingensterfte
+Rotterdam,Mannen,Wel migratieachtergrond,Tweeoudergezin,80% - 100%,c00_infant_mortality,3263,0.490271261878985,138.492738664317,Totaal,5,Zuigelingensterfte
+Rotterdam,Vrouwen,Totaal,Totaal,0% - 20%,c00_infant_mortality,6364,0.848522941546197,23.2358314762947,Totaal,5,Zuigelingensterfte
+Rotterdam,Vrouwen,Totaal,Totaal,20% - 40%,c00_infant_mortality,6364,0.659962287869265,40.1643611321742,Totaal,5,Zuigelingensterfte
+Rotterdam,Vrouwen,Totaal,Totaal,40% - 60%,c00_infant_mortality,6364,0.628535512256443,61.6451344493939,Totaal,5,Zuigelingensterfte
+Rotterdam,Vrouwen,Totaal,Totaal,60% - 80%,c00_infant_mortality,6364,0.73852922690132,87.956486163573,Totaal,5,Zuigelingensterfte
+Rotterdam,Vrouwen,Totaal,Totaal,80% - 100%,c00_infant_mortality,6363,0.534314481221019,155.316197544923,Totaal,5,Zuigelingensterfte
+Rotterdam,Vrouwen,Totaal,Tweeoudergezin,0% - 20%,c00_infant_mortality,4992,0.78125,28.5208494855096,Totaal,5,Zuigelingensterfte
+Rotterdam,Vrouwen,Totaal,Tweeoudergezin,20% - 40%,c00_infant_mortality,4992,0.721153846153846,50.8994579252632,Totaal,5,Zuigelingensterfte
+Rotterdam,Vrouwen,Totaal,Tweeoudergezin,40% - 60%,c00_infant_mortality,4991,0.741330475191742,72.0900200832645,Totaal,5,Zuigelingensterfte
+Rotterdam,Vrouwen,Totaal,Tweeoudergezin,60% - 80%,c00_infant_mortality,4988,0.781876503608661,97.7166502660639,Totaal,5,Zuigelingensterfte
+Rotterdam,Vrouwen,Totaal,Tweeoudergezin,80% - 100%,c00_infant_mortality,4988,0.340817963111468,165.940630938076,Totaal,5,Zuigelingensterfte
+Rotterdam,Vrouwen,Overig,Totaal,0% - 20%,c00_infant_mortality,1776,0.731981981981982,21.0400034960434,Totaal,5,Zuigelingensterfte
+Rotterdam,Vrouwen,Overig,Totaal,20% - 40%,c00_infant_mortality,1776,0.844594594594595,35.6571652666722,Totaal,5,Zuigelingensterfte
+Rotterdam,Vrouwen,Overig,Totaal,40% - 60%,c00_infant_mortality,1774,0.845484310495597,55.2844598624399,Totaal,5,Zuigelingensterfte
+Rotterdam,Vrouwen,Overig,Totaal,60% - 80%,c00_infant_mortality,1772,0.677200902934537,81.947656008313,Totaal,5,Zuigelingensterfte
+Rotterdam,Vrouwen,Overig,Totaal,80% - 100%,c00_infant_mortality,1772,0.677200902934537,150.21334778133,Totaal,5,Zuigelingensterfte
+Rotterdam,Vrouwen,Wel migratieachtergrond,Totaal,0% - 20%,c00_infant_mortality,4162,0.937130532771743,21.1016334268849,Totaal,5,Zuigelingensterfte
+Rotterdam,Vrouwen,Wel migratieachtergrond,Totaal,20% - 40%,c00_infant_mortality,4160,0.817307692307692,33.5135424045739,Totaal,5,Zuigelingensterfte
+Rotterdam,Vrouwen,Wel migratieachtergrond,Totaal,40% - 60%,c00_infant_mortality,4160,0.889423076923077,49.2907481541146,Totaal,5,Zuigelingensterfte
+Rotterdam,Vrouwen,Wel migratieachtergrond,Totaal,60% - 80%,c00_infant_mortality,4160,0.576923076923077,71.2551187336624,Totaal,5,Zuigelingensterfte
+Rotterdam,Vrouwen,Wel migratieachtergrond,Totaal,80% - 100%,c00_infant_mortality,4160,0.769230769230769,126.815502286991,Totaal,5,Zuigelingensterfte
+Rotterdam,Vrouwen,Wel migratieachtergrond,Tweeoudergezin,0% - 20%,c00_infant_mortality,3041,0.920750051870807,25.0560730991253,Totaal,5,Zuigelingensterfte
+Rotterdam,Vrouwen,Wel migratieachtergrond,Tweeoudergezin,20% - 40%,c00_infant_mortality,3040,0.559210526315789,41.3898275457379,Totaal,5,Zuigelingensterfte
+Rotterdam,Vrouwen,Wel migratieachtergrond,Tweeoudergezin,40% - 60%,c00_infant_mortality,3040,0.921052631578947,59.3257946974439,Totaal,5,Zuigelingensterfte
+Rotterdam,Vrouwen,Wel migratieachtergrond,Tweeoudergezin,60% - 80%,c00_infant_mortality,3040,0.789473684210526,80.9795130719138,Totaal,5,Zuigelingensterfte
+Rotterdam,Vrouwen,Wel migratieachtergrond,Tweeoudergezin,80% - 100%,c00_infant_mortality,3040,0.789473684210526,138.255675486121,Totaal,5,Zuigelingensterfte
+Zoetermeer,Totaal,Totaal,Totaal,0% - 20%,c00_infant_mortality,2320,1.12068965517241,31.581385459719,Totaal,5,Zuigelingensterfte
+Zoetermeer,Totaal,Totaal,Totaal,20% - 40%,c00_infant_mortality,2320,0.689655172413793,58.4352314663408,Totaal,5,Zuigelingensterfte
+Zoetermeer,Totaal,Totaal,Totaal,40% - 60%,c00_infant_mortality,2320,0.517241379310345,77.8959993627797,Totaal,5,Zuigelingensterfte
+Zoetermeer,Totaal,Totaal,Totaal,60% - 80%,c00_infant_mortality,2320,0.474137931034483,98.2804696791518,Totaal,5,Zuigelingensterfte
+Zoetermeer,Totaal,Totaal,Totaal,80% - 100%,c00_infant_mortality,2320,1.16379310344828,142.837512752036,Totaal,5,Zuigelingensterfte
+Breda,Totaal,Totaal,Totaal,0% - 20%,c00_infant_mortality,3340,0.898203592814371,32.6882654665024,Totaal,5,Zuigelingensterfte
+Breda,Totaal,Totaal,Totaal,20% - 40%,c00_infant_mortality,3340,0.62874251497006,62.2098080476839,Totaal,5,Zuigelingensterfte
+Breda,Totaal,Totaal,Totaal,40% - 60%,c00_infant_mortality,3338,0.509305130745703,85.2303824156534,Totaal,5,Zuigelingensterfte
+Breda,Totaal,Totaal,Totaal,60% - 80%,c00_infant_mortality,3336,0.38968824940048,110.652476405199,Totaal,5,Zuigelingensterfte
+Breda,Totaal,Totaal,Totaal,80% - 100%,c00_infant_mortality,3336,0.419664268585132,174.03558898754,Totaal,5,Zuigelingensterfte
+Breda,Totaal,Totaal,Tweeoudergezin,0% - 20%,c00_infant_mortality,3056,0.75261780104712,38.6770202508778,Totaal,5,Zuigelingensterfte
+Breda,Totaal,Totaal,Tweeoudergezin,20% - 40%,c00_infant_mortality,3056,0.556282722513089,67.6789451064851,Totaal,5,Zuigelingensterfte
+Breda,Totaal,Totaal,Tweeoudergezin,40% - 60%,c00_infant_mortality,3053,0.45858693638366,89.2118696218393,Totaal,5,Zuigelingensterfte
+Breda,Totaal,Totaal,Tweeoudergezin,60% - 80%,c00_infant_mortality,3052,0.425950196592398,113.767872104758,Totaal,5,Zuigelingensterfte
+Breda,Totaal,Totaal,Tweeoudergezin,80% - 100%,c00_infant_mortality,3052,0.425950196592398,177.566699454764,Totaal,5,Zuigelingensterfte
+Eindhoven,Totaal,Totaal,Totaal,0% - 20%,c00_infant_mortality,4132,0.847047434656341,29.9519974652755,Totaal,5,Zuigelingensterfte
+Eindhoven,Totaal,Totaal,Totaal,20% - 40%,c00_infant_mortality,4129,0.702425576142341,55.9358785069502,Totaal,5,Zuigelingensterfte
+Eindhoven,Totaal,Totaal,Totaal,40% - 60%,c00_infant_mortality,4128,0.314922480620155,76.7660314805802,Totaal,5,Zuigelingensterfte
+Eindhoven,Totaal,Totaal,Totaal,60% - 80%,c00_infant_mortality,4128,0.436046511627907,101.001085214677,Totaal,5,Zuigelingensterfte
+Eindhoven,Totaal,Totaal,Totaal,80% - 100%,c00_infant_mortality,4128,0.484496124031008,159.363444179785,Totaal,5,Zuigelingensterfte
+Eindhoven,Totaal,Totaal,Tweeoudergezin,0% - 20%,c00_infant_mortality,3716,0.538213132400431,36.1167675149579,Totaal,5,Zuigelingensterfte
+Eindhoven,Totaal,Totaal,Tweeoudergezin,20% - 40%,c00_infant_mortality,3716,0.672766415500538,61.5295850308474,Totaal,5,Zuigelingensterfte
+Eindhoven,Totaal,Totaal,Tweeoudergezin,40% - 60%,c00_infant_mortality,3716,0.34983853606028,81.305965423655607,Totaal,5,Zuigelingensterfte
+Eindhoven,Totaal,Totaal,Tweeoudergezin,60% - 80%,c00_infant_mortality,3715,0.484536811922349,104.869921509232,Totaal,5,Zuigelingensterfte
+Eindhoven,Totaal,Totaal,Tweeoudergezin,80% - 100%,c00_infant_mortality,3712,0.457974137931034,163.056993991621,Totaal,5,Zuigelingensterfte
+Tilburg,Totaal,Totaal,Totaal,0% - 20%,c00_infant_mortality,3872,0.826446280991736,28.9116080075327,Totaal,5,Zuigelingensterfte
+Tilburg,Totaal,Totaal,Totaal,20% - 40%,c00_infant_mortality,3872,0.619834710743802,53.6800031903864,Totaal,5,Zuigelingensterfte
+Tilburg,Totaal,Totaal,Totaal,40% - 60%,c00_infant_mortality,3870,0.516902834873127,73.0926534812459,Totaal,5,Zuigelingensterfte
+Tilburg,Totaal,Totaal,Totaal,60% - 80%,c00_infant_mortality,3868,0.413650465356774,93.2361368621725,Totaal,5,Zuigelingensterfte
+Tilburg,Totaal,Totaal,Totaal,80% - 100%,c00_infant_mortality,3868,0.749741468459152,139.696073202201,Totaal,5,Zuigelingensterfte
+Tilburg,Totaal,Totaal,Tweeoudergezin,0% - 20%,c00_infant_mortality,3439,0.668773858190974,35.2208061278541,Totaal,5,Zuigelingensterfte
+Tilburg,Totaal,Totaal,Tweeoudergezin,20% - 40%,c00_infant_mortality,3436,0.465657741559953,60.2242608592386,Totaal,5,Zuigelingensterfte
+Tilburg,Totaal,Totaal,Tweeoudergezin,40% - 60%,c00_infant_mortality,3436,0.552968568102445,77.5471771737649,Totaal,5,Zuigelingensterfte
+Tilburg,Totaal,Totaal,Tweeoudergezin,60% - 80%,c00_infant_mortality,3436,0.436554132712456,96.6560814071095,Totaal,5,Zuigelingensterfte
+Tilburg,Totaal,Totaal,Tweeoudergezin,80% - 100%,c00_infant_mortality,3436,0.727590221187427,142.973307104629,Totaal,5,Zuigelingensterfte
+Tilburg,Totaal,Zonder migratieachtergrond,Totaal,0% - 20%,c00_infant_mortality,2384,0.713087248322148,39.232820325304,Totaal,5,Zuigelingensterfte
+Tilburg,Totaal,Zonder migratieachtergrond,Totaal,20% - 40%,c00_infant_mortality,2384,0.629194630872483,65.8694638912564,Totaal,5,Zuigelingensterfte
+Tilburg,Totaal,Zonder migratieachtergrond,Totaal,40% - 60%,c00_infant_mortality,2384,0.545302013422819,82.6893312160718,Totaal,5,Zuigelingensterfte
+Tilburg,Totaal,Zonder migratieachtergrond,Totaal,60% - 80%,c00_infant_mortality,2380,0.546218487394958,101.143323343212,Totaal,5,Zuigelingensterfte
+Tilburg,Totaal,Zonder migratieachtergrond,Totaal,80% - 100%,c00_infant_mortality,2380,0.630252100840336,148.027414419889,Totaal,5,Zuigelingensterfte
+Tilburg,Totaal,Zonder migratieachtergrond,Tweeoudergezin,0% - 20%,c00_infant_mortality,2220,0.765765765765766,44.5007588103268,Totaal,5,Zuigelingensterfte
+Tilburg,Totaal,Zonder migratieachtergrond,Tweeoudergezin,20% - 40%,c00_infant_mortality,2220,0.45045045045045,69.0777614474033,Totaal,5,Zuigelingensterfte
+Tilburg,Totaal,Zonder migratieachtergrond,Tweeoudergezin,40% - 60%,c00_infant_mortality,2220,0.540540540540541,84.9898864169933,Totaal,5,Zuigelingensterfte
+Tilburg,Totaal,Zonder migratieachtergrond,Tweeoudergezin,60% - 80%,c00_infant_mortality,2220,0.585585585585586,102.930046534514,Totaal,5,Zuigelingensterfte
+Tilburg,Totaal,Zonder migratieachtergrond,Tweeoudergezin,80% - 100%,c00_infant_mortality,2217,0.541353627996227,149.858255778517,Totaal,5,Zuigelingensterfte
