@@ -115,11 +115,18 @@ lang[["education_catogory_label"]] <- "Education"
 lang[["money_catogory_label"]] <- "Work and Income" 
 lang[["house_catogory_label"]] <- "Housing" 
 
-lang[["geography_label_the_netherlands"]] <- "The Netherlands"
-lang[["geography_label_metropolis_amsterdam"]] <- "Amsterdam Metropolitan Area"
-lang[["geography_label_municipalities_amsterdam"]] <- "Municipalities"
-lang[["geography_label_districts_amsterdam"]] <- "Amsterdam Districts"
-lang[["geography_label_areas_amsterdam"]] <- "Amsterdam neighborhoods"
+lang[["geography_label_areas_drenthe"]] <- "Drenthe"
+lang[["geography_label_areas_flevoland"]] <- "Flevoland"
+lang[["geography_label_areas_friesland"]] <- "Friesland"
+lang[["geography_label_areas_gelderland"]] <- "Gelderland"
+lang[["geography_label_areas_groningen"]] <- "Groningen"
+lang[["geography_label_areas_limburg"]] <- "Limburg"
+lang[["geography_label_areas_noord_brabant"]] <-"Noord-Brabant"
+lang[["geography_label_areas_noord_holland"]] <- "Noord-Holland"
+lang[["geography_label_areas_overijssel"]] <- "Overijssel"
+lang[["geography_label_areas_utrecht"]] <- "Utrecht"
+lang[["geography_label_areas_zeeland"]] <- "Zeeland"
+lang[["geography_label_areas_zuid_holland"]] <- "Zuid-Holland"
 
 # Voor lang[["money_choices"]], lang[["health_choices"]], lang[["education_choices"]], en lang[["house_choices"]]  niet de tekst achter de "=" vertalen. Dus c30_income moet niet!
 lang[["money_choices"]] <- c("Personal Income" = "c30_income",
@@ -166,6 +173,16 @@ lang[["education_choices"]] <- c("Test Score at Least Moderate" = "c11_vmbo_gl_t
                       "Track Recommendation Very High Ability " = "c11_vwo_final" ,                      
                       "Track Recommendation Above Test-Score Track" = "c11_over_advice", 
                       "Track Recommendation Below Test-Score Track" = "c11_under_advice", 
+                      "Class Low Income Parents" = "c11_class_income_below_25th",
+                      "Class High Income Parents" = "c11_class_income_above_75th",
+                      "Class Foreign Born Parents" = "c11_class_foreign_born_parents",
+                      "Class Track Recommendation at Least Moderate Ability" = "c11_class_vmbo_gl_test",
+                      "Class Track Recommendation at Least High Ability" = "c11_class_havo_test",
+                      "Class Track Recommendation Very High Ability" = "c11_class_vwo_test",
+                      "Class Test Score Reading Comprehension Target Level" = "c11_class_reading",
+                      "Class Test Score Mathematics Target Level" = "c11_class_math",
+                      "Class Test Score Grammar and Writing Target Level" = "c11_class_language",
+                      "Class Size" = "c11_class_size",
                       "Moderate-Ability Track or Higher" = "c16_vmbo_gl",                  
                       "High-Ability Track or Higher" = "c16_havo",                     
                       "Very High-Ability Track" = "c16_vwo",                               
@@ -202,9 +219,18 @@ lang[["label_newborn"]] <- "Newborns"
 lang[["label_students_in_grade_8"]] <- "Pupils in the Final Grade of Primary School" 
 
 # !!! This has to be consistent with outcome_table.xlsx
-lang[["label_municipality"]] <- "Municipality"
-lang[["label_district"]] <- "District"
-lang[["label_neighbourhood"]] <- "Neighborhood"
+lang[["label_drenthe"]] <- "Drenthe"
+lang[["label_flevoland"]] <- "Flevoland"
+lang[["label_friesland"]] <- "Friesland"
+lang[["label_gelderland"]] <- "Gelderland"
+lang[["label_groningen"]] <- "Groningen"
+lang[["label_limburg"]] <- "Limburg"
+lang[["label_noord_brabant"]] <-"Noord-Brabant"
+lang[["label_noord_holland"]] <- "Noord-Holland"
+lang[["label_overijssel"]] <- "Overijssel"
+lang[["label_utrecht"]] <- "Utrecht"
+lang[["label_zeeland"]] <- "Zeeland"
+lang[["label_zuid_holland"]] <- "Zuid-Holland"
 
 
 

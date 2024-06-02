@@ -1,23 +1,32 @@
-
-
 #### LOAD DATA ####
 outcome_dat <- read_excel(lang[["loc_outome_table.xlsx"]], sheet = "outcome")
 area_dat <- read_excel(lang[["loc_outome_table.xlsx"]], sheet = "area")
 
+# rds_files <- list.files(path = lang[["loc_data_rds"]], pattern = "\\.rds$", full.names = TRUE)
+# gradient_dat <- rds_files %>% map_dfr(readRDS)
+# technically csv files, not rds.
+csv_files <- list.files(path = lang[["loc_data_rds"]], pattern = "\\.csv$", full.names = TRUE)
+# gradient_dat <- csv_files %>% map_dfr(fread)
 
-for (i in c("bins20", "bins10", "bins5", "mean", "parents_edu")) {
+
+read_and_cast_csv <- function(file) {
+  dt <- fread(file)
   
-  assign(i, read_rds(file.path(lang[["loc_data_rds"]] , paste0(i, "_tab.rds"))))
+  dt[, N := as.numeric(N)]
+  dt[, parents_income := as.numeric(parents_income)]
+  dt[, mean := as.numeric(mean)]
   
+  # Ensure all other columns are of type character
+  dt <- dt %>% mutate(across(-c(N, mean, parents_income), as.character))
+  
+  
+  return(dt)
 }
-rm(i)
 
-# combines gradient data
-gradient_dat <- bind_rows(bins20, bins10) 
-gradient_dat <- bind_rows(gradient_dat, bins5)
-gradient_dat <- bind_rows(gradient_dat, mean)
-gradient_dat <- bind_rows(gradient_dat, parents_edu) 
-rm(bins20, bins10, bins5, mean, parents_edu)
+cols_fact <- c("geografie", "geslacht", "migratieachtergrond", "huishouden", "bins", "opleiding_ouders", "uitkomst",
+               "type")
+gradient_dat <- csv_files %>% map_dfr(~read_and_cast_csv(.x)) %>%
+  mutate_at(cols_fact, factor) 
 
 
 # txt file for README in download button for data and fig
@@ -26,5 +35,8 @@ temp_txt <- paste0(
   lang[["download_readme_title"]], "\n",
   "================================================================================\n"
   )
+
+
+
 
 

@@ -1,18 +1,15 @@
 translate_en <- function(i) {
-  levels(i$geografie)[match("Nederland",levels(i$geografie))] <- "The Netherlands"
-  levels(i$geografie)[match("Metropool Amsterdam",levels(i$geografie))] <- "Amsterdam Metropolitan Area"
-  
   levels(i$geslacht)[match("Totaal",levels(i$geslacht))] <- "Total"
   levels(i$geslacht)[match("Mannen",levels(i$geslacht))] <- "Men"
   levels(i$geslacht)[match("Vrouwen",levels(i$geslacht))] <- "Women"
   
   levels(i$migratieachtergrond)[match("Totaal",levels(i$migratieachtergrond))] = "Total"
-  levels(i$migratieachtergrond)[match("Zonder migratieachtergrond",levels(i$migratieachtergrond))] = "No Migration Background"
   levels(i$migratieachtergrond)[match("Marokko",levels(i$migratieachtergrond))] = "Morocco"
   levels(i$migratieachtergrond)[match("Turkije",levels(i$migratieachtergrond))] = "Turkey"
   levels(i$migratieachtergrond)[match("Suriname",levels(i$migratieachtergrond))] = "Suriname"
   levels(i$migratieachtergrond)[match("Nederlandse Antillen",levels(i$migratieachtergrond))] = "Dutch Caribbean"
   levels(i$migratieachtergrond)[match("Wel migratieachtergrond",levels(i$migratieachtergrond))] = "With Migration Background"
+  levels(i$migratieachtergrond)[match("Zonder migratieachtergrond",levels(i$migratieachtergrond))] = "No Migration Background"
   
   
   levels(i$huishouden)[match("Totaal",levels(i$huishouden))] <- "Total"
@@ -37,11 +34,10 @@ for (i in c("bins20", "bins10", "bins5", "mean", "parents_edu")) {
 
 
 
-# this is only necessary if new data has manually been added. The variable types need to be converted
-# to factors for the translation to work!!
+# The variable types need to be converted to factors for the translation to work!!
 
-# library(magrittr)
-cols <- c("geografie", "geslacht", "migratieachtergrond", "huishouden", "bins", "uitkomst", "type", "uitkomst_NL", "opleiding_ouders")
+library(magrittr)
+cols <- c("geografie", "geslacht", "migratieachtergrond", "huishouden", "bins", "uitkomst", "type", "opleiding_ouders")
 bins5 %<>% mutate_at(cols, factor)
 bins10 %<>% mutate_at(cols, factor)
 bins20 %<>% mutate_at(cols, factor)
