@@ -1,3 +1,6 @@
+library(tidyverse)
+
+# Function to translate certain keywords from Dutch to English
 translate_en <- function(i) {
   levels(i$geslacht)[match("Totaal",levels(i$geslacht))] <- "Total"
   levels(i$geslacht)[match("Mannen",levels(i$geslacht))] <- "Men"
@@ -27,31 +30,25 @@ translate_en <- function(i) {
   return(i)
 }
 
-for (i in c("bins20", "bins10", "bins5", "mean", "parents_edu")) {
-  assign(i, read_rds(file.path("./data/nl/", paste0(i, "_tab.rds"))))
-  
-}
-
-
+# Retrieve the data from the Dutch data folder
+csv_files <- list.files(path = "./data/nl", pattern = "*.csv", full.names = TRUE)
+data_list <- csv_files %>% map(read_csv)
+names(data_list) <- gsub("\\.csv$", "", basename(csv_files))
 
 # The variable types need to be converted to factors for the translation to work!!
-
-library(magrittr)
 cols <- c("geografie", "geslacht", "migratieachtergrond", "huishouden", "bins", "uitkomst", "type", "opleiding_ouders")
-bins5 %<>% mutate_at(cols, factor)
-bins10 %<>% mutate_at(cols, factor)
-bins20 %<>% mutate_at(cols, factor)
-mean %<>% mutate_at(cols, factor)
-parents_edu %<>% mutate_at(cols, factor)
 
-
-
-bins20 <- translate_en(bins20)
-bins10 <- translate_en(bins10)
-bins5 <- translate_en(bins5)
-mean <- translate_en(mean)
-parents_edu <- translate_en(parents_edu)
-
-for (i in c("bins20", "bins10", "bins5", "mean", "parents_edu")) {
-  write_rds(get(i), file.path("./data/en/", paste0(i, "_tab.rds")))
+translate_mutate_cols <- function(df) {
+  df <- df %>%  mutate_at(cols, factor)
+  df <- translate_en(df)
 }
+
+data_list <- data_list %>% map(translate_mutate_cols)
+
+write_to_csv <- function(data) {
+  for (name in names(data_list)) {
+    write_csv(data_list[[name]], file.path("./data/en/", paste0(name, ".csv")))
+  }
+}
+
+write_to_csv(data_list)
