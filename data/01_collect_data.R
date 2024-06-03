@@ -3,7 +3,7 @@ library(readxl)
 
 # Change wd
 setwd("~/Documents/GitHub/kansenkloof_NL")
-cohort_vec <- c("child_mortality", "classroom", "elementary_School", "perinatal", "high_school", "main", "students")
+cohort_vec <- c("child_mortality", "classroom", "elementary_school", "perinatal", "high_school", "main", "students")
 outcomes <- read_excel("data/nl/outcome_table.xlsx")
 # cols_fact <- c("geografie", "geslacht", "migratieachtergrond", "huishouden", "bins", "opleiding_ouders", "uitkomst",
                # "type")
