@@ -1,4 +1,3 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-*.rds filter=lfs diff=lfs merge=lfs -text
-bins20_tab.rds filter=lfs diff=lfs merge=lfs -text
+
