@@ -1,9 +1,9 @@
-# KCO Dashboard 
+# Dashboard Netherlands
 #
 # - server: a server function
 # - The server function contains the instructions that your computer needs to build your app.
 #
-# (c) Erasmus School of Economics 2022
+# (c) Erasmus School of Economics 2024
 
 
 
