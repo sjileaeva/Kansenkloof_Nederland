@@ -1,9 +1,9 @@
-# KCO Dashboard 
+# Dashboard Netherlands
 #
 # - UI: a user interface object
 # - The user interface (ui) object controls the layout and appearance of your app. 
 #
-# (c) Erasmus School of Economics 2022
+# (c) Erasmus School of Economics 2024
 
 
 
