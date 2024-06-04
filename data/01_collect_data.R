@@ -36,7 +36,6 @@ for (cohort in cohort_vec) {
   write_csv(mean_cohort, paste0("data/nl/mean_tab_", cohort, ".csv"))
 }
 
-# Change wd
 setwd("~/Documents/GitHub/kansenkloof_NL")
 cohort_vec <- c("perinatal", "elementary_school")
 
@@ -49,7 +48,6 @@ for (cohort in cohort_vec) {
     relocate(geografie, geslacht, migratieachtergrond, huishouden, bins, uitkomst, 
              N, mean, parents_income,opleiding_ouders, type, uitkomst_NL)
   
-
   write_csv(edu_cohort, paste0("data/nl/parents_edu_tab_", cohort, ".csv"))
 }
 
