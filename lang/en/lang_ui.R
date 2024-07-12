@@ -1,6 +1,6 @@
 # Dashboard
 lang[["title"]] <- "The Opportunity Gap in the Netherlands"
-lang[["title_width"]] <- 400
+lang[["title_width"]] <- 500
 
 # General
 lang[["outcome_measure"]] <- "Outcome"
