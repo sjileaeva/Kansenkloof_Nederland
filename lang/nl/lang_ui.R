@@ -36,7 +36,7 @@ lang[["disconnect_message"]] <- "Je sessie is verlopen, laad de applicatie opnie
 lang[["disconnect_refresh"]] <- "Klik hier om te vernieuwen"
 
 # Welcome popup
-lang[["welcome_popup_title"]] <- "Welkom op het Dashboard Ongelijkheid in Amsterdam!"
+lang[["welcome_popup_title"]] <- "Welkom op het Dashboard Ongelijkheid in Nederland!"
 lang[["welcome_popup_text"]] <- "Het dashboard <i>Ongelijkheid in Nederland</i> geeft inzicht in de samenhang tussen de omstandigheden
       waarin kinderen opgroeien en hun uitkomsten die vanaf de geboorte tot aan de volwassenheid worden gemeten. Voor het zelf maken van een figuur:
                   <br><br><b>Stap 1:</b> kies een uitkomstmaat.
@@ -233,4 +233,4 @@ lang[["label_zeeland"]] <- "Zeeland"
 lang[["label_zuid_holland"]] <- "Zuid-Holland"
 
 # License
-lang[["license_text"]] <- "Deze figuur is gemaakt door Helen Lam, Bastian Ravesteijn en Coen van de Kraats (Erasmus School of Economics), met ondersteuning van Kenniscentrum Ongelijkheid. De figuur en onderliggende data zijn beschikbaar volgens een Creative Commons BY-NC-SA 4.0 licentie, altijd onder vermelding van auteurs en de website ongelijkheidincijfers.amsterdam. Bij vragen kunt u contact opnemen met ravesteijn@ese.eur.nl"
+lang[["license_text"]] <- "Deze figuur is gemaakt door Helen Lam, Bastian Ravesteijn en Coen van de Kraats (Erasmus School of Economics), met ondersteuning van Kenniscentrum Ongelijkheid. De figuur en onderliggende data zijn beschikbaar volgens een Creative Commons BY-NC-SA 4.0 licentie, altijd onder vermelding van auteurs en de website kansenkloof.nl. Bij vragen kunt u contact opnemen met ravesteijn@ese.eur.nl"
