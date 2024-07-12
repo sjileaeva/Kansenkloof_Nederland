@@ -2,3 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+restart.txt
+
+# Ignore local config files
+*.local.R
