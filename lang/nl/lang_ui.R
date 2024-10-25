@@ -130,6 +130,8 @@ lang[["geography_label_areas_overijssel"]] <- "Overijssel"
 lang[["geography_label_areas_utrecht"]] <- "Utrecht"
 lang[["geography_label_areas_zeeland"]] <- "Zeeland"
 lang[["geography_label_areas_zuid_holland"]] <- "Zuid-Holland"
+lang[["geography_label_the_netherlands"]] <- "Nederland"
+
 
 # Voor lang[["money_choices"]], lang[["health_choices"]], lang[["education_choices"]], en lang[["house_choices"]]  niet de tekst achter de "=" vertalen. Dus c30_income moet niet!
 lang[["health_choices"]] <- c("Laag geboortegewicht" = "c00_sga",
@@ -221,7 +223,7 @@ lang[["label_students_in_grade_8"]] <- "leerlingen in groep 8"
 
 lang[["label_drenthe"]] <- "Drenthe"
 lang[["label_flevoland"]] <- "Flevoland"
-lang[["label_friesland"]] <- "Friesland"
+lang[["label_friesland"]] <- "Fryslân"
 lang[["label_gelderland"]] <- "Gelderland"
 lang[["label_groningen"]] <- "Groningen"
 lang[["label_limburg"]] <- "Limburg"

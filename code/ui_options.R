@@ -4,7 +4,8 @@
 #
 # (c) Erasmus School of Economics 2024
 
-GeoChoices <- list(sort(subset(area_dat$geografie, area_dat$type == lang[["label_drenthe"]])), 
+GeoChoices <- list(lang[["geography_label_the_netherlands"]],
+                   sort(subset(area_dat$geografie, area_dat$type == lang[["label_drenthe"]])), 
                    sort(subset(area_dat$geografie, area_dat$type == lang[["label_flevoland"]])),
                    sort(subset(area_dat$geografie, area_dat$type == lang[["label_friesland"]] )),
                    sort(subset(area_dat$geografie, area_dat$type == lang[["label_gelderland"]])),
@@ -17,7 +18,8 @@ GeoChoices <- list(sort(subset(area_dat$geografie, area_dat$type == lang[["label
                    sort(subset(area_dat$geografie, area_dat$type == lang[["label_zeeland"]])),
                    sort(subset(area_dat$geografie, area_dat$type == lang[["label_zuid_holland"]])))
 
-names(GeoChoices) <- c(lang[["geography_label_areas_drenthe"]],
+names(GeoChoices) <- c("",
+                       lang[["geography_label_areas_drenthe"]],
                        lang[["geography_label_areas_flevoland"]],
                        lang[["geography_label_areas_friesland"]], 
                        lang[["geography_label_areas_gelderland"]],
