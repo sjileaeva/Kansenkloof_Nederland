@@ -127,6 +127,7 @@ lang[["geography_label_areas_overijssel"]] <- "Overijssel"
 lang[["geography_label_areas_utrecht"]] <- "Utrecht"
 lang[["geography_label_areas_zeeland"]] <- "Zeeland"
 lang[["geography_label_areas_zuid_holland"]] <- "Zuid-Holland"
+lang[["geography_label_the_netherlands"]] <- "Nederland"
 
 # Voor lang[["money_choices"]], lang[["health_choices"]], lang[["education_choices"]], en lang[["house_choices"]]  niet de tekst achter de "=" vertalen. Dus c30_income moet niet!
 lang[["money_choices"]] <- c("Personal Income" = "c30_income",
@@ -221,7 +222,7 @@ lang[["label_students_in_grade_8"]] <- "Pupils in the Final Grade of Primary Sch
 # !!! This has to be consistent with outcome_table.xlsx
 lang[["label_drenthe"]] <- "Drenthe"
 lang[["label_flevoland"]] <- "Flevoland"
-lang[["label_friesland"]] <- "Friesland"
+lang[["label_friesland"]] <- "Fryslân"
 lang[["label_gelderland"]] <- "Gelderland"
 lang[["label_groningen"]] <- "Groningen"
 lang[["label_limburg"]] <- "Limburg"
