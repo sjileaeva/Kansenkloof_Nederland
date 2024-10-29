@@ -1,251 +1,671 @@
-geografie,geslacht,migratieachtergrond,huishouden,bins,uitkomst,N,mean,parents_income,opleiding_ouders,type,uitkomst_NL
-Groningen,Total,Total,Total,0% - 10%,c00_infant_mortality,1962,1.22324159021407,21.8317835465096,Total,10,Zuigelingensterfte
-Groningen,Total,Total,Total,10% - 20%,c00_infant_mortality,1962,0.866462793068298,32.8879465801093,Total,10,Zuigelingensterfte
-Groningen,Total,Total,Total,20% - 30%,c00_infant_mortality,1962,1.12130479102956,45.4525901032167,Total,10,Zuigelingensterfte
-Groningen,Total,Total,Total,30% - 40%,c00_infant_mortality,1960,0.612244897959184,57.537056514973,Total,10,Zuigelingensterfte
-Groningen,Total,Total,Total,40% - 50%,c00_infant_mortality,1960,0.561224489795918,68.5030821564053,Total,10,Zuigelingensterfte
-Groningen,Total,Total,Total,50% - 60%,c00_infant_mortality,1960,0.86734693877551,79.3618193833142,Total,10,Zuigelingensterfte
-Groningen,Total,Total,Total,60% - 70%,c00_infant_mortality,1960,0.663265306122449,91.1063129725514,Total,10,Zuigelingensterfte
-Groningen,Total,Total,Total,70% - 80%,c00_infant_mortality,1960,0.663265306122449,105.143851024496,Total,10,Zuigelingensterfte
-Groningen,Total,Total,Total,80% - 90%,c00_infant_mortality,1960,0.612244897959184,124.666536378124,Total,10,Zuigelingensterfte
-Groningen,Total,Total,Total,90% - 100%,c00_infant_mortality,1960,0.714285714285714,185.215114676266,Total,10,Zuigelingensterfte
-Utrecht,Total,Total,Total,0% - 10%,c00_infant_mortality,4218,0.85348506401138,25.8379003818563,Total,10,Zuigelingensterfte
-Utrecht,Total,Total,Total,10% - 20%,c00_infant_mortality,4218,0.545282124229493,43.7834550046818,Total,10,Zuigelingensterfte
-Utrecht,Total,Total,Total,20% - 30%,c00_infant_mortality,4218,0.640113798008535,59.7403466071185,Total,10,Zuigelingensterfte
-Utrecht,Total,Total,Total,30% - 40%,c00_infant_mortality,4218,0.663821716453295,73.6702658876999,Total,10,Zuigelingensterfte
-Utrecht,Total,Total,Total,40% - 50%,c00_infant_mortality,4217,0.569091262439909,86.6972810697682,Total,10,Zuigelingensterfte
-Utrecht,Total,Total,Total,50% - 60%,c00_infant_mortality,4216,0.569259962049336,100.20610323073,Total,10,Zuigelingensterfte
-Utrecht,Total,Total,Total,60% - 70%,c00_infant_mortality,4216,0.830170777988615,114.104950758624,Total,10,Zuigelingensterfte
-Utrecht,Total,Total,Total,70% - 80%,c00_infant_mortality,4216,0.569259962049336,130.753477871019,Total,10,Zuigelingensterfte
-Utrecht,Total,Total,Total,80% - 90%,c00_infant_mortality,4216,0.47438330170778,153.949111496786,Total,10,Zuigelingensterfte
-Utrecht,Total,Total,Total,90% - 100%,c00_infant_mortality,4216,0.403225806451613,221.804406596034,Total,10,Zuigelingensterfte
-Utrecht,Total,Total,Two Parents,0% - 10%,c00_infant_mortality,3896,0.795687885010267,29.7443114258585,Total,10,Zuigelingensterfte
-Utrecht,Total,Total,Two Parents,10% - 20%,c00_infant_mortality,3896,0.616016427104723,49.8613206508647,Total,10,Zuigelingensterfte
-Utrecht,Total,Total,Two Parents,20% - 30%,c00_infant_mortality,3895,0.590494089258576,65.1604590356431,Total,10,Zuigelingensterfte
-Utrecht,Total,Total,Two Parents,30% - 40%,c00_infant_mortality,3894,0.667693888032871,78.4318136230867,Total,10,Zuigelingensterfte
-Utrecht,Total,Total,Two Parents,40% - 50%,c00_infant_mortality,3894,0.59065228556754,91.1086400128468,Total,10,Zuigelingensterfte
-Utrecht,Total,Total,Two Parents,50% - 60%,c00_infant_mortality,3894,0.61633281972265,103.955670097934,Total,10,Zuigelingensterfte
-Utrecht,Total,Total,Two Parents,60% - 70%,c00_infant_mortality,3894,0.744735490498202,117.461360855708,Total,10,Zuigelingensterfte
-Utrecht,Total,Total,Two Parents,70% - 80%,c00_infant_mortality,3894,0.59065228556754,133.743989661781,Total,10,Zuigelingensterfte
-Utrecht,Total,Total,Two Parents,80% - 90%,c00_infant_mortality,3894,0.462249614791988,156.871377897097,Total,10,Zuigelingensterfte
-Utrecht,Total,Total,Two Parents,90% - 100%,c00_infant_mortality,3894,0.410888546481767,225.308874519175,Total,10,Zuigelingensterfte
-Amsterdam,Total,Total,Total,0% - 10%,c00_infant_mortality,9326,1.14733004503538,21.1352511584539,Total,10,Zuigelingensterfte
-Amsterdam,Total,Total,Total,10% - 20%,c00_infant_mortality,9325,1.19031518881401,32.1844052816704,Total,10,Zuigelingensterfte
-Amsterdam,Total,Total,Total,20% - 30%,c00_infant_mortality,9324,0.825825825825826,42.8842536200245,Total,10,Zuigelingensterfte
-Amsterdam,Total,Total,Total,30% - 40%,c00_infant_mortality,9324,0.793650793650794,54.9746557510001,Total,10,Zuigelingensterfte
-Amsterdam,Total,Total,Total,40% - 50%,c00_infant_mortality,9324,0.868725868725869,67.5553577988683,Total,10,Zuigelingensterfte
-Amsterdam,Total,Total,Total,50% - 60%,c00_infant_mortality,9324,0.697125697125697,81.9006014771455,Total,10,Zuigelingensterfte
-Amsterdam,Total,Total,Total,60% - 70%,c00_infant_mortality,9324,0.579150579150579,98.7472024541576,Total,10,Zuigelingensterfte
-Amsterdam,Total,Total,Total,70% - 80%,c00_infant_mortality,9324,0.514800514800515,119.861075897514,Total,10,Zuigelingensterfte
-Amsterdam,Total,Total,Total,80% - 90%,c00_infant_mortality,9324,0.471900471900472,151.217805032395,Total,10,Zuigelingensterfte
-Amsterdam,Total,Total,Total,90% - 100%,c00_infant_mortality,9324,0.493350493350493,265.325820825063,Total,10,Zuigelingensterfte
-Amsterdam,Total,Total,Two Parents,0% - 10%,c00_infant_mortality,7606,1.3016039968446,24.8035741804795,Total,10,Zuigelingensterfte
-Amsterdam,Total,Total,Two Parents,10% - 20%,c00_infant_mortality,7605,0.736361130218772,38.7914800281137,Total,10,Zuigelingensterfte
-Amsterdam,Total,Total,Two Parents,20% - 30%,c00_infant_mortality,7604,0.762756443976854,52.0588028698525,Total,10,Zuigelingensterfte
-Amsterdam,Total,Total,Two Parents,30% - 40%,c00_infant_mortality,7604,0.854813256180957,64.4574551631431,Total,10,Zuigelingensterfte
-Amsterdam,Total,Total,Two Parents,40% - 50%,c00_infant_mortality,7604,0.710152551288795,77.6454194081751,Total,10,Zuigelingensterfte
-Amsterdam,Total,Total,Two Parents,50% - 60%,c00_infant_mortality,7604,0.512887953708574,92.0638251683579,Total,10,Zuigelingensterfte
-Amsterdam,Total,Total,Two Parents,60% - 70%,c00_infant_mortality,7604,0.591793792740663,108.64565375288,Total,10,Zuigelingensterfte
-Amsterdam,Total,Total,Two Parents,70% - 80%,c00_infant_mortality,7604,0.407680168332457,129.586025469841,Total,10,Zuigelingensterfte
-Amsterdam,Total,Total,Two Parents,80% - 90%,c00_infant_mortality,7604,0.47343503419253,161.303668669728,Total,10,Zuigelingensterfte
-Amsterdam,Total,Total,Two Parents,90% - 100%,c00_infant_mortality,7604,0.486586007364545,279.34762845811,Total,10,Zuigelingensterfte
-Amsterdam,Total,No Migration Background,Total,0% - 10%,c00_infant_mortality,3400,0.764705882352941,29.9782516974273,Total,10,Zuigelingensterfte
-Amsterdam,Total,No Migration Background,Total,10% - 20%,c00_infant_mortality,3400,0.882352941176471,52.9062616491763,Total,10,Zuigelingensterfte
-Amsterdam,Total,No Migration Background,Total,20% - 30%,c00_infant_mortality,3398,0.765155974102413,69.1389535821345,Total,10,Zuigelingensterfte
-Amsterdam,Total,No Migration Background,Total,30% - 40%,c00_infant_mortality,3398,0.529723366686286,83.9923815468575,Total,10,Zuigelingensterfte
-Amsterdam,Total,No Migration Background,Total,40% - 50%,c00_infant_mortality,3398,0.470865214832254,98.2886333298353,Total,10,Zuigelingensterfte
-Amsterdam,Total,No Migration Background,Total,50% - 60%,c00_infant_mortality,3398,0.382577987051207,112.844322520104,Total,10,Zuigelingensterfte
-Amsterdam,Total,No Migration Background,Total,60% - 70%,c00_infant_mortality,3398,0.529723366686286,129.457295682583,Total,10,Zuigelingensterfte
-Amsterdam,Total,No Migration Background,Total,70% - 80%,c00_infant_mortality,3398,0.50029429075927,150.478011687577,Total,10,Zuigelingensterfte
-Amsterdam,Total,No Migration Background,Total,80% - 90%,c00_infant_mortality,3398,0.618010594467334,183.8984089232,Total,10,Zuigelingensterfte
-Amsterdam,Total,No Migration Background,Total,90% - 100%,c00_infant_mortality,3398,0.529723366686286,312.790495208669,Total,10,Zuigelingensterfte
-Amsterdam,Total,No Migration Background,Two Parents,0% - 10%,c00_infant_mortality,2968,0.539083557951483,38.041968876031,Total,10,Zuigelingensterfte
-Amsterdam,Total,No Migration Background,Two Parents,10% - 20%,c00_infant_mortality,2968,0.640161725067385,61.8515981395068,Total,10,Zuigelingensterfte
-Amsterdam,Total,No Migration Background,Two Parents,20% - 30%,c00_infant_mortality,2968,0.774932614555256,77.527831619141,Total,10,Zuigelingensterfte
-Amsterdam,Total,No Migration Background,Two Parents,30% - 40%,c00_infant_mortality,2968,0.370619946091644,91.7747828597501,Total,10,Zuigelingensterfte
-Amsterdam,Total,No Migration Background,Two Parents,40% - 50%,c00_infant_mortality,2968,0.471698113207547,105.035687412232,Total,10,Zuigelingensterfte
-Amsterdam,Total,No Migration Background,Two Parents,50% - 60%,c00_infant_mortality,2968,0.43800539083558,119.307865899408,Total,10,Zuigelingensterfte
-Amsterdam,Total,No Migration Background,Two Parents,60% - 70%,c00_infant_mortality,2968,0.505390835579515,135.499006151863,Total,10,Zuigelingensterfte
-Amsterdam,Total,No Migration Background,Two Parents,70% - 80%,c00_infant_mortality,2966,0.472016183412003,156.587416459756,Total,10,Zuigelingensterfte
-Amsterdam,Total,No Migration Background,Two Parents,80% - 90%,c00_infant_mortality,2966,0.606877950101146,190.305876700472,Total,10,Zuigelingensterfte
-Amsterdam,Total,No Migration Background,Two Parents,90% - 100%,c00_infant_mortality,2966,0.505731625084289,320.413499746283,Total,10,Zuigelingensterfte
-Amsterdam,Total,Morocco,Total,0% - 10%,c00_infant_mortality,1286,1.08864696734059,22.1277621708083,Total,10,Zuigelingensterfte
-Amsterdam,Total,Morocco,Total,10% - 20%,c00_infant_mortality,1286,1.39968895800933,29.8678466558739,Total,10,Zuigelingensterfte
-Amsterdam,Total,Morocco,Total,20% - 30%,c00_infant_mortality,1286,1.08864696734059,34.8471650955061,Total,10,Zuigelingensterfte
-Amsterdam,Total,Morocco,Total,30% - 40%,c00_infant_mortality,1286,1.08864696734059,41.4377919009867,Total,10,Zuigelingensterfte
-Amsterdam,Total,Morocco,Total,40% - 50%,c00_infant_mortality,1286,0.777604976671851,49.1669506844437,Total,10,Zuigelingensterfte
-Amsterdam,Total,Morocco,Total,50% - 60%,c00_infant_mortality,1286,1.16640746500778,56.8427308113962,Total,10,Zuigelingensterfte
-Amsterdam,Total,Morocco,Total,60% - 70%,c00_infant_mortality,1286,0.933125972006221,65.363616433738,Total,10,Zuigelingensterfte
-Amsterdam,Total,Morocco,Total,70% - 80%,c00_infant_mortality,1286,1.01088646967341,75.7904859847116,Total,10,Zuigelingensterfte
-Amsterdam,Total,Morocco,Total,80% - 90%,c00_infant_mortality,1284,0.856697819314642,89.536289897468,Total,10,Zuigelingensterfte
-Amsterdam,Total,Morocco,Total,90% - 100%,c00_infant_mortality,1284,1.09034267912773,127.976366117084,Total,10,Zuigelingensterfte
-Amsterdam,Total,With Migration Background,Total,0% - 10%,c00_infant_mortality,5926,1.41748228147148,19.1691777206533,Total,10,Zuigelingensterfte
-Amsterdam,Total,With Migration Background,Total,10% - 20%,c00_infant_mortality,5926,1.29935875801552,28.8098855563124,Total,10,Zuigelingensterfte
-Amsterdam,Total,With Migration Background,Total,20% - 30%,c00_infant_mortality,5926,0.860614242321971,35.334978213379,Total,10,Zuigelingensterfte
-Amsterdam,Total,With Migration Background,Total,30% - 40%,c00_infant_mortality,5926,0.809989875126561,44.1165827695672,Total,10,Zuigelingensterfte
-Amsterdam,Total,With Migration Background,Total,40% - 50%,c00_infant_mortality,5926,0.877489031387108,54.0913695346155,Total,10,Zuigelingensterfte
-Amsterdam,Total,With Migration Background,Total,50% - 60%,c00_infant_mortality,5926,0.894363820452244,64.99965720933,Total,10,Zuigelingensterfte
-Amsterdam,Total,With Migration Background,Total,60% - 70%,c00_infant_mortality,5926,0.742490718866014,78.3907221073417,Total,10,Zuigelingensterfte
-Amsterdam,Total,With Migration Background,Total,70% - 80%,c00_infant_mortality,5926,0.641241984475194,96.0844907853781,Total,10,Zuigelingensterfte
-Amsterdam,Total,With Migration Background,Total,80% - 90%,c00_infant_mortality,5926,0.556868039149511,124.039355440094,Total,10,Zuigelingensterfte
-Amsterdam,Total,With Migration Background,Total,90% - 100%,c00_infant_mortality,5925,0.405068999770521,225.649936750093,Total,10,Zuigelingensterfte
-Amsterdam,Total,With Migration Background,Two Parents,0% - 10%,c00_infant_mortality,4638,1.57395429064252,22.2760091304868,Total,10,Zuigelingensterfte
-Amsterdam,Total,With Migration Background,Two Parents,10% - 20%,c00_infant_mortality,4638,0.840879689521346,32.8864628327916,Total,10,Zuigelingensterfte
-Amsterdam,Total,With Migration Background,Two Parents,20% - 30%,c00_infant_mortality,4638,0.819318671841311,42.1042723375875,Total,10,Zuigelingensterfte
-Amsterdam,Total,With Migration Background,Two Parents,30% - 40%,c00_infant_mortality,4638,0.840879689521346,52.2677792975079,Total,10,Zuigelingensterfte
-Amsterdam,Total,With Migration Background,Two Parents,40% - 50%,c00_infant_mortality,4637,0.92736560081943,62.4407749589772,Total,10,Zuigelingensterfte
-Amsterdam,Total,With Migration Background,Two Parents,50% - 60%,c00_infant_mortality,4636,0.776531492666092,74.1594279015911,Total,10,Zuigelingensterfte
-Amsterdam,Total,With Migration Background,Two Parents,60% - 70%,c00_infant_mortality,4636,0.582398619499569,87.835479752646,Total,10,Zuigelingensterfte
-Amsterdam,Total,With Migration Background,Two Parents,70% - 80%,c00_infant_mortality,4636,0.711820534943917,106.247736326715,Total,10,Zuigelingensterfte
-Amsterdam,Total,With Migration Background,Two Parents,80% - 90%,c00_infant_mortality,4636,0.409836065573771,135.075624036111,Total,10,Zuigelingensterfte
-Amsterdam,Total,With Migration Background,Two Parents,90% - 100%,c00_infant_mortality,4636,0.323554788610871,242.292495249815,Total,10,Zuigelingensterfte
-Amsterdam,Men,Total,Total,0% - 10%,c00_infant_mortality,4794,1.23070504797664,20.9678164165046,Total,10,Zuigelingensterfte
-Amsterdam,Men,Total,Total,10% - 20%,c00_infant_mortality,4794,1.25156445556946,32.0976987666475,Total,10,Zuigelingensterfte
-Amsterdam,Men,Total,Total,20% - 30%,c00_infant_mortality,4794,0.81351689612015,42.8043784176395,Total,10,Zuigelingensterfte
-Amsterdam,Men,Total,Total,30% - 40%,c00_infant_mortality,4794,0.709219858156028,54.9507326958206,Total,10,Zuigelingensterfte
-Amsterdam,Men,Total,Total,40% - 50%,c00_infant_mortality,4794,0.771798080934501,67.5592075106364,Total,10,Zuigelingensterfte
-Amsterdam,Men,Total,Total,50% - 60%,c00_infant_mortality,4794,0.771798080934501,81.8144141882581,Total,10,Zuigelingensterfte
-Amsterdam,Men,Total,Total,60% - 70%,c00_infant_mortality,4794,0.625782227784731,98.5260167188642,Total,10,Zuigelingensterfte
-Amsterdam,Men,Total,Total,70% - 80%,c00_infant_mortality,4793,0.521598366906881,119.55815866467,Total,10,Zuigelingensterfte
-Amsterdam,Men,Total,Total,80% - 90%,c00_infant_mortality,4792,0.500834724540901,151.019845071723,Total,10,Zuigelingensterfte
-Amsterdam,Men,Total,Total,90% - 100%,c00_infant_mortality,4792,0.500834724540901,269.399012130223,Total,10,Zuigelingensterfte
-Amsterdam,Men,Total,Two Parents,0% - 10%,c00_infant_mortality,3912,1.35480572597137,24.692760811044,Total,10,Zuigelingensterfte
-Amsterdam,Men,Total,Two Parents,10% - 20%,c00_infant_mortality,3912,0.894683026584867,38.6743224826054,Total,10,Zuigelingensterfte
-Amsterdam,Men,Total,Two Parents,20% - 30%,c00_infant_mortality,3912,0.639059304703476,51.9698841704344,Total,10,Zuigelingensterfte
-Amsterdam,Men,Total,Two Parents,30% - 40%,c00_infant_mortality,3912,0.792433537832311,64.3332801357641,Total,10,Zuigelingensterfte
-Amsterdam,Men,Total,Two Parents,40% - 50%,c00_infant_mortality,3912,0.869120654396728,77.4674078302723,Total,10,Zuigelingensterfte
-Amsterdam,Men,Total,Two Parents,50% - 60%,c00_infant_mortality,3912,0.511247443762781,91.6620834105722,Total,10,Zuigelingensterfte
-Amsterdam,Men,Total,Two Parents,60% - 70%,c00_infant_mortality,3911,0.434678005638105,108.306213525944,Total,10,Zuigelingensterfte
-Amsterdam,Men,Total,Two Parents,70% - 80%,c00_infant_mortality,3910,0.485933503836317,129.014953423444,Total,10,Zuigelingensterfte
-Amsterdam,Men,Total,Two Parents,80% - 90%,c00_infant_mortality,3910,0.51150895140665,160.868649125002,Total,10,Zuigelingensterfte
-Amsterdam,Men,Total,Two Parents,90% - 100%,c00_infant_mortality,3910,0.460358056265985,283.920250168594,Total,10,Zuigelingensterfte
-Amsterdam,Men,With Migration Background,Total,0% - 10%,c00_infant_mortality,3046,1.51017728168089,19.0088686106775,Total,10,Zuigelingensterfte
-Amsterdam,Men,With Migration Background,Total,10% - 20%,c00_infant_mortality,3046,1.28036769533815,28.6915098257708,Total,10,Zuigelingensterfte
-Amsterdam,Men,With Migration Background,Total,20% - 30%,c00_infant_mortality,3046,0.886408404464872,35.2577844079135,Total,10,Zuigelingensterfte
-Amsterdam,Men,With Migration Background,Total,30% - 40%,c00_infant_mortality,3046,0.787918581746553,44.0343004086094,Total,10,Zuigelingensterfte
-Amsterdam,Men,With Migration Background,Total,40% - 50%,c00_infant_mortality,3046,0.820748522652659,53.9491614367737,Total,10,Zuigelingensterfte
-Amsterdam,Men,With Migration Background,Total,50% - 60%,c00_infant_mortality,3044,0.624178712220762,64.8971552922146,Total,10,Zuigelingensterfte
-Amsterdam,Men,With Migration Background,Total,60% - 70%,c00_infant_mortality,3044,0.919842312746386,78.3243873421952,Total,10,Zuigelingensterfte
-Amsterdam,Men,With Migration Background,Total,70% - 80%,c00_infant_mortality,3044,0.657030223390276,95.9008706602821,Total,10,Zuigelingensterfte
-Amsterdam,Men,With Migration Background,Total,80% - 90%,c00_infant_mortality,3044,0.624178712220762,123.842160711956,Total,10,Zuigelingensterfte
-Amsterdam,Men,With Migration Background,Total,90% - 100%,c00_infant_mortality,3044,0.394218134034166,229.288444043133,Total,10,Zuigelingensterfte
-Amsterdam,Women,Total,Total,0% - 10%,c00_infant_mortality,4532,1.03706972639011,21.3143530565477,Total,10,Zuigelingensterfte
-Amsterdam,Women,Total,Total,10% - 20%,c00_infant_mortality,4532,1.16946160635481,32.2755470962748,Total,10,Zuigelingensterfte
-Amsterdam,Women,Total,Total,20% - 30%,c00_infant_mortality,4532,0.772285966460724,42.9741673356036,Total,10,Zuigelingensterfte
-Amsterdam,Women,Total,Total,30% - 40%,c00_infant_mortality,4532,0.926743159752868,55.009576760283,Total,10,Zuigelingensterfte
-Amsterdam,Women,Total,Total,40% - 50%,c00_infant_mortality,4530,0.971302428256071,67.5661756947347,Total,10,Zuigelingensterfte
-Amsterdam,Women,Total,Total,50% - 60%,c00_infant_mortality,4530,0.618101545253863,82.0125045387531,Total,10,Zuigelingensterfte
-Amsterdam,Women,Total,Total,60% - 70%,c00_infant_mortality,4530,0.529801324503311,98.9981937124644,Total,10,Zuigelingensterfte
-Amsterdam,Women,Total,Total,70% - 80%,c00_infant_mortality,4530,0.507726269315673,120.209454812433,Total,10,Zuigelingensterfte
-Amsterdam,Women,Total,Total,80% - 90%,c00_infant_mortality,4530,0.44150110375275903,151.451869963906,Total,10,Zuigelingensterfte
-Amsterdam,Women,Total,Total,90% - 100%,c00_infant_mortality,4530,0.485651214128035,261.056459011614,Total,10,Zuigelingensterfte
-Amsterdam,Women,Total,Two Parents,0% - 10%,c00_infant_mortality,3694,1.21819166215485,24.9225316107014,Total,10,Zuigelingensterfte
-Amsterdam,Women,Total,Two Parents,10% - 20%,c00_infant_mortality,3694,0.595560368164591,38.915283111601,Total,10,Zuigelingensterfte
-Amsterdam,Women,Total,Two Parents,20% - 30%,c00_infant_mortality,3694,0.893340552246887,52.1593362947611,Total,10,Zuigelingensterfte
-Amsterdam,Women,Total,Two Parents,30% - 40%,c00_infant_mortality,3694,0.893340552246887,64.6058477499922,Total,10,Zuigelingensterfte
-Amsterdam,Women,Total,Two Parents,40% - 50%,c00_infant_mortality,3694,0.595560368164591,77.8593738180497,Total,10,Zuigelingensterfte
-Amsterdam,Women,Total,Two Parents,50% - 60%,c00_infant_mortality,3692,0.514626218851571,92.5286254911433,Total,10,Zuigelingensterfte
-Amsterdam,Women,Total,Two Parents,60% - 70%,c00_infant_mortality,3692,0.704225352112676,109.044114769213,Total,10,Zuigelingensterfte
-Amsterdam,Women,Total,Two Parents,70% - 80%,c00_infant_mortality,3692,0.325027085590466,130.215146374498,Total,10,Zuigelingensterfte
-Amsterdam,Women,Total,Two Parents,80% - 90%,c00_infant_mortality,3692,0.460455037919827,161.787139879728,Total,10,Zuigelingensterfte
-Amsterdam,Women,Total,Two Parents,90% - 100%,c00_infant_mortality,3692,0.514626218851571,274.552807964631,Total,10,Zuigelingensterfte
-Amsterdam,Women,With Migration Background,Total,0% - 10%,c00_infant_mortality,2882,1.28383067314365,19.3485286161627,Total,10,Zuigelingensterfte
-Amsterdam,Women,With Migration Background,Total,10% - 20%,c00_infant_mortality,2882,1.35322692574601,28.9368945630209,Total,10,Zuigelingensterfte
-Amsterdam,Women,With Migration Background,Total,20% - 30%,c00_infant_mortality,2882,0.832755031228314,35.4314968476053,Total,10,Zuigelingensterfte
-Amsterdam,Women,With Migration Background,Total,30% - 40%,c00_infant_mortality,2882,0.798056904927134,44.2281094595536,Total,10,Zuigelingensterfte
-Amsterdam,Women,With Migration Background,Total,40% - 50%,c00_infant_mortality,2881,1.00663119747089,54.27181363494,Total,10,Zuigelingensterfte
-Amsterdam,Women,With Migration Background,Total,50% - 60%,c00_infant_mortality,2880,1.14583333333333,65.1402745431407,Total,10,Zuigelingensterfte
-Amsterdam,Women,With Migration Background,Total,60% - 70%,c00_infant_mortality,2880,0.555555555555556,78.489880992829,Total,10,Zuigelingensterfte
-Amsterdam,Women,With Migration Background,Total,70% - 80%,c00_infant_mortality,2880,0.625,96.3076944558299,Total,10,Zuigelingensterfte
-Amsterdam,Women,With Migration Background,Total,80% - 90%,c00_infant_mortality,2880,0.486111111111111,124.273805583756,Total,10,Zuigelingensterfte
-Amsterdam,Women,With Migration Background,Total,90% - 100%,c00_infant_mortality,2880,0.416666666666667,221.809117974795,Total,10,Zuigelingensterfte
-'s-Gravenhage,Total,Total,Total,0% - 10%,c00_infant_mortality,5517,0.634379777856687,19.1359226469211,Total,10,Zuigelingensterfte
-'s-Gravenhage,Total,Total,Total,10% - 20%,c00_infant_mortality,5516,1.01522842639594,29.6815773868514,Total,10,Zuigelingensterfte
-'s-Gravenhage,Total,Total,Total,20% - 30%,c00_infant_mortality,5516,0.906453952139231,37.8793123471856,Total,10,Zuigelingensterfte
-'s-Gravenhage,Total,Total,Total,30% - 40%,c00_infant_mortality,5516,0.779550398839739,47.6888702709141,Total,10,Zuigelingensterfte
-'s-Gravenhage,Total,Total,Total,40% - 50%,c00_infant_mortality,5516,0.7070340826686,58.8476216242889,Total,10,Zuigelingensterfte
-'s-Gravenhage,Total,Total,Total,50% - 60%,c00_infant_mortality,5516,0.543872371283539,71.0657436128561,Total,10,Zuigelingensterfte
-'s-Gravenhage,Total,Total,Total,60% - 70%,c00_infant_mortality,5516,0.543872371283539,85.1339306089505,Total,10,Zuigelingensterfte
-'s-Gravenhage,Total,Total,Total,70% - 80%,c00_infant_mortality,5516,0.580130529369108,103.256921296395,Total,10,Zuigelingensterfte
-'s-Gravenhage,Total,Total,Total,80% - 90%,c00_infant_mortality,5516,0.380710659898477,130.123327439972,Total,10,Zuigelingensterfte
-'s-Gravenhage,Total,Total,Total,90% - 100%,c00_infant_mortality,5516,0.308194343727339,212.729538471991,Total,10,Zuigelingensterfte
-'s-Gravenhage,Total,Total,Two Parents,0% - 10%,c00_infant_mortality,4656,0.730240549828179,22.2217378507189,Total,10,Zuigelingensterfte
-'s-Gravenhage,Total,Total,Two Parents,10% - 20%,c00_infant_mortality,4656,0.837628865979381,34.321626002979,Total,10,Zuigelingensterfte
-'s-Gravenhage,Total,Total,Two Parents,20% - 30%,c00_infant_mortality,4656,0.77319587628866,44.4549610852318,Total,10,Zuigelingensterfte
-'s-Gravenhage,Total,Total,Two Parents,30% - 40%,c00_infant_mortality,4656,0.880584192439863,55.1432911991386,Total,10,Zuigelingensterfte
-'s-Gravenhage,Total,Total,Two Parents,40% - 50%,c00_infant_mortality,4656,0.558419243986254,66.5475009719644,Total,10,Zuigelingensterfte
-'s-Gravenhage,Total,Total,Two Parents,50% - 60%,c00_infant_mortality,4656,0.429553264604811,78.5412593495962,Total,10,Zuigelingensterfte
-'s-Gravenhage,Total,Total,Two Parents,60% - 70%,c00_infant_mortality,4655,0.68745135913828,92.5426221336407,Total,10,Zuigelingensterfte
-'s-Gravenhage,Total,Total,Two Parents,70% - 80%,c00_infant_mortality,4654,0.386764073914912,110.935950143973,Total,10,Zuigelingensterfte
-'s-Gravenhage,Total,Total,Two Parents,80% - 90%,c00_infant_mortality,4654,0.386764073914912,137.443786798378,Total,10,Zuigelingensterfte
-'s-Gravenhage,Total,Total,Two Parents,90% - 100%,c00_infant_mortality,4654,0.343790287924366,221.978024382734,Total,10,Zuigelingensterfte
-'s-Gravenhage,Total,With Migration Background,Total,0% - 10%,c00_infant_mortality,3586,0.585610708310095,17.0431904935835,Total,10,Zuigelingensterfte
-'s-Gravenhage,Total,With Migration Background,Total,10% - 20%,c00_infant_mortality,3586,1.03179029559398,27.0206720644239,Total,10,Zuigelingensterfte
-'s-Gravenhage,Total,With Migration Background,Total,20% - 30%,c00_infant_mortality,3586,0.892359174567764,32.5392220874754,Total,10,Zuigelingensterfte
-'s-Gravenhage,Total,With Migration Background,Total,30% - 40%,c00_infant_mortality,3586,0.892359174567764,39.3792687342299,Total,10,Zuigelingensterfte
-'s-Gravenhage,Total,With Migration Background,Total,40% - 50%,c00_infant_mortality,3586,0.780814277746793,47.4598348260083,Total,10,Zuigelingensterfte
-'s-Gravenhage,Total,With Migration Background,Total,50% - 60%,c00_infant_mortality,3586,0.836586726157278,57.0500221174057,Total,10,Zuigelingensterfte
-'s-Gravenhage,Total,With Migration Background,Total,60% - 70%,c00_infant_mortality,3584,0.725446428571429,68.8192366253672,Total,10,Zuigelingensterfte
-'s-Gravenhage,Total,With Migration Background,Total,70% - 80%,c00_infant_mortality,3584,0.530133928571429,84.3841428085628,Total,10,Zuigelingensterfte
-'s-Gravenhage,Total,With Migration Background,Total,80% - 90%,c00_infant_mortality,3584,0.474330357142857,107.837641380022,Total,10,Zuigelingensterfte
-'s-Gravenhage,Total,With Migration Background,Total,90% - 100%,c00_infant_mortality,3584,0.306919642857143,190.053076805214,Total,10,Zuigelingensterfte
-Rotterdam,Total,Total,Total,0% - 10%,c00_infant_mortality,6558,0.991155840195181,18.2949769490873,Total,10,Zuigelingensterfte
-Rotterdam,Total,Total,Total,10% - 20%,c00_infant_mortality,6558,0.808173223543763,28.0273873924712,Total,10,Zuigelingensterfte
-Rotterdam,Total,Total,Total,20% - 30%,c00_infant_mortality,6557,0.823542721342632,35.0725427355265,Total,10,Zuigelingensterfte
-Rotterdam,Total,Total,Total,30% - 40%,c00_infant_mortality,6556,0.549115314215985,44.880037269547,Total,10,Zuigelingensterfte
-Rotterdam,Total,Total,Total,40% - 50%,c00_infant_mortality,6556,0.747406955460647,55.8037519605305,Total,10,Zuigelingensterfte
-Rotterdam,Total,Total,Total,50% - 60%,c00_infant_mortality,6556,0.594874923733984,67.2003073277969,Total,10,Zuigelingensterfte
-Rotterdam,Total,Total,Total,60% - 70%,c00_infant_mortality,6556,0.762660158633313,79.9597603544792,Total,10,Zuigelingensterfte
-Rotterdam,Total,Total,Total,70% - 80%,c00_infant_mortality,6556,0.671140939597315,95.6449464403605,Total,10,Zuigelingensterfte
-Rotterdam,Total,Total,Total,80% - 90%,c00_infant_mortality,6556,0.625381330079317,118.635867767411,Total,10,Zuigelingensterfte
-Rotterdam,Total,Total,Total,90% - 100%,c00_infant_mortality,6556,0.396583282489323,188.705259418127,Total,10,Zuigelingensterfte
-Rotterdam,Total,Total,Two Parents,0% - 10%,c00_infant_mortality,5147,0.854859395473465,22.3794393716608,Total,10,Zuigelingensterfte
-Rotterdam,Total,Total,Two Parents,10% - 20%,c00_infant_mortality,5146,0.738437621453556,34.375969825712,Total,10,Zuigelingensterfte
-Rotterdam,Total,Total,Two Parents,20% - 30%,c00_infant_mortality,5146,0.544111931597357,45.3389890591807,Total,10,Zuigelingensterfte
-Rotterdam,Total,Total,Two Parents,30% - 40%,c00_infant_mortality,5146,0.699572483482316,56.1981732687194,Total,10,Zuigelingensterfte
-Rotterdam,Total,Total,Two Parents,40% - 50%,c00_infant_mortality,5146,0.544111931597357,66.5493194839387,Total,10,Zuigelingensterfte
-Rotterdam,Total,Total,Two Parents,50% - 60%,c00_infant_mortality,5146,0.816167897396036,77.440408023606,Total,10,Zuigelingensterfte
-Rotterdam,Total,Total,Two Parents,60% - 70%,c00_infant_mortality,5146,0.680139914496696,89.5800573873578,Total,10,Zuigelingensterfte
-Rotterdam,Total,Total,Two Parents,70% - 80%,c00_infant_mortality,5146,0.738437621453556,105.261610281957,Total,10,Zuigelingensterfte
-Rotterdam,Total,Total,Two Parents,80% - 90%,c00_infant_mortality,5146,0.408083948698018,127.976328093085,Total,10,Zuigelingensterfte
-Rotterdam,Total,Total,Two Parents,90% - 100%,c00_infant_mortality,5146,0.330353672755538,200.224500216336,Total,10,Zuigelingensterfte
-Rotterdam,Total,With Migration Background,Total,0% - 10%,c00_infant_mortality,4296,0.907821229050279,16.4286433690786,Total,10,Zuigelingensterfte
-Rotterdam,Total,With Migration Background,Total,10% - 20%,c00_infant_mortality,4296,1.04748603351955,25.6509368973564,Total,10,Zuigelingensterfte
-Rotterdam,Total,With Migration Background,Total,20% - 30%,c00_infant_mortality,4296,0.861266294227188,30.4147277560919,Total,10,Zuigelingensterfte
-Rotterdam,Total,With Migration Background,Total,30% - 40%,c00_infant_mortality,4296,0.884543761638734,36.3974962937796,Total,10,Zuigelingensterfte
-Rotterdam,Total,With Migration Background,Total,40% - 50%,c00_infant_mortality,4296,0.535381750465549,44.5181091200939,Total,10,Zuigelingensterfte
-Rotterdam,Total,With Migration Background,Total,50% - 60%,c00_infant_mortality,4296,0.954376163873371,53.9805828384815,Total,10,Zuigelingensterfte
-Rotterdam,Total,With Migration Background,Total,60% - 70%,c00_infant_mortality,4296,0.628491620111732,64.6224149872521,Total,10,Zuigelingensterfte
-Rotterdam,Total,With Migration Background,Total,70% - 80%,c00_infant_mortality,4296,0.698324022346369,77.91575609582,Total,10,Zuigelingensterfte
-Rotterdam,Total,With Migration Background,Total,80% - 90%,c00_infant_mortality,4296,0.814711359404097,97.2866426838623,Total,10,Zuigelingensterfte
-Rotterdam,Total,With Migration Background,Total,90% - 100%,c00_infant_mortality,4294,0.605496040987424,156.65194398949,Total,10,Zuigelingensterfte
-Rotterdam,Total,With Migration Background,Two Parents,0% - 10%,c00_infant_mortality,3152,0.888324873096447,19.8468925158408,Total,10,Zuigelingensterfte
-Rotterdam,Total,With Migration Background,Two Parents,10% - 20%,c00_infant_mortality,3152,0.856598984771574,30.0541084271647,Total,10,Zuigelingensterfte
-Rotterdam,Total,With Migration Background,Two Parents,20% - 30%,c00_infant_mortality,3152,0.634517766497462,36.9825625390781,Total,10,Zuigelingensterfte
-Rotterdam,Total,With Migration Background,Two Parents,30% - 40%,c00_infant_mortality,3152,0.475888324873097,45.6069862256627,Total,10,Zuigelingensterfte
-Rotterdam,Total,With Migration Background,Two Parents,40% - 50%,c00_infant_mortality,3152,1.01522842639594,54.5816537302324,Total,10,Zuigelingensterfte
-Rotterdam,Total,With Migration Background,Two Parents,50% - 60%,c00_infant_mortality,3152,0.444162436548223,63.8326910280894,Total,10,Zuigelingensterfte
-Rotterdam,Total,With Migration Background,Two Parents,60% - 70%,c00_infant_mortality,3152,0.856598984771574,74.4567973903892,Total,10,Zuigelingensterfte
-Rotterdam,Total,With Migration Background,Two Parents,70% - 80%,c00_infant_mortality,3152,0.761421319796954,87.4619277717928,Total,10,Zuigelingensterfte
-Rotterdam,Total,With Migration Background,Two Parents,80% - 90%,c00_infant_mortality,3152,0.666243654822335,107.360534999877,Total,10,Zuigelingensterfte
-Rotterdam,Total,With Migration Background,Two Parents,90% - 100%,c00_infant_mortality,3152,0.602791878172589,169.361987748575,Total,10,Zuigelingensterfte
-Rotterdam,Men,Total,Total,0% - 10%,c00_infant_mortality,3376,1.15521327014218,18.207728877487,Total,10,Zuigelingensterfte
-Rotterdam,Men,Total,Total,10% - 20%,c00_infant_mortality,3376,0.710900473933649,27.9766580807027,Total,10,Zuigelingensterfte
-Rotterdam,Men,Total,Total,20% - 30%,c00_infant_mortality,3376,0.859004739336493,34.8598913520755,Total,10,Zuigelingensterfte
-Rotterdam,Men,Total,Total,30% - 40%,c00_infant_mortality,3374,0.563129816241849,44.7401570204718,Total,10,Zuigelingensterfte
-Rotterdam,Men,Total,Total,40% - 50%,c00_infant_mortality,3374,0.770598695909899,55.6701630646793,Total,10,Zuigelingensterfte
-Rotterdam,Men,Total,Total,50% - 60%,c00_infant_mortality,3374,0.711321873147599,67.0708766704177,Total,10,Zuigelingensterfte
-Rotterdam,Men,Total,Total,60% - 70%,c00_infant_mortality,3374,0.592768227622999,79.9281198897974,Total,10,Zuigelingensterfte
-Rotterdam,Men,Total,Total,70% - 80%,c00_infant_mortality,3374,0.770598695909899,95.3993263749458,Total,10,Zuigelingensterfte
-Rotterdam,Men,Total,Total,80% - 90%,c00_infant_mortality,3374,0.592768227622999,118.146689523634,Total,10,Zuigelingensterfte
-Rotterdam,Men,Total,Total,90% - 100%,c00_infant_mortality,3374,0.38529934795495,186.123273299972,Total,10,Zuigelingensterfte
-Rotterdam,Women,Total,Total,0% - 10%,c00_infant_mortality,3182,0.817096165933375,18.3876415625043,Total,10,Zuigelingensterfte
-Rotterdam,Women,Total,Total,10% - 20%,c00_infant_mortality,3182,0.879949717159019,28.0840213900852,Total,10,Zuigelingensterfte
-Rotterdam,Women,Total,Total,20% - 30%,c00_infant_mortality,3182,0.785669390320553,35.3013673425305,Total,10,Zuigelingensterfte
-Rotterdam,Women,Total,Total,30% - 40%,c00_infant_mortality,3182,0.534255185417976,45.0273549218179,Total,10,Zuigelingensterfte
-Rotterdam,Women,Total,Total,40% - 50%,c00_infant_mortality,3182,0.754242614707731,55.9496430700435,Total,10,Zuigelingensterfte
-Rotterdam,Women,Total,Total,50% - 60%,c00_infant_mortality,3182,0.502828409805154,67.3406258287443,Total,10,Zuigelingensterfte
-Rotterdam,Women,Total,Total,60% - 70%,c00_infant_mortality,3182,0.879949717159019,79.9984724716235,Total,10,Zuigelingensterfte
-Rotterdam,Women,Total,Total,70% - 80%,c00_infant_mortality,3182,0.59710873664362,95.9144998555226,Total,10,Zuigelingensterfte
-Rotterdam,Women,Total,Total,80% - 90%,c00_infant_mortality,3182,0.659962287869265,119.183429416038,Total,10,Zuigelingensterfte
-Rotterdam,Women,Total,Total,90% - 100%,c00_infant_mortality,3181,0.408666674572774,191.448965673807,Total,10,Zuigelingensterfte
+"geografie","geslacht","migratieachtergrond","huishouden","bins","uitkomst","N","mean","parents_income","opleiding_ouders","type","uitkomst_NL"
+"Groningen","Total","Total","Total","0% - 10%","c00_infant_mortality",1962,1.22324159021407,21.8317835465096,"Total",10,"Zuigelingensterfte"
+"Groningen","Total","Total","Total","10% - 20%","c00_infant_mortality",1962,0.866462793068298,32.8879465801093,"Total",10,"Zuigelingensterfte"
+"Groningen","Total","Total","Total","20% - 30%","c00_infant_mortality",1962,1.12130479102956,45.4525901032167,"Total",10,"Zuigelingensterfte"
+"Groningen","Total","Total","Total","30% - 40%","c00_infant_mortality",1960,0.612244897959184,57.537056514973,"Total",10,"Zuigelingensterfte"
+"Groningen","Total","Total","Total","40% - 50%","c00_infant_mortality",1960,0.561224489795918,68.5030821564053,"Total",10,"Zuigelingensterfte"
+"Groningen","Total","Total","Total","50% - 60%","c00_infant_mortality",1960,0.86734693877551,79.3618193833142,"Total",10,"Zuigelingensterfte"
+"Groningen","Total","Total","Total","60% - 70%","c00_infant_mortality",1960,0.663265306122449,91.1063129725514,"Total",10,"Zuigelingensterfte"
+"Groningen","Total","Total","Total","70% - 80%","c00_infant_mortality",1960,0.663265306122449,105.143851024496,"Total",10,"Zuigelingensterfte"
+"Groningen","Total","Total","Total","80% - 90%","c00_infant_mortality",1960,0.612244897959184,124.666536378124,"Total",10,"Zuigelingensterfte"
+"Groningen","Total","Total","Total","90% - 100%","c00_infant_mortality",1960,0.714285714285714,185.215114676266,"Total",10,"Zuigelingensterfte"
+"Utrecht","Total","Total","Total","0% - 10%","c00_infant_mortality",4218,0.85348506401138,25.8379003818563,"Total",10,"Zuigelingensterfte"
+"Utrecht","Total","Total","Total","10% - 20%","c00_infant_mortality",4218,0.545282124229493,43.7834550046818,"Total",10,"Zuigelingensterfte"
+"Utrecht","Total","Total","Total","20% - 30%","c00_infant_mortality",4218,0.640113798008535,59.7403466071185,"Total",10,"Zuigelingensterfte"
+"Utrecht","Total","Total","Total","30% - 40%","c00_infant_mortality",4218,0.663821716453295,73.6702658876999,"Total",10,"Zuigelingensterfte"
+"Utrecht","Total","Total","Total","40% - 50%","c00_infant_mortality",4217,0.569091262439909,86.6972810697682,"Total",10,"Zuigelingensterfte"
+"Utrecht","Total","Total","Total","50% - 60%","c00_infant_mortality",4216,0.569259962049336,100.20610323073,"Total",10,"Zuigelingensterfte"
+"Utrecht","Total","Total","Total","60% - 70%","c00_infant_mortality",4216,0.830170777988615,114.104950758624,"Total",10,"Zuigelingensterfte"
+"Utrecht","Total","Total","Total","70% - 80%","c00_infant_mortality",4216,0.569259962049336,130.753477871019,"Total",10,"Zuigelingensterfte"
+"Utrecht","Total","Total","Total","80% - 90%","c00_infant_mortality",4216,0.47438330170778,153.949111496786,"Total",10,"Zuigelingensterfte"
+"Utrecht","Total","Total","Total","90% - 100%","c00_infant_mortality",4216,0.403225806451613,221.804406596034,"Total",10,"Zuigelingensterfte"
+"Utrecht","Total","Total","Two Parents","0% - 10%","c00_infant_mortality",3896,0.795687885010267,29.7443114258585,"Total",10,"Zuigelingensterfte"
+"Utrecht","Total","Total","Two Parents","10% - 20%","c00_infant_mortality",3896,0.616016427104723,49.8613206508647,"Total",10,"Zuigelingensterfte"
+"Utrecht","Total","Total","Two Parents","20% - 30%","c00_infant_mortality",3895,0.590494089258576,65.1604590356431,"Total",10,"Zuigelingensterfte"
+"Utrecht","Total","Total","Two Parents","30% - 40%","c00_infant_mortality",3894,0.667693888032871,78.4318136230867,"Total",10,"Zuigelingensterfte"
+"Utrecht","Total","Total","Two Parents","40% - 50%","c00_infant_mortality",3894,0.59065228556754,91.1086400128468,"Total",10,"Zuigelingensterfte"
+"Utrecht","Total","Total","Two Parents","50% - 60%","c00_infant_mortality",3894,0.61633281972265,103.955670097934,"Total",10,"Zuigelingensterfte"
+"Utrecht","Total","Total","Two Parents","60% - 70%","c00_infant_mortality",3894,0.744735490498202,117.461360855708,"Total",10,"Zuigelingensterfte"
+"Utrecht","Total","Total","Two Parents","70% - 80%","c00_infant_mortality",3894,0.59065228556754,133.743989661781,"Total",10,"Zuigelingensterfte"
+"Utrecht","Total","Total","Two Parents","80% - 90%","c00_infant_mortality",3894,0.462249614791988,156.871377897097,"Total",10,"Zuigelingensterfte"
+"Utrecht","Total","Total","Two Parents","90% - 100%","c00_infant_mortality",3894,0.410888546481767,225.308874519175,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","Total","Total","0% - 10%","c00_infant_mortality",9326,1.14733004503538,21.1352511584539,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","Total","Total","10% - 20%","c00_infant_mortality",9325,1.19031518881401,32.1844052816704,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","Total","Total","20% - 30%","c00_infant_mortality",9324,0.825825825825826,42.8842536200245,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","Total","Total","30% - 40%","c00_infant_mortality",9324,0.793650793650794,54.9746557510001,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","Total","Total","40% - 50%","c00_infant_mortality",9324,0.868725868725869,67.5553577988683,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","Total","Total","50% - 60%","c00_infant_mortality",9324,0.697125697125697,81.9006014771455,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","Total","Total","60% - 70%","c00_infant_mortality",9324,0.579150579150579,98.7472024541576,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","Total","Total","70% - 80%","c00_infant_mortality",9324,0.514800514800515,119.861075897514,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","Total","Total","80% - 90%","c00_infant_mortality",9324,0.471900471900472,151.217805032395,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","Total","Total","90% - 100%","c00_infant_mortality",9324,0.493350493350493,265.325820825063,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","Total","Two Parents","0% - 10%","c00_infant_mortality",7606,1.3016039968446,24.8035741804795,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","Total","Two Parents","10% - 20%","c00_infant_mortality",7605,0.736361130218772,38.7914800281137,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","Total","Two Parents","20% - 30%","c00_infant_mortality",7604,0.762756443976854,52.0588028698525,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","Total","Two Parents","30% - 40%","c00_infant_mortality",7604,0.854813256180957,64.4574551631431,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","Total","Two Parents","40% - 50%","c00_infant_mortality",7604,0.710152551288795,77.6454194081751,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","Total","Two Parents","50% - 60%","c00_infant_mortality",7604,0.512887953708574,92.0638251683579,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","Total","Two Parents","60% - 70%","c00_infant_mortality",7604,0.591793792740663,108.64565375288,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","Total","Two Parents","70% - 80%","c00_infant_mortality",7604,0.407680168332457,129.586025469841,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","Total","Two Parents","80% - 90%","c00_infant_mortality",7604,0.47343503419253,161.303668669728,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","Total","Two Parents","90% - 100%","c00_infant_mortality",7604,0.486586007364545,279.34762845811,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","No Migration Background","Total","0% - 10%","c00_infant_mortality",3400,0.764705882352941,29.9782516974273,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","No Migration Background","Total","10% - 20%","c00_infant_mortality",3400,0.882352941176471,52.9062616491763,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","No Migration Background","Total","20% - 30%","c00_infant_mortality",3398,0.765155974102413,69.1389535821345,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","No Migration Background","Total","30% - 40%","c00_infant_mortality",3398,0.529723366686286,83.9923815468575,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","No Migration Background","Total","40% - 50%","c00_infant_mortality",3398,0.470865214832254,98.2886333298353,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","No Migration Background","Total","50% - 60%","c00_infant_mortality",3398,0.382577987051207,112.844322520104,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","No Migration Background","Total","60% - 70%","c00_infant_mortality",3398,0.529723366686286,129.457295682583,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","No Migration Background","Total","70% - 80%","c00_infant_mortality",3398,0.50029429075927,150.478011687577,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","No Migration Background","Total","80% - 90%","c00_infant_mortality",3398,0.618010594467334,183.8984089232,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","No Migration Background","Total","90% - 100%","c00_infant_mortality",3398,0.529723366686286,312.790495208669,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","No Migration Background","Two Parents","0% - 10%","c00_infant_mortality",2968,0.539083557951483,38.041968876031,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","No Migration Background","Two Parents","10% - 20%","c00_infant_mortality",2968,0.640161725067385,61.8515981395068,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","No Migration Background","Two Parents","20% - 30%","c00_infant_mortality",2968,0.774932614555256,77.527831619141,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","No Migration Background","Two Parents","30% - 40%","c00_infant_mortality",2968,0.370619946091644,91.7747828597501,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","No Migration Background","Two Parents","40% - 50%","c00_infant_mortality",2968,0.471698113207547,105.035687412232,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","No Migration Background","Two Parents","50% - 60%","c00_infant_mortality",2968,0.43800539083558,119.307865899408,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","No Migration Background","Two Parents","60% - 70%","c00_infant_mortality",2968,0.505390835579515,135.499006151863,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","No Migration Background","Two Parents","70% - 80%","c00_infant_mortality",2966,0.472016183412003,156.587416459756,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","No Migration Background","Two Parents","80% - 90%","c00_infant_mortality",2966,0.606877950101146,190.305876700472,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","No Migration Background","Two Parents","90% - 100%","c00_infant_mortality",2966,0.505731625084289,320.413499746283,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","Morocco","Total","0% - 10%","c00_infant_mortality",1286,1.08864696734059,22.1277621708083,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","Morocco","Total","10% - 20%","c00_infant_mortality",1286,1.39968895800933,29.8678466558739,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","Morocco","Total","20% - 30%","c00_infant_mortality",1286,1.08864696734059,34.8471650955061,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","Morocco","Total","30% - 40%","c00_infant_mortality",1286,1.08864696734059,41.4377919009867,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","Morocco","Total","40% - 50%","c00_infant_mortality",1286,0.777604976671851,49.1669506844437,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","Morocco","Total","50% - 60%","c00_infant_mortality",1286,1.16640746500778,56.8427308113962,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","Morocco","Total","60% - 70%","c00_infant_mortality",1286,0.933125972006221,65.363616433738,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","Morocco","Total","70% - 80%","c00_infant_mortality",1286,1.01088646967341,75.7904859847116,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","Morocco","Total","80% - 90%","c00_infant_mortality",1284,0.856697819314642,89.536289897468,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","Morocco","Total","90% - 100%","c00_infant_mortality",1284,1.09034267912773,127.976366117084,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","With Migration Background","Total","0% - 10%","c00_infant_mortality",5926,1.41748228147148,19.1691777206533,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","With Migration Background","Total","10% - 20%","c00_infant_mortality",5926,1.29935875801552,28.8098855563124,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","With Migration Background","Total","20% - 30%","c00_infant_mortality",5926,0.860614242321971,35.334978213379,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","With Migration Background","Total","30% - 40%","c00_infant_mortality",5926,0.809989875126561,44.1165827695672,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","With Migration Background","Total","40% - 50%","c00_infant_mortality",5926,0.877489031387108,54.0913695346155,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","With Migration Background","Total","50% - 60%","c00_infant_mortality",5926,0.894363820452244,64.99965720933,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","With Migration Background","Total","60% - 70%","c00_infant_mortality",5926,0.742490718866014,78.3907221073417,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","With Migration Background","Total","70% - 80%","c00_infant_mortality",5926,0.641241984475194,96.0844907853781,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","With Migration Background","Total","80% - 90%","c00_infant_mortality",5926,0.556868039149511,124.039355440094,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","With Migration Background","Total","90% - 100%","c00_infant_mortality",5925,0.405068999770521,225.649936750093,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","With Migration Background","Two Parents","0% - 10%","c00_infant_mortality",4638,1.57395429064252,22.2760091304868,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","With Migration Background","Two Parents","10% - 20%","c00_infant_mortality",4638,0.840879689521346,32.8864628327916,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","With Migration Background","Two Parents","20% - 30%","c00_infant_mortality",4638,0.819318671841311,42.1042723375875,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","With Migration Background","Two Parents","30% - 40%","c00_infant_mortality",4638,0.840879689521346,52.2677792975079,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","With Migration Background","Two Parents","40% - 50%","c00_infant_mortality",4637,0.92736560081943,62.4407749589772,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","With Migration Background","Two Parents","50% - 60%","c00_infant_mortality",4636,0.776531492666092,74.1594279015911,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","With Migration Background","Two Parents","60% - 70%","c00_infant_mortality",4636,0.582398619499569,87.835479752646,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","With Migration Background","Two Parents","70% - 80%","c00_infant_mortality",4636,0.711820534943917,106.247736326715,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","With Migration Background","Two Parents","80% - 90%","c00_infant_mortality",4636,0.409836065573771,135.075624036111,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Total","With Migration Background","Two Parents","90% - 100%","c00_infant_mortality",4636,0.323554788610871,242.292495249815,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Men","Total","Total","0% - 10%","c00_infant_mortality",4794,1.23070504797664,20.9678164165046,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Men","Total","Total","10% - 20%","c00_infant_mortality",4794,1.25156445556946,32.0976987666475,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Men","Total","Total","20% - 30%","c00_infant_mortality",4794,0.81351689612015,42.8043784176395,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Men","Total","Total","30% - 40%","c00_infant_mortality",4794,0.709219858156028,54.9507326958206,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Men","Total","Total","40% - 50%","c00_infant_mortality",4794,0.771798080934501,67.5592075106364,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Men","Total","Total","50% - 60%","c00_infant_mortality",4794,0.771798080934501,81.8144141882581,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Men","Total","Total","60% - 70%","c00_infant_mortality",4794,0.625782227784731,98.5260167188642,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Men","Total","Total","70% - 80%","c00_infant_mortality",4793,0.521598366906881,119.55815866467,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Men","Total","Total","80% - 90%","c00_infant_mortality",4792,0.500834724540901,151.019845071723,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Men","Total","Total","90% - 100%","c00_infant_mortality",4792,0.500834724540901,269.399012130223,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Men","Total","Two Parents","0% - 10%","c00_infant_mortality",3912,1.35480572597137,24.692760811044,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Men","Total","Two Parents","10% - 20%","c00_infant_mortality",3912,0.894683026584867,38.6743224826054,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Men","Total","Two Parents","20% - 30%","c00_infant_mortality",3912,0.639059304703476,51.9698841704344,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Men","Total","Two Parents","30% - 40%","c00_infant_mortality",3912,0.792433537832311,64.3332801357641,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Men","Total","Two Parents","40% - 50%","c00_infant_mortality",3912,0.869120654396728,77.4674078302723,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Men","Total","Two Parents","50% - 60%","c00_infant_mortality",3912,0.511247443762781,91.6620834105722,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Men","Total","Two Parents","60% - 70%","c00_infant_mortality",3911,0.434678005638105,108.306213525944,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Men","Total","Two Parents","70% - 80%","c00_infant_mortality",3910,0.485933503836317,129.014953423444,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Men","Total","Two Parents","80% - 90%","c00_infant_mortality",3910,0.51150895140665,160.868649125002,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Men","Total","Two Parents","90% - 100%","c00_infant_mortality",3910,0.460358056265985,283.920250168594,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Men","With Migration Background","Total","0% - 10%","c00_infant_mortality",3046,1.51017728168089,19.0088686106775,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Men","With Migration Background","Total","10% - 20%","c00_infant_mortality",3046,1.28036769533815,28.6915098257708,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Men","With Migration Background","Total","20% - 30%","c00_infant_mortality",3046,0.886408404464872,35.2577844079135,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Men","With Migration Background","Total","30% - 40%","c00_infant_mortality",3046,0.787918581746553,44.0343004086094,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Men","With Migration Background","Total","40% - 50%","c00_infant_mortality",3046,0.820748522652659,53.9491614367737,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Men","With Migration Background","Total","50% - 60%","c00_infant_mortality",3044,0.624178712220762,64.8971552922146,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Men","With Migration Background","Total","60% - 70%","c00_infant_mortality",3044,0.919842312746386,78.3243873421952,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Men","With Migration Background","Total","70% - 80%","c00_infant_mortality",3044,0.657030223390276,95.9008706602821,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Men","With Migration Background","Total","80% - 90%","c00_infant_mortality",3044,0.624178712220762,123.842160711956,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Men","With Migration Background","Total","90% - 100%","c00_infant_mortality",3044,0.394218134034166,229.288444043133,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Women","Total","Total","0% - 10%","c00_infant_mortality",4532,1.03706972639011,21.3143530565477,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Women","Total","Total","10% - 20%","c00_infant_mortality",4532,1.16946160635481,32.2755470962748,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Women","Total","Total","20% - 30%","c00_infant_mortality",4532,0.772285966460724,42.9741673356036,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Women","Total","Total","30% - 40%","c00_infant_mortality",4532,0.926743159752868,55.009576760283,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Women","Total","Total","40% - 50%","c00_infant_mortality",4530,0.971302428256071,67.5661756947347,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Women","Total","Total","50% - 60%","c00_infant_mortality",4530,0.618101545253863,82.0125045387531,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Women","Total","Total","60% - 70%","c00_infant_mortality",4530,0.529801324503311,98.9981937124644,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Women","Total","Total","70% - 80%","c00_infant_mortality",4530,0.507726269315673,120.209454812433,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Women","Total","Total","80% - 90%","c00_infant_mortality",4530,0.441501103752759,151.451869963906,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Women","Total","Total","90% - 100%","c00_infant_mortality",4530,0.485651214128035,261.056459011614,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Women","Total","Two Parents","0% - 10%","c00_infant_mortality",3694,1.21819166215485,24.9225316107014,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Women","Total","Two Parents","10% - 20%","c00_infant_mortality",3694,0.595560368164591,38.915283111601,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Women","Total","Two Parents","20% - 30%","c00_infant_mortality",3694,0.893340552246887,52.1593362947611,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Women","Total","Two Parents","30% - 40%","c00_infant_mortality",3694,0.893340552246887,64.6058477499922,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Women","Total","Two Parents","40% - 50%","c00_infant_mortality",3694,0.595560368164591,77.8593738180497,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Women","Total","Two Parents","50% - 60%","c00_infant_mortality",3692,0.514626218851571,92.5286254911433,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Women","Total","Two Parents","60% - 70%","c00_infant_mortality",3692,0.704225352112676,109.044114769213,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Women","Total","Two Parents","70% - 80%","c00_infant_mortality",3692,0.325027085590466,130.215146374498,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Women","Total","Two Parents","80% - 90%","c00_infant_mortality",3692,0.460455037919827,161.787139879728,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Women","Total","Two Parents","90% - 100%","c00_infant_mortality",3692,0.514626218851571,274.552807964631,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Women","With Migration Background","Total","0% - 10%","c00_infant_mortality",2882,1.28383067314365,19.3485286161627,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Women","With Migration Background","Total","10% - 20%","c00_infant_mortality",2882,1.35322692574601,28.9368945630209,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Women","With Migration Background","Total","20% - 30%","c00_infant_mortality",2882,0.832755031228314,35.4314968476053,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Women","With Migration Background","Total","30% - 40%","c00_infant_mortality",2882,0.798056904927134,44.2281094595536,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Women","With Migration Background","Total","40% - 50%","c00_infant_mortality",2881,1.00663119747089,54.27181363494,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Women","With Migration Background","Total","50% - 60%","c00_infant_mortality",2880,1.14583333333333,65.1402745431407,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Women","With Migration Background","Total","60% - 70%","c00_infant_mortality",2880,0.555555555555556,78.489880992829,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Women","With Migration Background","Total","70% - 80%","c00_infant_mortality",2880,0.625,96.3076944558299,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Women","With Migration Background","Total","80% - 90%","c00_infant_mortality",2880,0.486111111111111,124.273805583756,"Total",10,"Zuigelingensterfte"
+"Amsterdam","Women","With Migration Background","Total","90% - 100%","c00_infant_mortality",2880,0.416666666666667,221.809117974795,"Total",10,"Zuigelingensterfte"
+"'s-Gravenhage","Total","Total","Total","0% - 10%","c00_infant_mortality",5517,0.634379777856687,19.1359226469211,"Total",10,"Zuigelingensterfte"
+"'s-Gravenhage","Total","Total","Total","10% - 20%","c00_infant_mortality",5516,1.01522842639594,29.6815773868514,"Total",10,"Zuigelingensterfte"
+"'s-Gravenhage","Total","Total","Total","20% - 30%","c00_infant_mortality",5516,0.906453952139231,37.8793123471856,"Total",10,"Zuigelingensterfte"
+"'s-Gravenhage","Total","Total","Total","30% - 40%","c00_infant_mortality",5516,0.779550398839739,47.6888702709141,"Total",10,"Zuigelingensterfte"
+"'s-Gravenhage","Total","Total","Total","40% - 50%","c00_infant_mortality",5516,0.7070340826686,58.8476216242889,"Total",10,"Zuigelingensterfte"
+"'s-Gravenhage","Total","Total","Total","50% - 60%","c00_infant_mortality",5516,0.543872371283539,71.0657436128561,"Total",10,"Zuigelingensterfte"
+"'s-Gravenhage","Total","Total","Total","60% - 70%","c00_infant_mortality",5516,0.543872371283539,85.1339306089505,"Total",10,"Zuigelingensterfte"
+"'s-Gravenhage","Total","Total","Total","70% - 80%","c00_infant_mortality",5516,0.580130529369108,103.256921296395,"Total",10,"Zuigelingensterfte"
+"'s-Gravenhage","Total","Total","Total","80% - 90%","c00_infant_mortality",5516,0.380710659898477,130.123327439972,"Total",10,"Zuigelingensterfte"
+"'s-Gravenhage","Total","Total","Total","90% - 100%","c00_infant_mortality",5516,0.308194343727339,212.729538471991,"Total",10,"Zuigelingensterfte"
+"'s-Gravenhage","Total","Total","Two Parents","0% - 10%","c00_infant_mortality",4656,0.730240549828179,22.2217378507189,"Total",10,"Zuigelingensterfte"
+"'s-Gravenhage","Total","Total","Two Parents","10% - 20%","c00_infant_mortality",4656,0.837628865979381,34.321626002979,"Total",10,"Zuigelingensterfte"
+"'s-Gravenhage","Total","Total","Two Parents","20% - 30%","c00_infant_mortality",4656,0.77319587628866,44.4549610852318,"Total",10,"Zuigelingensterfte"
+"'s-Gravenhage","Total","Total","Two Parents","30% - 40%","c00_infant_mortality",4656,0.880584192439863,55.1432911991386,"Total",10,"Zuigelingensterfte"
+"'s-Gravenhage","Total","Total","Two Parents","40% - 50%","c00_infant_mortality",4656,0.558419243986254,66.5475009719644,"Total",10,"Zuigelingensterfte"
+"'s-Gravenhage","Total","Total","Two Parents","50% - 60%","c00_infant_mortality",4656,0.429553264604811,78.5412593495962,"Total",10,"Zuigelingensterfte"
+"'s-Gravenhage","Total","Total","Two Parents","60% - 70%","c00_infant_mortality",4655,0.68745135913828,92.5426221336407,"Total",10,"Zuigelingensterfte"
+"'s-Gravenhage","Total","Total","Two Parents","70% - 80%","c00_infant_mortality",4654,0.386764073914912,110.935950143973,"Total",10,"Zuigelingensterfte"
+"'s-Gravenhage","Total","Total","Two Parents","80% - 90%","c00_infant_mortality",4654,0.386764073914912,137.443786798378,"Total",10,"Zuigelingensterfte"
+"'s-Gravenhage","Total","Total","Two Parents","90% - 100%","c00_infant_mortality",4654,0.343790287924366,221.978024382734,"Total",10,"Zuigelingensterfte"
+"'s-Gravenhage","Total","With Migration Background","Total","0% - 10%","c00_infant_mortality",3586,0.585610708310095,17.0431904935835,"Total",10,"Zuigelingensterfte"
+"'s-Gravenhage","Total","With Migration Background","Total","10% - 20%","c00_infant_mortality",3586,1.03179029559398,27.0206720644239,"Total",10,"Zuigelingensterfte"
+"'s-Gravenhage","Total","With Migration Background","Total","20% - 30%","c00_infant_mortality",3586,0.892359174567764,32.5392220874754,"Total",10,"Zuigelingensterfte"
+"'s-Gravenhage","Total","With Migration Background","Total","30% - 40%","c00_infant_mortality",3586,0.892359174567764,39.3792687342299,"Total",10,"Zuigelingensterfte"
+"'s-Gravenhage","Total","With Migration Background","Total","40% - 50%","c00_infant_mortality",3586,0.780814277746793,47.4598348260083,"Total",10,"Zuigelingensterfte"
+"'s-Gravenhage","Total","With Migration Background","Total","50% - 60%","c00_infant_mortality",3586,0.836586726157278,57.0500221174057,"Total",10,"Zuigelingensterfte"
+"'s-Gravenhage","Total","With Migration Background","Total","60% - 70%","c00_infant_mortality",3584,0.725446428571429,68.8192366253672,"Total",10,"Zuigelingensterfte"
+"'s-Gravenhage","Total","With Migration Background","Total","70% - 80%","c00_infant_mortality",3584,0.530133928571429,84.3841428085628,"Total",10,"Zuigelingensterfte"
+"'s-Gravenhage","Total","With Migration Background","Total","80% - 90%","c00_infant_mortality",3584,0.474330357142857,107.837641380022,"Total",10,"Zuigelingensterfte"
+"'s-Gravenhage","Total","With Migration Background","Total","90% - 100%","c00_infant_mortality",3584,0.306919642857143,190.053076805214,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","Total","Total","0% - 10%","c00_infant_mortality",6558,0.991155840195181,18.2949769490873,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","Total","Total","10% - 20%","c00_infant_mortality",6558,0.808173223543763,28.0273873924712,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","Total","Total","20% - 30%","c00_infant_mortality",6557,0.823542721342632,35.0725427355265,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","Total","Total","30% - 40%","c00_infant_mortality",6556,0.549115314215985,44.880037269547,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","Total","Total","40% - 50%","c00_infant_mortality",6556,0.747406955460647,55.8037519605305,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","Total","Total","50% - 60%","c00_infant_mortality",6556,0.594874923733984,67.2003073277969,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","Total","Total","60% - 70%","c00_infant_mortality",6556,0.762660158633313,79.9597603544792,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","Total","Total","70% - 80%","c00_infant_mortality",6556,0.671140939597315,95.6449464403605,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","Total","Total","80% - 90%","c00_infant_mortality",6556,0.625381330079317,118.635867767411,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","Total","Total","90% - 100%","c00_infant_mortality",6556,0.396583282489323,188.705259418127,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","Total","Two Parents","0% - 10%","c00_infant_mortality",5147,0.854859395473465,22.3794393716608,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","Total","Two Parents","10% - 20%","c00_infant_mortality",5146,0.738437621453556,34.375969825712,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","Total","Two Parents","20% - 30%","c00_infant_mortality",5146,0.544111931597357,45.3389890591807,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","Total","Two Parents","30% - 40%","c00_infant_mortality",5146,0.699572483482316,56.1981732687194,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","Total","Two Parents","40% - 50%","c00_infant_mortality",5146,0.544111931597357,66.5493194839387,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","Total","Two Parents","50% - 60%","c00_infant_mortality",5146,0.816167897396036,77.440408023606,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","Total","Two Parents","60% - 70%","c00_infant_mortality",5146,0.680139914496696,89.5800573873578,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","Total","Two Parents","70% - 80%","c00_infant_mortality",5146,0.738437621453556,105.261610281957,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","Total","Two Parents","80% - 90%","c00_infant_mortality",5146,0.408083948698018,127.976328093085,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","Total","Two Parents","90% - 100%","c00_infant_mortality",5146,0.330353672755538,200.224500216336,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","With Migration Background","Total","0% - 10%","c00_infant_mortality",4296,0.907821229050279,16.4286433690786,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","With Migration Background","Total","10% - 20%","c00_infant_mortality",4296,1.04748603351955,25.6509368973564,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","With Migration Background","Total","20% - 30%","c00_infant_mortality",4296,0.861266294227188,30.4147277560919,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","With Migration Background","Total","30% - 40%","c00_infant_mortality",4296,0.884543761638734,36.3974962937796,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","With Migration Background","Total","40% - 50%","c00_infant_mortality",4296,0.535381750465549,44.5181091200939,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","With Migration Background","Total","50% - 60%","c00_infant_mortality",4296,0.954376163873371,53.9805828384815,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","With Migration Background","Total","60% - 70%","c00_infant_mortality",4296,0.628491620111732,64.6224149872521,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","With Migration Background","Total","70% - 80%","c00_infant_mortality",4296,0.698324022346369,77.91575609582,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","With Migration Background","Total","80% - 90%","c00_infant_mortality",4296,0.814711359404097,97.2866426838623,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","With Migration Background","Total","90% - 100%","c00_infant_mortality",4294,0.605496040987424,156.65194398949,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","With Migration Background","Two Parents","0% - 10%","c00_infant_mortality",3152,0.888324873096447,19.8468925158408,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","With Migration Background","Two Parents","10% - 20%","c00_infant_mortality",3152,0.856598984771574,30.0541084271647,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","With Migration Background","Two Parents","20% - 30%","c00_infant_mortality",3152,0.634517766497462,36.9825625390781,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","With Migration Background","Two Parents","30% - 40%","c00_infant_mortality",3152,0.475888324873097,45.6069862256627,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","With Migration Background","Two Parents","40% - 50%","c00_infant_mortality",3152,1.01522842639594,54.5816537302324,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","With Migration Background","Two Parents","50% - 60%","c00_infant_mortality",3152,0.444162436548223,63.8326910280894,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","With Migration Background","Two Parents","60% - 70%","c00_infant_mortality",3152,0.856598984771574,74.4567973903892,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","With Migration Background","Two Parents","70% - 80%","c00_infant_mortality",3152,0.761421319796954,87.4619277717928,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","With Migration Background","Two Parents","80% - 90%","c00_infant_mortality",3152,0.666243654822335,107.360534999877,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Total","With Migration Background","Two Parents","90% - 100%","c00_infant_mortality",3152,0.602791878172589,169.361987748575,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Men","Total","Total","0% - 10%","c00_infant_mortality",3376,1.15521327014218,18.207728877487,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Men","Total","Total","10% - 20%","c00_infant_mortality",3376,0.710900473933649,27.9766580807027,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Men","Total","Total","20% - 30%","c00_infant_mortality",3376,0.859004739336493,34.8598913520755,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Men","Total","Total","30% - 40%","c00_infant_mortality",3374,0.563129816241849,44.7401570204718,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Men","Total","Total","40% - 50%","c00_infant_mortality",3374,0.770598695909899,55.6701630646793,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Men","Total","Total","50% - 60%","c00_infant_mortality",3374,0.711321873147599,67.0708766704177,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Men","Total","Total","60% - 70%","c00_infant_mortality",3374,0.592768227622999,79.9281198897974,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Men","Total","Total","70% - 80%","c00_infant_mortality",3374,0.770598695909899,95.3993263749458,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Men","Total","Total","80% - 90%","c00_infant_mortality",3374,0.592768227622999,118.146689523634,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Men","Total","Total","90% - 100%","c00_infant_mortality",3374,0.38529934795495,186.123273299972,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Women","Total","Total","0% - 10%","c00_infant_mortality",3182,0.817096165933375,18.3876415625043,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Women","Total","Total","10% - 20%","c00_infant_mortality",3182,0.879949717159019,28.0840213900852,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Women","Total","Total","20% - 30%","c00_infant_mortality",3182,0.785669390320553,35.3013673425305,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Women","Total","Total","30% - 40%","c00_infant_mortality",3182,0.534255185417976,45.0273549218179,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Women","Total","Total","40% - 50%","c00_infant_mortality",3182,0.754242614707731,55.9496430700435,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Women","Total","Total","50% - 60%","c00_infant_mortality",3182,0.502828409805154,67.3406258287443,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Women","Total","Total","60% - 70%","c00_infant_mortality",3182,0.879949717159019,79.9984724716235,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Women","Total","Total","70% - 80%","c00_infant_mortality",3182,0.59710873664362,95.9144998555226,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Women","Total","Total","80% - 90%","c00_infant_mortality",3182,0.659962287869265,119.183429416038,"Total",10,"Zuigelingensterfte"
+"Rotterdam","Women","Total","Total","90% - 100%","c00_infant_mortality",3181,0.408666674572774,191.448965673807,"Total",10,"Zuigelingensterfte"
+"The Netherlands","Total","Total","Total","0% - 10%","c00_infant_mortality",149622,0.928339415326623,24.5161958268058,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Total","Total","10% - 20%","c00_infant_mortality",149622,0.789322425846467,40.2803953617804,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Total","Total","20% - 30%","c00_infant_mortality",149622,0.668350910962292,53.3811892213185,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Total","Total","30% - 40%","c00_infant_mortality",149622,0.652978840010159,63.3896340379086,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Total","Total","40% - 50%","c00_infant_mortality",149622,0.610872732619535,72.2600921237432,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Total","Total","50% - 60%","c00_infant_mortality",149622,0.584138696181043,81.3090786546691,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Total","Total","60% - 70%","c00_infant_mortality",149622,0.533344026947909,91.5577904015,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Total","Total","70% - 80%","c00_infant_mortality",149621,0.549388120651513,104.468260850308,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Total","Total","80% - 90%","c00_infant_mortality",149621,0.515301996377514,123.849461276806,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Total","Total","90% - 100%","c00_infant_mortality",149621,0.485226004371044,191.151103683422,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Total","Single Parent","0% - 10%","c00_infant_mortality",12442,0.699244494454268,14.5441514454578,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Total","Single Parent","10% - 20%","c00_infant_mortality",12442,0.699244494454268,22.2698989182359,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Total","Single Parent","20% - 30%","c00_infant_mortality",12441,0.860059480749136,25.8156742298211,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Total","Single Parent","30% - 40%","c00_infant_mortality",12441,0.884173297966401,28.3013451140591,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Total","Single Parent","40% - 50%","c00_infant_mortality",12441,0.900249176111245,31.6058280980636,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Total","Single Parent","50% - 60%","c00_infant_mortality",12441,0.731452455590387,36.914813078154,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Total","Single Parent","60% - 70%","c00_infant_mortality",12441,0.618921308576481,44.038979991325,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Total","Single Parent","70% - 80%","c00_infant_mortality",12441,0.594807491359216,53.7184263604252,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Total","Single Parent","80% - 90%","c00_infant_mortality",12441,0.643035125793746,68.6565304072095,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Total","Single Parent","90% - 100%","c00_infant_mortality",12441,0.401896953621092,119.892959090483,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Total","Two Parents","0% - 10%","c00_infant_mortality",136747,0.847550586118891,28.8311562524181,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Total","Two Parents","10% - 20%","c00_infant_mortality",136747,0.68081932327583,46.6965263918822,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Total","Two Parents","20% - 30%","c00_infant_mortality",136747,0.642792894908115,58.2529762191702,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Total","Two Parents","30% - 40%","c00_infant_mortality",136747,0.625973513130087,67.1963647579216,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Total","Two Parents","40% - 50%","c00_infant_mortality",136747,0.581365587544882,75.5523274709896,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Total","Two Parents","50% - 60%","c00_infant_mortality",136747,0.553577043737705,84.305257326918,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Total","Two Parents","60% - 70%","c00_infant_mortality",136747,0.536757661959677,94.398177801868,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Total","Two Parents","70% - 80%","c00_infant_mortality",136747,0.557964708549365,107.203110768245,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Total","Two Parents","80% - 90%","c00_infant_mortality",136746,0.491422052564609,126.604115040242,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Total","Two Parents","90% - 100%","c00_infant_mortality",136746,0.484840507217761,194.738823920513,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","No Migration Background","Total","0% - 10%","c00_infant_mortality",102139,0.816534330667032,31.9166898657746,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","No Migration Background","Total","10% - 20%","c00_infant_mortality",102139,0.655968826794858,51.3979415932631,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","No Migration Background","Total","20% - 30%","c00_infant_mortality",102139,0.657926942695738,62.1121146372853,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","No Migration Background","Total","30% - 40%","c00_infant_mortality",102139,0.616806508777254,70.4820144173183,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","No Migration Background","Total","40% - 50%","c00_infant_mortality",102139,0.589392886164932,78.4522674221006,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","No Migration Background","Total","50% - 60%","c00_infant_mortality",102139,0.525754119386326,86.9043435814254,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","No Migration Background","Total","60% - 70%","c00_infant_mortality",102139,0.534565640940287,96.7222782538396,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","No Migration Background","Total","70% - 80%","c00_infant_mortality",102139,0.56687455330481,109.206132310876,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","No Migration Background","Total","80% - 90%","c00_infant_mortality",102139,0.500298612674884,128.163773480993,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","No Migration Background","Total","90% - 100%","c00_infant_mortality",102139,0.513026366030605,194.136796506921,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","No Migration Background","Single Parent","0% - 10%","c00_infant_mortality",4980,0.602409638554217,17.1600688092183,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","No Migration Background","Single Parent","10% - 20%","c00_infant_mortality",4979,0.743121108656357,24.5051045536935,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","No Migration Background","Single Parent","20% - 30%","c00_infant_mortality",4979,0.602530628640289,27.8175031831832,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","No Migration Background","Single Parent","30% - 40%","c00_infant_mortality",4979,0.843542880096405,31.6695343774746,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","No Migration Background","Single Parent","40% - 50%","c00_infant_mortality",4979,0.763205462944366,37.4732984065844,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","No Migration Background","Single Parent","50% - 60%","c00_infant_mortality",4979,0.54227756577626,44.3250713776018,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","No Migration Background","Single Parent","60% - 70%","c00_infant_mortality",4979,0.622614982928299,52.5415070083466,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","No Migration Background","Single Parent","70% - 80%","c00_infant_mortality",4979,0.702952400080337,63.3697421568004,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","No Migration Background","Single Parent","80% - 90%","c00_infant_mortality",4979,0.441855794336212,79.725421524361,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","No Migration Background","Single Parent","90% - 100%","c00_infant_mortality",4979,0.441855794336212,138.073051792845,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","No Migration Background","Two Parents","0% - 10%","c00_infant_mortality",96984,0.735172812010229,36.1682004954684,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","No Migration Background","Two Parents","10% - 20%","c00_infant_mortality",96984,0.619689845747752,54.6435069792068,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","No Migration Background","Two Parents","20% - 30%","c00_infant_mortality",96984,0.642373999835024,64.3473381155754,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","No Migration Background","Two Parents","30% - 40%","c00_infant_mortality",96984,0.584632516703786,72.3297928624006,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","No Migration Background","Two Parents","40% - 50%","c00_infant_mortality",96984,0.576383733399324,80.0900153106827,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","No Migration Background","Two Parents","50% - 60%","c00_infant_mortality",96984,0.51658005444197,88.4373111921013,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","No Migration Background","Two Parents","60% - 70%","c00_infant_mortality",96984,0.534108718963953,98.1746178057914,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","No Migration Background","Two Parents","70% - 80%","c00_infant_mortality",96983,0.565047482548488,110.623776496446,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","No Migration Background","Two Parents","80% - 90%","c00_infant_mortality",96983,0.496994318591918,129.584018390947,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","No Migration Background","Two Parents","90% - 100%","c00_infant_mortality",96983,0.512460946763866,195.795812034735,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Turkey","Total","0% - 10%","c00_infant_mortality",5321,0.958466453674121,21.0903274149841,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Turkey","Total","10% - 20%","c00_infant_mortality",5321,0.751738395038527,30.2964537324962,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Turkey","Total","20% - 30%","c00_infant_mortality",5321,0.77053185491449,36.8674164179332,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Turkey","Total","30% - 40%","c00_infant_mortality",5321,0.883292614170269,44.0418712657925,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Turkey","Total","40% - 50%","c00_infant_mortality",5321,0.638977635782748,51.2401233194263,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Turkey","Total","50% - 60%","c00_infant_mortality",5321,0.808118774666416,58.4680764179501,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Turkey","Total","60% - 70%","c00_infant_mortality",5321,0.864499154294306,66.1057411508117,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Turkey","Total","70% - 80%","c00_infant_mortality",5321,0.732944935162563,75.5301555952813,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Turkey","Total","80% - 90%","c00_infant_mortality",5321,0.845705694418342,89.4264070996544,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Turkey","Total","90% - 100%","c00_infant_mortality",5320,0.639097744360902,133.506502430005,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Turkey","Two Parents","0% - 10%","c00_infant_mortality",4853,0.844838244384916,22.4751500871051,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Turkey","Two Parents","10% - 20%","c00_infant_mortality",4853,0.82423243354626,32.1904347022655,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Turkey","Two Parents","20% - 30%","c00_infant_mortality",4853,0.865444055223573,39.3338585582728,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Turkey","Two Parents","30% - 40%","c00_infant_mortality",4853,0.844838244384916,46.5382930873529,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Turkey","Two Parents","40% - 50%","c00_infant_mortality",4853,0.597568514321039,53.4850840364345,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Turkey","Two Parents","50% - 60%","c00_infant_mortality",4852,0.721352019785655,60.4472556544249,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Turkey","Two Parents","60% - 70%","c00_infant_mortality",4852,0.865622423742786,67.9797134764503,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Turkey","Two Parents","70% - 80%","c00_infant_mortality",4852,0.803792250618302,77.3069684774542,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Turkey","Two Parents","80% - 90%","c00_infant_mortality",4852,0.78318219291014,91.1956742460944,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Turkey","Two Parents","90% - 100%","c00_infant_mortality",4852,0.680131904369332,136.001932683221,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Morocco","Total","0% - 10%","c00_infant_mortality",6759,0.798934753661784,21.6293004965488,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Morocco","Total","10% - 20%","c00_infant_mortality",6759,1.05045125018494,29.6119488630008,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Morocco","Total","20% - 30%","c00_infant_mortality",6758,0.991417579165433,34.3468352153104,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Morocco","Total","30% - 40%","c00_infant_mortality",6758,0.680674755844925,40.7389760877911,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Morocco","Total","40% - 50%","c00_infant_mortality",6758,0.843444806155667,48.1792620859929,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Morocco","Total","50% - 60%","c00_infant_mortality",6758,0.976620301864457,55.8074884991084,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Morocco","Total","60% - 70%","c00_infant_mortality",6758,0.725066587747854,64.1551433632718,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Morocco","Total","70% - 80%","c00_infant_mortality",6758,0.902633915359574,74.1926481739129,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Morocco","Total","80% - 90%","c00_infant_mortality",6758,0.858242083456644,87.9708070605267,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Morocco","Total","90% - 100%","c00_infant_mortality",6758,0.710269310446878,128.098462353865,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Morocco","Two Parents","0% - 10%","c00_infant_mortality",5977,0.987117282917852,23.3802167273182,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Morocco","Two Parents","10% - 20%","c00_infant_mortality",5977,0.93692487870169,31.3842893222821,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Morocco","Two Parents","20% - 30%","c00_infant_mortality",5977,0.769616864647817,36.8606297006039,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Morocco","Two Parents","30% - 40%","c00_infant_mortality",5977,0.752886063242429,43.8789267770026,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Morocco","Two Parents","40% - 50%","c00_infant_mortality",5977,1.03730968713401,51.1917823176377,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Morocco","Two Parents","50% - 60%","c00_infant_mortality",5977,0.652501254810105,58.567926551161,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Morocco","Two Parents","60% - 70%","c00_infant_mortality",5977,0.953655680107077,66.7764830044229,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Morocco","Two Parents","70% - 80%","c00_infant_mortality",5976,0.753012048192771,76.5921073921682,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Morocco","Two Parents","80% - 90%","c00_infant_mortality",5976,0.937081659973226,90.3105409494996,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Morocco","Two Parents","90% - 100%","c00_infant_mortality",5976,0.619143239625167,130.877388574617,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Suriname","Total","0% - 10%","c00_infant_mortality",4386,1.27678978568171,18.678942693198,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Suriname","Total","10% - 20%","c00_infant_mortality",4386,1.13999088007296,27.9021569610991,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Suriname","Total","20% - 30%","c00_infant_mortality",4386,1.0031919744642,34.9657455286709,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Suriname","Total","30% - 40%","c00_infant_mortality",4386,0.980392156862745,44.119360924049,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Suriname","Total","40% - 50%","c00_infant_mortality",4386,0.889192886456908,53.8570464771174,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Suriname","Total","50% - 60%","c00_infant_mortality",4386,0.615595075239398,64.0576983390488,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Suriname","Total","60% - 70%","c00_infant_mortality",4386,0.661194710442316,75.0286623038594,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Suriname","Total","70% - 80%","c00_infant_mortality",4385,0.706955530216648,87.8965489229516,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Suriname","Total","80% - 90%","c00_infant_mortality",4385,0.592930444697834,105.761415136292,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Suriname","Total","90% - 100%","c00_infant_mortality",4385,0.615735461801596,159.679767025819,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Suriname","Two Parents","0% - 10%","c00_infant_mortality",2864,1.25698324022346,24.4488736545067,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Suriname","Two Parents","10% - 20%","c00_infant_mortality",2864,0.768156424581006,39.4392729244086,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Suriname","Two Parents","20% - 30%","c00_infant_mortality",2864,0.803072625698324,50.8488735031413,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Suriname","Two Parents","30% - 40%","c00_infant_mortality",2864,0.523743016759777,60.4551187661972,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Suriname","Two Parents","40% - 50%","c00_infant_mortality",2864,0.698324022346369,69.3420891862702,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Suriname","Two Parents","50% - 60%","c00_infant_mortality",2864,0.488826815642458,78.4025845785419,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Suriname","Two Parents","60% - 70%","c00_infant_mortality",2863,0.803353126091512,88.2050929046365,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Suriname","Two Parents","70% - 80%","c00_infant_mortality",2863,0.628711142158575,100.32147999575,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Suriname","Two Parents","80% - 90%","c00_infant_mortality",2863,0.384212364652462,117.797792780099,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Suriname","Two Parents","90% - 100%","c00_infant_mortality",2863,0.628711142158575,174.215215570236,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Dutch Caribbean","Total","0% - 10%","c00_infant_mortality",2451,0.938392492860057,14.5030315877064,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Dutch Caribbean","Total","10% - 20%","c00_infant_mortality",2451,0.856793145654835,23.462850478609,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Dutch Caribbean","Total","20% - 30%","c00_infant_mortality",2451,0.938392492860057,28.1706139635584,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Dutch Caribbean","Total","30% - 40%","c00_infant_mortality",2451,0.611995104039168,33.3516466855247,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Dutch Caribbean","Total","40% - 50%","c00_infant_mortality",2451,0.775193798449612,41.055092964039,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Dutch Caribbean","Total","50% - 60%","c00_infant_mortality",2451,0.734394124847001,51.1955056482555,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Dutch Caribbean","Total","60% - 70%","c00_infant_mortality",2450,0.571428571428571,63.3802256553706,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Dutch Caribbean","Total","70% - 80%","c00_infant_mortality",2450,0.571428571428571,78.1602770858871,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Dutch Caribbean","Total","80% - 90%","c00_infant_mortality",2450,0.571428571428571,99.4246035860764,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","Dutch Caribbean","Total","90% - 100%","c00_infant_mortality",2450,0.571428571428571,160.763211754534,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","With Migration Background","Total","0% - 10%","c00_infant_mortality",47483,1.00457005665185,19.1517113414844,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","With Migration Background","Total","10% - 20%","c00_infant_mortality",47483,0.9835098877493,28.8323341472772,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","With Migration Background","Total","20% - 30%","c00_infant_mortality",47483,0.831876671650907,36.0773342931905,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","With Migration Background","Total","30% - 40%","c00_infant_mortality",47483,0.713939725796601,45.4115289355864,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","With Migration Background","Total","40% - 50%","c00_infant_mortality",47483,0.705515658235579,55.0739942047409,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","With Migration Background","Total","50% - 60%","c00_infant_mortality",47483,0.669713371101236,65.0351351529848,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","With Migration Background","Total","60% - 70%","c00_infant_mortality",47483,0.612850915064339,76.2105905056066,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","With Migration Background","Total","70% - 80%","c00_infant_mortality",47482,0.585485025904553,90.2634743074416,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","With Migration Background","Total","80% - 90%","c00_infant_mortality",47482,0.49281833115707,111.174090469094,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","With Migration Background","Total","90% - 100%","c00_infant_mortality",47482,0.448591045027589,182.702868394081,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","With Migration Background","Single Parent","0% - 10%","c00_infant_mortality",7463,0.696770735629104,13.2480588952519,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","With Migration Background","Single Parent","10% - 20%","c00_infant_mortality",7462,0.710265344411686,20.9694478234645,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","With Migration Background","Single Parent","20% - 30%","c00_infant_mortality",7462,0.777271508978826,24.6500429649092,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","With Migration Background","Single Parent","30% - 40%","c00_infant_mortality",7462,1.15250603055481,27.0900414139879,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","With Migration Background","Single Parent","40% - 50%","c00_infant_mortality",7462,0.991691235593675,29.3736616777813,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","With Migration Background","Single Parent","50% - 60%","c00_infant_mortality",7462,0.804073974805682,32.9930424541867,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","With Migration Background","Single Parent","60% - 70%","c00_infant_mortality",7462,0.656660412757974,38.6931929968008,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","With Migration Background","Single Parent","70% - 80%","c00_infant_mortality",7462,0.68346287858483,46.9333427607189,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","With Migration Background","Single Parent","80% - 90%","c00_infant_mortality",7462,0.61645671401769,60.1620501974204,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","With Migration Background","Single Parent","90% - 100%","c00_infant_mortality",7462,0.428839453229697,104.337612343657,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","With Migration Background","Two Parents","0% - 10%","c00_infant_mortality",39764,0.978271803641485,22.2668200851256,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","With Migration Background","Two Parents","10% - 20%","c00_infant_mortality",39763,0.822372557402611,33.3582912802769,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","With Migration Background","Two Parents","20% - 30%","c00_infant_mortality",39763,0.719261625128889,42.9415812375813,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","With Migration Background","Two Parents","30% - 40%","c00_infant_mortality",39763,0.701657319618741,52.4908419316474,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","With Migration Background","Two Parents","40% - 50%","c00_infant_mortality",39763,0.626210296003823,61.6495364228695,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","With Migration Background","Two Parents","50% - 60%","c00_infant_mortality",39763,0.631240097578151,71.1959456539759,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","With Migration Background","Two Parents","60% - 70%","c00_infant_mortality",39763,0.580942081834872,82.2111982793343,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","With Migration Background","Two Parents","70% - 80%","c00_infant_mortality",39763,0.543218570027412,96.1755040296138,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","With Migration Background","Two Parents","80% - 90%","c00_infant_mortality",39763,0.518069562155773,117.162747967007,NA,1,"Zuigelingensterfte"
+"The Netherlands","Total","With Migration Background","Two Parents","90% - 100%","c00_infant_mortality",39763,0.417473530669215,191.118772316729,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Total","Total","0% - 10%","c00_infant_mortality",76690,0.983179032468379,24.4573247520168,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Total","Total","10% - 20%","c00_infant_mortality",76690,0.831920719780936,40.1790636125459,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Total","Total","20% - 30%","c00_infant_mortality",76690,0.689790063893598,53.3257298153559,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Total","Total","30% - 40%","c00_infant_mortality",76690,0.688486112922154,63.3460951860209,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Total","Total","40% - 50%","c00_infant_mortality",76690,0.629808319207198,72.1984801708876,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Total","Total","50% - 60%","c00_infant_mortality",76690,0.608945103664102,81.2573550960902,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Total","Total","60% - 70%","c00_infant_mortality",76690,0.528100143434607,91.4978301900697,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Total","Total","70% - 80%","c00_infant_mortality",76690,0.554179162863476,104.413794356533,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Total","Total","80% - 90%","c00_infant_mortality",76690,0.512452731777285,123.736957189036,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Total","Total","90% - 100%","c00_infant_mortality",76689,0.49811576627678,191.161329576238,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Total","Single Parent","0% - 10%","c00_infant_mortality",6391,0.782350179940541,14.3662087590222,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Total","Single Parent","10% - 20%","c00_infant_mortality",6391,0.719762165545298,22.2015379316883,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Total","Single Parent","20% - 30%","c00_infant_mortality",6391,0.985761226725082,25.7665202308356,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Total","Single Parent","30% - 40%","c00_infant_mortality",6391,0.844938194335785,28.2825122511621,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Total","Single Parent","40% - 50%","c00_infant_mortality",6391,1.0170552339227,31.5717453668571,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Total","Single Parent","50% - 60%","c00_infant_mortality",6390,0.735524256651017,36.8305205810176,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Total","Single Parent","60% - 70%","c00_infant_mortality",6390,0.54773082942097,43.9527110474662,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Total","Single Parent","70% - 80%","c00_infant_mortality",6390,0.657276995305164,53.7018217280382,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Total","Single Parent","80% - 90%","c00_infant_mortality",6390,0.735524256651017,68.6482160315552,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Total","Single Parent","90% - 100%","c00_infant_mortality",6390,0.359937402190923,120.622007455655,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Total","Two Parents","0% - 10%","c00_infant_mortality",70076,0.883326673896912,28.7727039472345,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Total","Two Parents","10% - 20%","c00_infant_mortality",70076,0.699240824247959,46.6180563414492,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Total","Two Parents","20% - 30%","c00_infant_mortality",70076,0.699240824247959,58.214616105071,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Total","Two Parents","30% - 40%","c00_infant_mortality",70076,0.647868028997089,67.1533273383152,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Total","Two Parents","40% - 50%","c00_infant_mortality",70076,0.580797990752897,75.492673505212,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Total","Two Parents","50% - 60%","c00_infant_mortality",70076,0.590787145385011,84.2630630804579,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Total","Two Parents","60% - 70%","c00_infant_mortality",70075,0.51944345344274,94.3402886041072,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Total","Two Parents","70% - 80%","c00_infant_mortality",70075,0.557973599714592,107.143859756112,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Total","Two Parents","80% - 90%","c00_infant_mortality",70075,0.48662147698894,126.482134751143,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Total","Two Parents","90% - 100%","c00_infant_mortality",70075,0.506600071352123,194.704442678504,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","No Migration Background","Total","0% - 10%","c00_infant_mortality",52325,0.884854276158624,31.7855636221173,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","No Migration Background","Total","10% - 20%","c00_infant_mortality",52324,0.676553780292027,51.3164110957597,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","No Migration Background","Total","20% - 30%","c00_infant_mortality",52324,0.701398975613485,62.0512087655615,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","No Migration Background","Total","30% - 40%","c00_infant_mortality",52324,0.621129883036465,70.4180154603285,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","No Migration Background","Total","40% - 50%","c00_infant_mortality",52324,0.615396376423821,78.3920774362604,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","No Migration Background","Total","50% - 60%","c00_infant_mortality",52324,0.529393777234156,86.8510568483881,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","No Migration Background","Total","60% - 70%","c00_infant_mortality",52324,0.535127283846801,96.630009032707,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","No Migration Background","Total","70% - 80%","c00_infant_mortality",52324,0.558061310297378,109.102477181516,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","No Migration Background","Total","80% - 90%","c00_infant_mortality",52324,0.494992737558291,127.99574098884,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","No Migration Background","Total","90% - 100%","c00_infant_mortality",52324,0.533216114975919,194.01746671582,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","No Migration Background","Two Parents","0% - 10%","c00_infant_mortality",49667,0.783216220025369,36.0636280928082,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","No Migration Background","Two Parents","10% - 20%","c00_infant_mortality",49667,0.672478708196589,54.595389879656,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","No Migration Background","Two Parents","20% - 30%","c00_infant_mortality",49667,0.638250749994966,64.3045225727397,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","No Migration Background","Two Parents","30% - 40%","c00_infant_mortality",49667,0.618116656935188,72.2751140565626,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","No Migration Background","Two Parents","40% - 50%","c00_infant_mortality",49667,0.614089838323233,80.0453030767137,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","No Migration Background","Two Parents","50% - 60%","c00_infant_mortality",49666,0.501349011396126,88.3908198295185,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","No Migration Background","Two Parents","60% - 70%","c00_infant_mortality",49666,0.533564208915556,98.0989426784993,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","No Migration Background","Two Parents","70% - 80%","c00_infant_mortality",49666,0.563765956590021,110.518116553214,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","No Migration Background","Two Parents","80% - 90%","c00_infant_mortality",49666,0.473160713566625,129.412988585312,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","No Migration Background","Two Parents","90% - 100%","c00_infant_mortality",49666,0.543631458140378,195.721695437922,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Turkey","Total","0% - 10%","c00_infant_mortality",2729,0.916086478563576,21.031812534354,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Turkey","Total","10% - 20%","c00_infant_mortality",2729,0.916086478563576,30.2371068442254,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Turkey","Total","20% - 30%","c00_infant_mortality",2729,0.769512641993404,36.6617217169661,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Turkey","Total","30% - 40%","c00_infant_mortality",2729,0.952729937706119,43.8131218197044,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Turkey","Total","40% - 50%","c00_infant_mortality",2728,0.586510263929619,51.1053419390654,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Turkey","Total","50% - 60%","c00_infant_mortality",2728,1.09970674486804,58.4831638032959,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Turkey","Total","60% - 70%","c00_infant_mortality",2728,1.02639296187683,66.0131650106601,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Turkey","Total","70% - 80%","c00_infant_mortality",2728,0.733137829912024,75.4527645923699,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Turkey","Total","80% - 90%","c00_infant_mortality",2728,0.806451612903226,89.1447096073903,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Turkey","Total","90% - 100%","c00_infant_mortality",2728,0.733137829912024,133.918880267097,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Turkey","Two Parents","0% - 10%","c00_infant_mortality",2484,0.885668276972625,22.5124786132296,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Turkey","Two Parents","10% - 20%","c00_infant_mortality",2484,0.966183574879227,32.1362030908903,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Turkey","Two Parents","20% - 30%","c00_infant_mortality",2484,0.885668276972625,39.1883055570226,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Turkey","Two Parents","30% - 40%","c00_infant_mortality",2484,0.845410628019324,46.3633918780829,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Turkey","Two Parents","40% - 50%","c00_infant_mortality",2484,0.684380032206119,53.4723013491815,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Turkey","Two Parents","50% - 60%","c00_infant_mortality",2484,0.925925925925926,60.5090390037336,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Turkey","Two Parents","60% - 70%","c00_infant_mortality",2484,1.04669887278583,67.9260377115849,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Turkey","Two Parents","70% - 80%","c00_infant_mortality",2484,0.805152979066022,77.2662763168429,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Turkey","Two Parents","80% - 90%","c00_infant_mortality",2483,0.76520338300443,90.9334817333913,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Turkey","Two Parents","90% - 100%","c00_infant_mortality",2483,0.805477245267821,136.59539119278,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Morocco","Total","0% - 10%","c00_infant_mortality",3458,0.607287449392713,21.5960737137354,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Morocco","Total","10% - 20%","c00_infant_mortality",3457,0.925658085044836,29.5955175610322,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Morocco","Total","20% - 30%","c00_infant_mortality",3457,1.12814579114839,34.3411850914843,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Morocco","Total","30% - 40%","c00_infant_mortality",3457,0.694243563783627,40.7644116476216,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Morocco","Total","40% - 50%","c00_infant_mortality",3457,0.781024009256581,48.2497793220581,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Morocco","Total","50% - 60%","c00_infant_mortality",3457,1.09921897599074,55.9739669428091,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Morocco","Total","60% - 70%","c00_infant_mortality",3457,0.925658085044836,64.4664232335485,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Morocco","Total","70% - 80%","c00_infant_mortality",3457,0.75209719409893,74.3745676640153,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Morocco","Total","80% - 90%","c00_infant_mortality",3457,0.896731269887185,88.082934552223,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Morocco","Total","90% - 100%","c00_infant_mortality",3457,0.838877639571883,127.312954449621,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Morocco","Two Parents","0% - 10%","c00_infant_mortality",3056,0.75261780104712,23.4418439218116,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Morocco","Two Parents","10% - 20%","c00_infant_mortality",3056,1.11256544502618,31.3937277240338,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Morocco","Two Parents","20% - 30%","c00_infant_mortality",3056,0.818062827225131,36.8903593849973,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Morocco","Two Parents","30% - 40%","c00_infant_mortality",3056,0.818062827225131,43.9585424341899,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Morocco","Two Parents","40% - 50%","c00_infant_mortality",3056,0.981675392670157,51.2655944780363,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Morocco","Two Parents","50% - 60%","c00_infant_mortality",3056,0.654450261780105,58.8425839281589,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Morocco","Two Parents","60% - 70%","c00_infant_mortality",3056,1.07984293193717,67.0810735618745,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Morocco","Two Parents","70% - 80%","c00_infant_mortality",3056,0.719895287958115,76.7495610763016,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Morocco","Two Parents","80% - 90%","c00_infant_mortality",3056,0.981675392670157,90.3888270857965,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Morocco","Two Parents","90% - 100%","c00_infant_mortality",3055,0.72013093289689,129.920262882801,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Suriname","Total","0% - 10%","c00_infant_mortality",2228,1.25673249551167,18.7761235833498,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Suriname","Total","10% - 20%","c00_infant_mortality",2228,1.16696588868941,27.8785004218566,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Suriname","Total","20% - 30%","c00_infant_mortality",2228,1.12208258527828,34.9588570775873,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Suriname","Total","30% - 40%","c00_infant_mortality",2228,1.03231597845601,44.3035490864506,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Suriname","Total","40% - 50%","c00_infant_mortality",2228,0.85278276481149,54.0676537253473,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Suriname","Total","50% - 60%","c00_infant_mortality",2228,0.538599640933573,64.0369571426498,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Suriname","Total","60% - 70%","c00_infant_mortality",2228,0.583482944344704,74.903248957469,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Suriname","Total","70% - 80%","c00_infant_mortality",2228,0.763016157989228,87.7535592937464,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Suriname","Total","80% - 90%","c00_infant_mortality",2227,0.583744948361024,105.523646644186,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","Suriname","Total","90% - 100%","c00_infant_mortality",2227,0.808262236192187,159.101184654022,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","With Migration Background","Total","0% - 10%","c00_infant_mortality",24366,0.98497906919478,19.1050551494146,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","With Migration Background","Total","10% - 20%","c00_infant_mortality",24366,1.06706065829434,28.814188194413,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","With Migration Background","Total","20% - 30%","c00_infant_mortality",24366,0.874168923910367,36.052901480638,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","With Migration Background","Total","30% - 40%","c00_infant_mortality",24366,0.751046540261019,45.3782641312204,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","With Migration Background","Total","40% - 50%","c00_infant_mortality",24366,0.734630222441106,55.0826381576013,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","With Migration Background","Total","50% - 60%","c00_infant_mortality",24366,0.742838381351063,65.057079423797,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","With Migration Background","Total","60% - 70%","c00_infant_mortality",24366,0.607403759336781,76.1892526968622,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","With Migration Background","Total","70% - 80%","c00_infant_mortality",24366,0.603299679881803,90.3024680194341,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","With Migration Background","Total","80% - 90%","c00_infant_mortality",24365,0.517135234968192,111.262918865433,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","With Migration Background","Total","90% - 100%","c00_infant_mortality",24365,0.447363020726452,183.074675661221,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","With Migration Background","Single Parent","0% - 10%","c00_infant_mortality",3826,0.705697856769472,13.0037506888646,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","With Migration Background","Single Parent","10% - 20%","c00_infant_mortality",3826,0.731834814427601,20.8456649711278,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","With Migration Background","Single Parent","20% - 30%","c00_infant_mortality",3826,0.862519602718244,24.5498740734356,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","With Migration Background","Single Parent","30% - 40%","c00_infant_mortality",3826,1.25457396759017,27.0407773787499,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","With Migration Background","Single Parent","40% - 50%","c00_infant_mortality",3826,0.993204391008887,29.3828496238313,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","With Migration Background","Single Parent","50% - 60%","c00_infant_mortality",3825,0.836601307189543,32.9841173860893,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","With Migration Background","Single Parent","60% - 70%","c00_infant_mortality",3825,0.679738562091503,38.6783193468688,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","With Migration Background","Single Parent","70% - 80%","c00_infant_mortality",3825,0.73202614379085,46.9455363805463,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","With Migration Background","Single Parent","80% - 90%","c00_infant_mortality",3825,0.73202614379085,60.2742305856449,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","With Migration Background","Single Parent","90% - 100%","c00_infant_mortality",3825,0.444444444444444,106.290831702294,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","With Migration Background","Two Parents","0% - 10%","c00_infant_mortality",20410,0.950514453699167,22.2926013860772,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","With Migration Background","Two Parents","10% - 20%","c00_infant_mortality",20409,0.881963839482581,33.312277723432,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","With Migration Background","Two Parents","20% - 30%","c00_infant_mortality",20409,0.76926845999314,42.8885048961809,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","With Migration Background","Two Parents","30% - 40%","c00_infant_mortality",20409,0.705571071586065,52.4713721501755,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","With Migration Background","Two Parents","40% - 50%","c00_infant_mortality",20409,0.685971875153119,61.6621489799879,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","With Migration Background","Two Parents","50% - 60%","c00_infant_mortality",20409,0.661472879611936,71.1654329202557,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","With Migration Background","Two Parents","60% - 70%","c00_infant_mortality",20409,0.563476897447205,82.177811791667,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","With Migration Background","Two Parents","70% - 80%","c00_infant_mortality",20409,0.529178303689549,96.2291446676723,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","With Migration Background","Two Parents","80% - 90%","c00_infant_mortality",20409,0.563476897447205,117.220352630872,NA,1,"Zuigelingensterfte"
+"The Netherlands","Men","With Migration Background","Two Parents","90% - 100%","c00_infant_mortality",20409,0.421382723308344,191.237115686712,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Total","Total","0% - 10%","c00_infant_mortality",72932,0.872045192782318,24.5786639299895,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Total","Total","10% - 20%","c00_infant_mortality",72932,0.743158010201283,40.3868768657937,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Total","Total","20% - 30%","c00_infant_mortality",72932,0.641693632424724,53.4392929885112,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Total","Total","30% - 40%","c00_infant_mortality",72932,0.619755388581144,63.4353308589782,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Total","Total","40% - 50%","c00_infant_mortality",72932,0.584105742335326,72.3252428776679,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Total","Total","50% - 60%","c00_infant_mortality",72932,0.564909778972193,81.363045024206,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Total","Total","60% - 70%","c00_infant_mortality",72932,0.536115833927494,91.6210635671392,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Total","Total","70% - 80%","c00_infant_mortality",72932,0.547084955849284,104.525655401925,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Total","Total","80% - 90%","c00_infant_mortality",72931,0.519669276439374,123.967915976827,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Total","Total","90% - 100%","c00_infant_mortality",72931,0.470307550972837,191.140907720347,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Total","Single Parent","0% - 10%","c00_infant_mortality",6051,0.627995372665675,14.7332643320302,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Total","Single Parent","10% - 20%","c00_infant_mortality",6051,0.644521566683193,22.343028746924,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Total","Single Parent","20% - 30%","c00_infant_mortality",6051,0.727152536770782,25.8664901764626,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Total","Single Parent","30% - 40%","c00_infant_mortality",6051,0.941993058998513,28.3211571058101,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Total","Single Parent","40% - 50%","c00_infant_mortality",6051,0.793257312840853,31.64358445314,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Total","Single Parent","50% - 60%","c00_infant_mortality",6051,0.694100148735746,37.0089321824895,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Total","Single Parent","60% - 70%","c00_infant_mortality",6051,0.694100148735746,44.1327066360585,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Total","Single Parent","70% - 80%","c00_infant_mortality",6050,0.545454545454545,53.7401550147518,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Total","Single Parent","80% - 90%","c00_infant_mortality",6050,0.545454545454545,68.6701204688319,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Total","Single Parent","90% - 100%","c00_infant_mortality",6050,0.446280991735537,119.129405824176,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Total","Two Parents","0% - 10%","c00_infant_mortality",66672,0.812934965202784,28.8933583735002,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Total","Two Parents","10% - 20%","c00_infant_mortality",66672,0.655447564194864,46.7789715529909,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Total","Two Parents","20% - 30%","c00_infant_mortality",66671,0.587961782484139,58.2935887443669,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Total","Two Parents","30% - 40%","c00_infant_mortality",66671,0.605960612560184,67.2421099760868,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Total","Two Parents","40% - 50%","c00_infant_mortality",66671,0.587961782484139,75.6150858780783,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Total","Two Parents","50% - 60%","c00_infant_mortality",66671,0.503967242129262,84.3497166144807,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Total","Two Parents","60% - 70%","c00_infant_mortality",66671,0.55646382985106,94.4592701012703,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Total","Two Parents","70% - 80%","c00_infant_mortality",66671,0.557963732357397,107.266030746235,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Total","Two Parents","80% - 90%","c00_infant_mortality",66671,0.497967632103913,126.732287041814,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Total","Two Parents","90% - 100%","c00_infant_mortality",66671,0.458970166939149,194.77429118968,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","No Migration Background","Total","0% - 10%","c00_infant_mortality",49815,0.744755595704105,32.055571524979,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","No Migration Background","Total","10% - 20%","c00_infant_mortality",49815,0.632339656729901,51.4834010404771,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","No Migration Background","Total","20% - 30%","c00_infant_mortality",49815,0.612265381913078,62.1762421160712,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","No Migration Background","Total","30% - 40%","c00_infant_mortality",49815,0.614272809394761,70.5494640212273,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","No Migration Background","Total","40% - 50%","c00_infant_mortality",49815,0.556057412425976,78.5155359773966,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","No Migration Background","Total","50% - 60%","c00_infant_mortality",49815,0.529960855164107,86.960724715719,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","No Migration Background","Total","60% - 70%","c00_infant_mortality",49815,0.531968282645789,96.8192397924475,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","No Migration Background","Total","70% - 80%","c00_infant_mortality",49815,0.572116832279434,109.315999309456,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","No Migration Background","Total","80% - 90%","c00_infant_mortality",49815,0.519923717755696,128.340842026027,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","No Migration Background","Total","90% - 100%","c00_infant_mortality",49814,0.481792267234111,194.261976605874,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","No Migration Background","Single Parent","0% - 10%","c00_infant_mortality",2415,0.455486542443064,17.195397886672,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","No Migration Background","Single Parent","10% - 20%","c00_infant_mortality",2414,0.704225352112676,24.4858049279129,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","No Migration Background","Single Parent","20% - 30%","c00_infant_mortality",2414,0.621375310687655,27.8611353991945,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","No Migration Background","Single Parent","30% - 40%","c00_infant_mortality",2414,0.745650372825186,31.7941612508336,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","No Migration Background","Single Parent","40% - 50%","c00_infant_mortality",2414,0.745650372825186,37.7301126250348,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","No Migration Background","Single Parent","50% - 60%","c00_infant_mortality",2414,0.579950289975145,44.5682945260417,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","No Migration Background","Single Parent","60% - 70%","c00_infant_mortality",2414,0.621375310687655,52.6742512738932,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","No Migration Background","Single Parent","70% - 80%","c00_infant_mortality",2414,0.621375310687655,63.5437719392009,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","No Migration Background","Single Parent","80% - 90%","c00_infant_mortality",2414,0.538525269262635,80.0744471361114,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","No Migration Background","Single Parent","90% - 100%","c00_infant_mortality",2414,0.455675227837614,139.065114639561,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","No Migration Background","Two Parents","0% - 10%","c00_infant_mortality",47318,0.682615495160404,36.278365725415,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","No Migration Background","Two Parents","10% - 20%","c00_infant_mortality",47318,0.566380658523184,54.6945585294541,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","No Migration Background","Two Parents","20% - 30%","c00_infant_mortality",47317,0.642475220322506,64.3924864666316,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","No Migration Background","Two Parents","30% - 40%","c00_infant_mortality",47317,0.555825601792168,72.3879045819069,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","No Migration Background","Two Parents","40% - 50%","c00_infant_mortality",47317,0.536804953822094,80.1368188701554,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","No Migration Background","Two Parents","50% - 60%","c00_infant_mortality",47317,0.532578143162077,88.4869820229184,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","No Migration Background","Two Parents","60% - 70%","c00_infant_mortality",47317,0.54103176448211,98.25380298881,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","No Migration Background","Two Parents","70% - 80%","c00_infant_mortality",47317,0.568506033772217,110.73530195569,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","No Migration Background","Two Parents","80% - 90%","c00_infant_mortality",47317,0.513557495192003,129.764047437613,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","No Migration Background","Two Parents","90% - 100%","c00_infant_mortality",47317,0.477629604581863,195.872137498485,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Turkey","Total","0% - 10%","c00_infant_mortality",2593,1.00269957578095,21.1543312698155,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Turkey","Total","10% - 20%","c00_infant_mortality",2593,0.578480524489009,30.3672745530415,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Turkey","Total","20% - 30%","c00_infant_mortality",2593,0.771307365985345,37.0915016085509,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Turkey","Total","30% - 40%","c00_infant_mortality",2593,0.809872734284612,44.2954458181786,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Turkey","Total","40% - 50%","c00_infant_mortality",2593,0.694176629386811,51.3842647825694,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Turkey","Total","50% - 60%","c00_infant_mortality",2592,0.501543209876543,58.4619974965673,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Turkey","Total","60% - 70%","c00_infant_mortality",2592,0.733024691358025,66.2135893775437,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Turkey","Total","70% - 80%","c00_infant_mortality",2592,0.694444444444444,75.6167366336206,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Turkey","Total","80% - 90%","c00_infant_mortality",2592,0.925925925925926,89.7272013501352,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Turkey","Total","90% - 100%","c00_infant_mortality",2592,0.501543209876543,133.069921820894,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Turkey","Two Parents","0% - 10%","c00_infant_mortality",2369,0.802026171380329,22.4376429774183,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Turkey","Two Parents","10% - 20%","c00_infant_mortality",2369,0.71760236386661,32.2491214883245,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Turkey","Two Parents","20% - 30%","c00_infant_mortality",2369,0.75981426762347,39.4895889003228,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Turkey","Two Parents","30% - 40%","c00_infant_mortality",2369,0.886449978894048,46.7174609472608,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Turkey","Two Parents","40% - 50%","c00_infant_mortality",2369,0.506542845082313,53.4961446362319,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Turkey","Two Parents","50% - 60%","c00_infant_mortality",2369,0.506542845082313,60.3843075134486,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Turkey","Two Parents","60% - 70%","c00_infant_mortality",2369,0.675390460109751,68.0409575458948,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Turkey","Two Parents","70% - 80%","c00_infant_mortality",2368,0.802364864864865,77.3594611479455,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Turkey","Two Parents","80% - 90%","c00_infant_mortality",2368,0.802364864864865,91.4822520956774,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Turkey","Two Parents","90% - 100%","c00_infant_mortality",2368,0.548986486486487,135.393103237223,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Morocco","Total","0% - 10%","c00_infant_mortality",3302,0.969109630526953,21.6661087064565,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Morocco","Total","10% - 20%","c00_infant_mortality",3301,1.21175401393517,29.629563476502,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Morocco","Total","20% - 30%","c00_infant_mortality",3301,0.84822780975462,34.3528719929324,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Morocco","Total","30% - 40%","c00_infant_mortality",3301,0.696758558012723,40.7126685600083,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Morocco","Total","40% - 50%","c00_infant_mortality",3301,0.878521660102999,48.1049718112994,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Morocco","Total","50% - 60%","c00_infant_mortality",3301,0.878521660102999,55.6413378143788,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Morocco","Total","60% - 70%","c00_infant_mortality",3301,0.575583156619206,63.8278537607399,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Morocco","Total","70% - 80%","c00_infant_mortality",3301,0.969403211148137,73.9970743700644,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Morocco","Total","80% - 90%","c00_infant_mortality",3301,0.817933959406241,87.8515668054018,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Morocco","Total","90% - 100%","c00_infant_mortality",3301,0.575583156619206,128.921056854336,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Morocco","Two Parents","0% - 10%","c00_infant_mortality",2921,1.23245463882232,23.3159753108635,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Morocco","Two Parents","10% - 20%","c00_infant_mortality",2921,0.821636425881547,31.3755178608875,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Morocco","Two Parents","20% - 30%","c00_infant_mortality",2921,0.650462170489558,36.8284076337828,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Morocco","Two Parents","30% - 40%","c00_infant_mortality",2921,0.684697021567956,43.7966827054291,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Morocco","Two Parents","40% - 50%","c00_infant_mortality",2921,1.09551523450873,51.117756849879,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Morocco","Two Parents","50% - 60%","c00_infant_mortality",2921,0.581992468332763,58.2960518466764,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Morocco","Two Parents","60% - 70%","c00_infant_mortality",2921,0.924340979116741,66.4418016811515,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Morocco","Two Parents","70% - 80%","c00_infant_mortality",2921,0.753166723724752,76.4256970200632,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Morocco","Two Parents","80% - 90%","c00_infant_mortality",2920,0.89041095890411,90.2352672965179,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","Morocco","Two Parents","90% - 100%","c00_infant_mortality",2920,0.513698630136986,131.888444883202,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","With Migration Background","Total","0% - 10%","c00_infant_mortality",23117,1.00791625210884,19.2009457299546,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","With Migration Background","Total","10% - 20%","c00_infant_mortality",23117,0.908422373145304,28.8515598294186,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","With Migration Background","Total","20% - 30%","c00_infant_mortality",23117,0.791625210883765,36.1030658377132,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","With Migration Background","Total","30% - 40%","c00_infant_mortality",23117,0.674828048622226,45.4465201187956,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","With Migration Background","Total","40% - 50%","c00_infant_mortality",23117,0.674828048622226,55.0648967952148,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","With Migration Background","Total","50% - 60%","c00_infant_mortality",23117,0.5969632737812,65.0119928714407,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","With Migration Background","Total","60% - 70%","c00_infant_mortality",23117,0.614266557079206,76.2331523814369,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","With Migration Background","Total","70% - 80%","c00_infant_mortality",23117,0.562356707185188,90.2229989666116,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","With Migration Background","Total","80% - 90%","c00_infant_mortality",23117,0.471514469870658,111.081418531485,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","With Migration Background","Total","90% - 100%","c00_infant_mortality",23116,0.449904827824883,182.31325657523,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","With Migration Background","Single Parent","0% - 10%","c00_infant_mortality",3637,0.687379708551004,13.5106708157299,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","With Migration Background","Single Parent","10% - 20%","c00_infant_mortality",3637,0.687379708551004,21.0986060495016,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","With Migration Background","Single Parent","20% - 30%","c00_infant_mortality",3637,0.714874896893044,24.7547637686358,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","With Migration Background","Single Parent","30% - 40%","c00_infant_mortality",3637,1.01732196865549,27.1411847154236,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","With Migration Background","Single Parent","40% - 50%","c00_infant_mortality",3637,0.989826780313445,29.3666521470527,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","With Migration Background","Single Parent","50% - 60%","c00_infant_mortality",3637,0.769865273577124,33.0078058820092,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","With Migration Background","Single Parent","60% - 70%","c00_infant_mortality",3636,0.632563256325633,38.7150663673066,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","With Migration Background","Single Parent","70% - 80%","c00_infant_mortality",3636,0.632563256325633,46.9273253473111,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","With Migration Background","Single Parent","80% - 90%","c00_infant_mortality",3636,0.495049504950495,60.0529334562049,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","With Migration Background","Single Parent","90% - 100%","c00_infant_mortality",3636,0.412541254125413,102.290396082368,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","With Migration Background","Two Parents","0% - 10%","c00_infant_mortality",19354,1.01271055079053,22.239797079961,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","With Migration Background","Two Parents","10% - 20%","c00_infant_mortality",19354,0.749199131962385,33.4068148680793,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","With Migration Background","Two Parents","20% - 30%","c00_infant_mortality",19354,0.66652888291826,42.9976447594115,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","With Migration Background","Two Parents","30% - 40%","c00_infant_mortality",19354,0.702697116875065,52.5111991445043,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","With Migration Background","Two Parents","40% - 50%","c00_infant_mortality",19354,0.573524852743619,61.6362203525552,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","With Migration Background","Two Parents","50% - 60%","c00_infant_mortality",19354,0.589025524439392,71.2282187535252,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","With Migration Background","Two Parents","60% - 70%","c00_infant_mortality",19354,0.59419241500465,82.2463559477672,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","With Migration Background","Two Parents","70% - 80%","c00_infant_mortality",19354,0.563191071613103,96.1190360994995,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","With Migration Background","Two Parents","80% - 90%","c00_infant_mortality",19354,0.470187041438462,117.101819871764,NA,1,"Zuigelingensterfte"
+"The Netherlands","Women","With Migration Background","Two Parents","90% - 100%","c00_infant_mortality",19354,0.413351245220626,190.993945413641,NA,1,"Zuigelingensterfte"
